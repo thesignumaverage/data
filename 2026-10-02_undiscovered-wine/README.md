@@ -1,6 +1,6 @@
 # Data for https://website.thesignumaverage.workers.dev/articles/undiscovered-wine/
 
-The datasets behind this article from The Signum Average. Each CSV in this folder is described below: what it covers, every column, its sources and how to cite it. Please also cite the original sources.
+The datasets behind this article from Signum Average. Each CSV in this folder is described below: what it covers, every column, its sources and how to cite it. Please also cite the original sources.
 
 ## suitable_land_by_country.csv
 
@@ -30,7 +30,7 @@ Sources:
 - FAO Global Map of Irrigation Areas v5 (Siebert et al., 2013): https://www.fao.org/aquastat/en/geospatial-information/global-maps-irrigated-areas/ (Used as a model input only; not redistributed)
 - Anderson, K., S. Nelgen and G. Puga, Database of Regional, National and Global Winegrape Bearing Areas by Variety, 2000 to 2023, University of Adelaide, December 2025: https://economics.adelaide.edu.au/wine-economics/databases (Free to use with citation)
 - Natural Earth admin 0 and admin 1 boundaries: https://www.naturalearthdata.com (Public domain)
-- The Signum Average calculations (CC BY 4.0)
+- Signum Average calculations (CC BY 4.0)
 
 Notes:
 
@@ -42,11 +42,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Farmland suited to vineyards, and the vines grown on it, by country" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/suitable_land_by_country.csv
+Signum Average (2026) - "Farmland suited to vineyards, and the vines grown on it, by country" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/suitable_land_by_country.csv
 
 ```bibtex
 @misc{signumaverage-suitable-land-by-country,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Farmland suited to vineyards, and the vines grown on it, by country},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/suitable_land_by_country.csv}},
@@ -76,7 +76,7 @@ Sources:
 - TerraClimate monthly normals, 1991-2020 (Abatzoglou et al., 2018): https://www.climatologylab.org/terraclimate.html (Public domain (CC0))
 - SoilGrids 2.0 (ISRIC; Poggio et al., 2021): https://soilgrids.org (CC BY 4.0)
 - Natural Earth admin 0 and admin 1 boundaries: https://www.naturalearthdata.com (Public domain)
-- The Signum Average calculations (CC BY 4.0)
+- Signum Average calculations (CC BY 4.0)
 
 Notes:
 
@@ -87,11 +87,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Farmland suited to vineyards, by province" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/suitable_land_by_province.csv
+Signum Average (2026) - "Farmland suited to vineyards, by province" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/suitable_land_by_province.csv
 
 ```bibtex
 @misc{signumaverage-suitable-land-by-province,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Farmland suited to vineyards, by province},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/suitable_land_by_province.csv}},
@@ -128,7 +128,7 @@ Sources:
 - OIV, State of the World Wine Sector in 2025 (May 2026): https://www.oiv.int/node/4879 (Figures cited from a public report)
 - Anderson, K. and V. Pinilla, Annual Database of Global Wine Markets, 1835 to 2024, University of Adelaide, April 2025: https://economics.adelaide.edu.au/wine-economics/databases (Free to use with citation)
 - Anderson, K., S. Nelgen and G. Puga, Database of Regional, National and Global Winegrape Bearing Areas by Variety, 2000 to 2023, University of Adelaide, December 2025: https://economics.adelaide.edu.au/wine-economics/databases (Free to use with citation)
-- The Signum Average calculations (CC BY 4.0)
+- Signum Average calculations (CC BY 4.0)
 
 Notes:
 
@@ -138,11 +138,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Wine market share and sales forgone by countries that plant little of their vineyard land" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/wine_market_share_forgone.csv
+Signum Average (2026) - "Wine market share and sales forgone by countries that plant little of their vineyard land" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/wine_market_share_forgone.csv
 
 ```bibtex
 @misc{signumaverage-wine-market-share-forgone,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Wine market share and sales forgone by countries that plant little of their vineyard land},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/wine_market_share_forgone.csv}},
@@ -174,11 +174,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "World wine production and consumption" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/world_wine_market.csv
+Signum Average (2026) - "World wine production and consumption" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/world_wine_market.csv
 
 ```bibtex
 @misc{signumaverage-world-wine-market,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {World wine production and consumption},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/world_wine_market.csv}},
@@ -214,11 +214,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Wine-grape area by country, 2000-2023" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/wine_grape_area_change.csv
+Signum Average (2026) - "Wine-grape area by country, 2000-2023" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/wine_grape_area_change.csv
 
 ```bibtex
 @misc{signumaverage-wine-grape-area-change,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Wine-grape area by country, 2000-2023},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/wine_grape_area_change.csv}},
@@ -243,7 +243,7 @@ Coverage: Six continents. Last updated: 2026-10-03.
 
 Sources:
 
-- The Signum Average calculations (CC BY 4.0)
+- Signum Average calculations (CC BY 4.0)
 
 Notes:
 
@@ -251,11 +251,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Vineyard-suitability model: continent hold-out test" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_holdout_test.csv
+Signum Average (2026) - "Vineyard-suitability model: continent hold-out test" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_holdout_test.csv
 
 ```bibtex
 @misc{signumaverage-model-holdout-test,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Vineyard-suitability model: continent hold-out test},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_holdout_test.csv}},
@@ -280,7 +280,7 @@ Coverage: 29 places. Last updated: 2026-10-03.
 
 Sources:
 
-- The Signum Average calculations (CC BY 4.0)
+- Signum Average calculations (CC BY 4.0)
 
 Notes:
 
@@ -288,11 +288,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Vineyard-suitability model: scores of known wine regions and control places" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_known_places.csv
+Signum Average (2026) - "Vineyard-suitability model: scores of known wine regions and control places" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_known_places.csv
 
 ```bibtex
 @misc{signumaverage-model-known-places,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Vineyard-suitability model: scores of known wine regions and control places},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_known_places.csv}},
@@ -334,7 +334,7 @@ Sources:
 - X-Wines (Azambuja, Morais and Filipe, 2023): https://github.com/rogerioxavier/X-Wines (CC0 1.0)
 - OpenStreetMap Nominatim geocoder: https://nominatim.openstreetmap.org (ODbL 1.0)
 - TerraClimate (1991-2020) and SoilGrids 2.0: https://www.climatologylab.org/terraclimate.html (Public domain; CC BY 4.0)
-- The Signum Average calculations (CC BY 4.0)
+- Signum Average calculations (CC BY 4.0)
 
 Notes:
 
@@ -344,11 +344,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Wine regions: consumer ratings with the climate and soil of their vineyards" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/rated_regions_climate_soil.csv
+Signum Average (2026) - "Wine regions: consumer ratings with the climate and soil of their vineyards" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/rated_regions_climate_soil.csv
 
 ```bibtex
 @misc{signumaverage-rated-regions-climate-soil,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Wine regions: consumer ratings with the climate and soil of their vineyards},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/rated_regions_climate_soil.csv}},
@@ -358,4 +358,4 @@ The Signum Average (2026) - "Wine regions: consumer ratings with the climate and
 
 ## Licence
 
-Our compilations and calculations are published under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/): you may copy, adapt and republish them for any purpose, as long as you credit The Signum Average. Third-party data keeps its original licence.
+Our compilations and calculations are published under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/): you may copy, adapt and republish them for any purpose, as long as you credit Signum Average. Third-party data keeps its original licence.

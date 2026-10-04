@@ -1,6 +1,6 @@
 # Data for https://website.thesignumaverage.workers.dev/articles/what-sanctions-cost-iranians/
 
-The datasets behind this article from The Signum Average. Each CSV in this folder is described below: what it covers, every column, its sources and how to cite it. Please also cite the original sources.
+The datasets behind this article from Signum Average. Each CSV in this folder is described below: what it covers, every column, its sources and how to cite it. Please also cite the original sources.
 
 ## iran_enriched_uranium_iaea.csv
 
@@ -33,11 +33,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Iran's enriched-uranium stockpile, with a source for every point" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_enriched_uranium_iaea.csv
+Signum Average (2026) - "Iran's enriched-uranium stockpile, with a source for every point" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_enriched_uranium_iaea.csv
 
 ```bibtex
 @misc{signumaverage-iran-enriched-uranium-iaea,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Iran's enriched-uranium stockpile, with a source for every point},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_enriched_uranium_iaea.csv}},
@@ -62,7 +62,7 @@ Coverage: 1995-2025. Last updated: 2026-10-02.
 Sources:
 
 - World Bank, World Development Indicators: GDP per capita, constant 2015 US$ (NY.GDP.PCAP.KD): https://data.worldbank.org/indicator/NY.GDP.PCAP.KD (CC BY 4.0)
-- The Signum Average: synthetic-control calculations (CC BY 4.0)
+- Signum Average: synthetic-control calculations (CC BY 4.0)
 
 Notes:
 
@@ -73,11 +73,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Iran vs "synthetic Iran": GDP per person gap" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/synthetic_control_gaps.csv
+Signum Average (2026) - "Iran vs "synthetic Iran": GDP per person gap" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/synthetic_control_gaps.csv
 
 ```bibtex
 @misc{signumaverage-synthetic-control-gaps,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Iran vs "synthetic Iran": GDP per person gap},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/synthetic_control_gaps.csv}},
@@ -108,11 +108,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Inflation, Iran vs peer oil producers" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_inflation_vs_peers.csv
+Signum Average (2026) - "Inflation, Iran vs peer oil producers" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_inflation_vs_peers.csv
 
 ```bibtex
 @misc{signumaverage-iran-inflation-vs-peers,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Inflation, Iran vs peer oil producers},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_inflation_vs_peers.csv}},
@@ -144,7 +144,7 @@ Sources:
 
 - World Bank, World Development Indicators: household final consumption expenditure per capita growth (NE.CON.PRVT.PC.KD.ZG): https://data.worldbank.org/indicator/NE.CON.PRVT.PC.KD.ZG (CC BY 4.0)
 - IMF Regional Economic Outlook: crude oil exports for Iran, via FRED (IRNNXGOCMBD); Energy Institute Statistical Review via Our World in Data for years before 2000; EIA Brent prices: https://fred.stlouisfed.org/series/IRNNXGOCMBD (Public data; see the source for terms)
-- The Signum Average: model estimates (CC BY 4.0)
+- Signum Average: model estimates (CC BY 4.0)
 
 Notes:
 
@@ -154,11 +154,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Oil revenue, sanctions and household consumption: 60 model estimates" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/spec_curve_results.csv
+Signum Average (2026) - "Oil revenue, sanctions and household consumption: 60 model estimates" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/spec_curve_results.csv
 
 ```bibtex
 @misc{signumaverage-spec-curve-results,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Oil revenue, sanctions and household consumption: 60 model estimates},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/spec_curve_results.csv}},
@@ -191,7 +191,7 @@ Sources:
 
 - World Bank, World Development Indicators: households and NPISHs final consumption expenditure per capita, constant 2015 US$ (NE.CON.PRVT.PC.KD): https://data.worldbank.org/indicator/NE.CON.PRVT.PC.KD (CC BY 4.0)
 - IMF World Economic Outlook Update, July 2026: https://www.imf.org/en/Publications/WEO (Figures cited from a public report)
-- The Signum Average: projections (CC BY 4.0)
+- Signum Average: projections (CC BY 4.0)
 
 Notes:
 
@@ -202,11 +202,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Household consumption in Iran: projections for 2026 and 2027 under three oil scenarios" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/outlook_scenarios.csv
+Signum Average (2026) - "Household consumption in Iran: projections for 2026 and 2027 under three oil scenarios" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/outlook_scenarios.csv
 
 ```bibtex
 @misc{signumaverage-outlook-scenarios,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Household consumption in Iran: projections for 2026 and 2027 under three oil scenarios},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/outlook_scenarios.csv}},
@@ -242,11 +242,11 @@ Notes:
 
 How to cite:
 
-The Signum Average (2026) - "Iran's economy in 2026: reported readings, with a source for every figure" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_2026_monitor.csv
+Signum Average (2026) - "Iran's economy in 2026: reported readings, with a source for every figure" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_2026_monitor.csv
 
 ```bibtex
 @misc{signumaverage-iran-2026-monitor,
-    author = {{The Signum Average}},
+    author = {{Signum Average}},
     title = {Iran's economy in 2026: reported readings, with a source for every figure},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_2026_monitor.csv}},
@@ -256,4 +256,4 @@ The Signum Average (2026) - "Iran's economy in 2026: reported readings, with a s
 
 ## Licence
 
-Our compilations and calculations are published under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/): you may copy, adapt and republish them for any purpose, as long as you credit The Signum Average. Third-party data keeps its original licence.
+Our compilations and calculations are published under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/): you may copy, adapt and republish them for any purpose, as long as you credit Signum Average. Third-party data keeps its original licence.
