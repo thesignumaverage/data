@@ -1,0 +1,31 @@
+date,total_kgU,heu60_kgU,near20_uf6_kgU,measure,raw_value,raw_unit,note,source
+2007-02-01,0,,,start,0,kgU,Natanz FEP begins operation (pilot plant output before this was lab-scale),IAEA GOV/2010/62 (FEP start Feb 2007)
+2008-11-17,567,,,cumulative_production,839,kg UF6,IAEA-verified LEU produced since Feb 2007 (no 20% yet so ~= stock),IAEA GOV/2009/8
+2009-10-30,1192,,,cumulative_production,1763,kg UF6,Iran estimate incl. IAEA-verified to Nov 2008,IAEA quarterly report Nov 2009
+2010-01-29,1396,,,cumulative_production,2065,kg UF6,,IAEA GOV/2010/10
+2010-05-01,1641,,,cumulative_production,2427,kg UF6,Upper bound: some LEU now fed into 20% cascades,IAEA quarterly report May 2010 via ISIS
+2010-10-31,2152,,,cumulative_production,3183,kg UF6,Upper bound as above,IAEA GOV/2010/62
+2013-11-14,4969,,132,uf6_stock,7350.3,kg UF6,7154.3 kg UF6 <5% + ~196 kg UF6 20% (UF6 form only),IAEA quarterly report Nov 2013
+2014-02-20,5252,,109,uf6_stock,7769.6,kg UF6,7609 kg UF6 <5% + 160.6 kg UF6 20%; JPOA in force,IAEA quarterly report Feb 2014
+2014-11-24,4999,,0,uf6_stock,7395,kg UF6,All 20% UF6 downblended/converted under JPOA; UF6 form only (oxide excluded),IAEA GOV/INF/2014/26
+2016-01-16,202.8,0,0,jcpoa_cap,300,kg UF6,Implementation Day: stock verified at or below JCPOA cap (300 kg UF6 = 202.8 kgU),IAEA Implementation Day verification Jan 2016; JCPOA text
+2019-05-20,202.8,0,0,jcpoa_cap,300,kg UF6,Still at or below cap; Iran exceeds it from July 2019,IAEA quarterly reports 2016-19
+2019-11-03,372.3,0,,total_all_forms,372.3,kgU,,IAEA quarterly report Nov 2019 via AP
+2020-02-19,1020.9,0,,total_all_forms,1020.9,kgU,,IAEA quarterly report Mar 2020 via AP
+2020-05-20,1571.6,0,,total_all_forms,1571.6,kgU,,IAEA quarterly report Jun 2020 via AP
+2020-08-25,2105.4,0,,total_all_forms,2105.4,kgU,,IAEA quarterly report Sep 2020 via AP
+2020-11-02,2442.9,0,,total_all_forms,2442.9,kgU,,IAEA quarterly report Nov 2020 via Al Jazeera
+2021-02-16,2967.8,0,17.6,total_all_forms,2967.8,kgU,,IAEA quarterly report Feb 2021 via AFP
+2021-05-22,3241,2.4,62.8,total_all_forms,3241,kgU,First 60% material,IAEA quarterly report May 2021 via Janes
+2021-08-30,,10,84.3,total_all_forms,,kgU,Total not recorded here,IAEA quarterly report Sep 2021 via AP
+2021-11-06,2489.7,17.7,113.8,total_all_forms,2489.7,kgU,Drop reflects conversion of LEU to other forms/feed,IAEA quarterly report Nov 2021 via AFP
+2022-05-15,3809.3,43.1,238.4,total_all_forms,3809.3,kgU,60% stock passes one IAEA significant quantity,IAEA quarterly report May 2022 via AFP
+2022-10-22,,62,,total_all_forms,,kgU,Total not recorded here,IAEA quarterly report Nov 2022 (approx. 62 kg as reported)
+2023-02-12,,87.5,434.7,total_all_forms,,kgU,Derived from May 2023 report deltas,IAEA quarterly report May 2023 via AFP
+2023-05-13,4744.5,114.1,470.9,total_all_forms,4744.5,kgU,,IAEA quarterly report May 2023 via AFP
+2023-10-28,4486.8,128.3,,total_all_forms,4486.8,kgU,Total derived: Feb 2024 total minus reported increase,IAEA quarterly report Feb 2024 via AP/VOA
+2024-02-10,5525.5,121.5,,total_all_forms,5525.5,kgU,60% dips after partial downblending,IAEA quarterly report Feb 2024 via AP/VOA
+2024-05-11,6201.3,142.1,751.3,total_all_forms,6201.3,kgU,,IAEA quarterly report May 2024 via AP
+2025-02-08,8294.4,274.8,,total_all_forms,8294.4,kgU,60% production surges from Dec 2024,IAEA quarterly report Feb 2025 via AP/ISIS
+2025-05-17,9247.6,408.6,274.5,total_all_forms,9247.6,kgU,,IAEA GOV/2025/24
+2025-06-13,9874.9,440.9,184.1,total_all_forms,9874.9,kgU,Day before military strikes; last IAEA estimate. Status unverified since,IAEA GOV/2025/50

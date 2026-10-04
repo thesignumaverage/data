@@ -1,0 +1,61 @@
+coding,start,drop2020,drop_war,lag,s,p,oil,p_oil,gap2020,n
+baseline (fraction of year),1981,False,False,False,-1.638,0.543,0.05,0.0,11.318,45
+baseline (fraction of year),1981,False,False,True,0.123,0.952,0.05,0.0,8.846,45
+baseline (fraction of year),1981,False,True,False,2.4,0.1,0.057,0.0,2.98,37
+baseline (fraction of year),1981,False,True,True,2.518,0.105,0.056,0.0,2.839,37
+baseline (fraction of year),1981,True,False,False,-1.836,0.491,0.052,0.0,12.045,44
+baseline (fraction of year),1981,True,False,True,-0.113,0.954,0.053,0.0,10.415,44
+baseline (fraction of year),1981,True,True,False,2.203,0.099,0.059,0.0,3.748,36
+baseline (fraction of year),1981,True,True,True,2.291,0.109,0.058,0.0,3.908,36
+baseline (fraction of year),1990,False,False,False,2.564,0.077,0.063,0.0,3.505,36
+baseline (fraction of year),1990,False,False,True,2.584,0.083,0.063,0.0,3.482,36
+baseline (fraction of year),1990,True,False,False,2.341,0.07,0.065,0.0,4.394,35
+baseline (fraction of year),1990,True,False,True,2.372,0.078,0.065,0.0,4.469,35
+full-year from announcement,1981,False,False,False,-4.522,0.069,0.048,0.0,22.599,45
+full-year from announcement,1981,False,False,True,-2.987,0.084,0.047,0.0,20.252,45
+full-year from announcement,1981,False,True,False,-0.707,0.377,0.053,0.0,10.179,37
+full-year from announcement,1981,False,True,True,-0.677,0.405,0.052,0.0,10.432,37
+full-year from announcement,1981,True,False,False,-4.688,0.06,0.05,0.0,23.544,44
+full-year from announcement,1981,True,False,True,-3.071,0.068,0.051,0.0,21.969,44
+full-year from announcement,1981,True,True,False,-0.835,0.285,0.056,0.0,11.054,36
+full-year from announcement,1981,True,True,True,-0.827,0.283,0.055,0.0,11.794,36
+full-year from announcement,1990,False,False,False,-0.484,0.517,0.059,0.0,10.389,36
+full-year from announcement,1990,False,False,True,-0.483,0.52,0.059,0.0,10.405,36
+full-year from announcement,1990,True,False,False,-0.624,0.418,0.062,0.0,11.375,35
+full-year from announcement,1990,True,False,True,-0.626,0.414,0.062,0.0,11.655,35
+include JPOA easing 2014-15 = 0.6,1981,False,False,False,-1.76,0.501,0.051,0.0,11.68,45
+include JPOA easing 2014-15 = 0.6,1981,False,False,True,-0.065,0.974,0.05,0.0,9.306,45
+include JPOA easing 2014-15 = 0.6,1981,False,True,False,2.094,0.139,0.056,0.0,3.483,37
+include JPOA easing 2014-15 = 0.6,1981,False,True,True,2.198,0.143,0.054,0.0,3.376,37
+include JPOA easing 2014-15 = 0.6,1981,True,False,False,-2.054,0.431,0.053,0.0,12.674,44
+include JPOA easing 2014-15 = 0.6,1981,True,False,True,-0.483,0.803,0.053,0.0,11.396,44
+include JPOA easing 2014-15 = 0.6,1981,True,True,False,1.81,0.168,0.058,0.0,4.438,36
+include JPOA easing 2014-15 = 0.6,1981,True,True,True,1.844,0.186,0.057,0.0,4.735,36
+include JPOA easing 2014-15 = 0.6,1990,False,False,False,2.204,0.125,0.061,0.0,4.11,36
+include JPOA easing 2014-15 = 0.6,1990,False,False,True,2.22,0.131,0.061,0.0,4.096,36
+include JPOA easing 2014-15 = 0.6,1990,True,False,False,1.878,0.152,0.064,0.0,5.226,35
+include JPOA easing 2014-15 = 0.6,1990,True,False,True,1.889,0.16,0.064,0.0,5.346,35
+2018 counted as sanctioned,1981,False,False,False,-4.14,0.08,0.049,0.0,21.382,45
+2018 counted as sanctioned,1981,False,False,True,-2.431,0.132,0.048,0.0,18.205,45
+2018 counted as sanctioned,1981,False,True,False,-0.241,0.818,0.054,0.0,8.749,37
+2018 counted as sanctioned,1981,False,True,True,-0.135,0.903,0.053,0.0,8.699,37
+2018 counted as sanctioned,1981,True,False,False,-4.355,0.068,0.051,0.0,22.517,44
+2018 counted as sanctioned,1981,True,False,True,-2.582,0.107,0.052,0.0,20.133,44
+2018 counted as sanctioned,1981,True,True,False,-0.439,0.671,0.057,0.0,9.836,36
+2018 counted as sanctioned,1981,True,True,True,-0.337,0.752,0.056,0.0,10.171,36
+2018 counted as sanctioned,1990,False,False,False,-0.06,0.951,0.06,0.0,9.083,36
+2018 counted as sanctioned,1990,False,False,True,-0.054,0.957,0.06,0.0,9.081,36
+2018 counted as sanctioned,1990,True,False,False,-0.279,0.778,0.063,0.0,10.309,35
+2018 counted as sanctioned,1990,True,False,True,-0.246,0.808,0.062,0.0,10.441,35
+lax enforcement 2021-25 = 0.5,1981,False,False,False,-2.7,0.409,0.045,0.003,13.066,45
+lax enforcement 2021-25 = 0.5,1981,False,False,True,0.423,0.884,0.051,0.001,8.246,45
+lax enforcement 2021-25 = 0.5,1981,False,True,False,2.118,0.27,0.061,0.0,4.177,37
+lax enforcement 2021-25 = 0.5,1981,False,True,True,2.692,0.267,0.061,0.0,3.327,37
+lax enforcement 2021-25 = 0.5,1981,True,False,False,-3.233,0.336,0.046,0.003,14.544,44
+lax enforcement 2021-25 = 0.5,1981,True,False,True,-0.194,0.945,0.053,0.001,10.56,44
+lax enforcement 2021-25 = 0.5,1981,True,True,False,1.666,0.334,0.062,0.0,5.348,36
+lax enforcement 2021-25 = 0.5,1981,True,True,True,2.228,0.305,0.062,0.0,4.776,36
+lax enforcement 2021-25 = 0.5,1990,False,False,False,2.866,0.152,0.069,0.0,3.742,36
+lax enforcement 2021-25 = 0.5,1990,False,False,True,3.057,0.202,0.069,0.0,3.463,36
+lax enforcement 2021-25 = 0.5,1990,True,False,False,2.385,0.177,0.07,0.0,4.99,35
+lax enforcement 2021-25 = 0.5,1990,True,False,True,2.63,0.215,0.07,0.0,4.753,35

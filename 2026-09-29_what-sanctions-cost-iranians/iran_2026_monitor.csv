@@ -1,0 +1,33 @@
+date,indicator,value,unit,note,source,url
+2025-12-31,rial_open_market,1420000,rials per US dollar,Record low reported for December 2025,Wikipedia: Iranian rial (citing press reports),https://en.wikipedia.org/wiki/Iranian_rial
+2026-04-30,rial_open_market,1900000,rials per US dollar,Record low reported in April 2026,Foreign Policy,https://foreignpolicy.com/2026/07/28/iran-war-economy-oil-sanctions-reconstruction/
+2026-08-24,rial_open_market,2050000,rials per US dollar,Day Operation Economic Outcast was unveiled,Iran International,https://www.iranintl.com/en/202608258553
+2026-09-05,rial_open_market,2200000,rials per US dollar,Early September,Al Jazeera,https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz
+2026-09-29,rial_open_market,2560000,rials per US dollar,,Wikipedia: Iranian rial (citing press reports),https://en.wikipedia.org/wiki/Iranian_rial
+2026-04-20,cpi_point_to_point,73.5,% on a year earlier,Farvardin 1405,Statistical Centre of Iran via Shabtab News,https://english.shabtabnews.com/2026/06/02/irans-one-year-goods-inflation-hits-84/
+2026-05-21,cpi_point_to_point,83.9,% on a year earlier,Ordibehesht 1405,Statistical Centre of Iran via Shabtab News,https://english.shabtabnews.com/2026/06/02/irans-one-year-goods-inflation-hits-84/
+2026-06-21,cpi_point_to_point,88.6,% on a year earlier,Khordad 1405,Statistical Centre of Iran via Euronews,https://www.euronews.com/2026/06/30/irans-inflation-spiral-deepens-as-rial-slides-and-tensions-rise
+2026-09-22,cpi_point_to_point,89.8,% on a year earlier,Shahrivar 1405,Statistical Centre of Iran via IranWire,https://iranwire.com/en/news/158322-irans-inflation-reaches-898-in-september-statistical-center/
+2026-05-21,cpi_month_on_month,8.8,% on previous month,Ordibehesht 1405,Statistical Centre of Iran via Shabtab News,https://english.shabtabnews.com/2026/06/02/irans-one-year-goods-inflation-hits-84/
+2026-06-21,cpi_month_on_month,5.9,% on previous month,Khordad 1405,Statistical Centre of Iran via Euronews,https://www.euronews.com/2026/06/30/irans-inflation-spiral-deepens-as-rial-slides-and-tensions-rise
+2026-09-22,cpi_month_on_month,4.2,% on previous month,Shahrivar 1405,Statistical Centre of Iran via IranWire,https://iranwire.com/en/news/158322-irans-inflation-reaches-898-in-september-statistical-center/
+2026-05-21,cpi_twelve_month_average,57.7,%,Ordibehesht 1405,Statistical Centre of Iran via Shabtab News,https://english.shabtabnews.com/2026/06/02/irans-one-year-goods-inflation-hits-84/
+2026-06-21,cpi_twelve_month_average,62.0,%,Khordad 1405,Statistical Centre of Iran via Euronews,https://www.euronews.com/2026/06/30/irans-inflation-spiral-deepens-as-rial-slides-and-tensions-rise
+2026-09-22,cpi_twelve_month_average,69.9,%,Shahrivar 1405,Statistical Centre of Iran via Al Jazeera,https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz
+2026-09-22,cpi_point_to_point_central_bank,83.8,% on a year earlier,Central Bank figure for September; 84.4 in August,Iran International,https://www.iranintl.com/en/202609266971
+2026-06-20,gdp_year_on_year,-10.1,%,Spring quarter 1405 (21 March-20 June 2026),Statistical Centre of Iran via Al Jazeera,https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz
+2026-06-20,oil_gas_sector_year_on_year,-26.4,%,Spring quarter 1405,Statistical Centre of Iran via Al Jazeera,https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz
+2026-01-31,crude_exports,1.51,million barrels per day,January 2026,UANI tanker tracker,https://www.unitedagainstnucleariran.com/issues/irans-oil-exports-and-shipping-activities
+2026-02-28,crude_exports,2.2,million barrels per day,February 2026; last full month before the war,UANI tanker tracker,https://www.unitedagainstnucleariran.com/issues/irans-oil-exports-and-shipping-activities
+2026-04-30,crude_exports,1.63,million barrels per day,April 2026 (Kpler estimate); blockade from 13 April,UANI tanker tracker citing Kpler,https://www.unitedagainstnucleariran.com/issues/irans-oil-exports-and-shipping-activities
+2026-05-31,crude_loadings,0.64,million barrels per day,May 2026 loadings; other trackers report close to zero exports,Middle East Forum citing Kpler,https://www.meforum.org/mef-observer/irans-oil-production-and-exports-enter-a-steep-decline
+2026-06-30,crude_exports,1.75,million barrels per day,June 2026; waiver from 17 June,UANI tanker tracker,https://www.unitedagainstnucleariran.com/analysis/june-2026-iran-tanker-tracker
+2026-06-30,crude_exports_year_to_date,230.1,million barrels,January-June 2026; estimated value $19.4bn,UANI tanker tracker,https://www.unitedagainstnucleariran.com/analysis/june-2026-iran-tanker-tracker
+2026-08-31,crude_loadings,0.24,million barrels per day,August 2026 (0.22-0.255); none crossed the blockade line after mid-July,Reuters and Kpler via RFE/RL,https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260908-rferl05.htm
+2026-09-30,crude_loadings,0,million barrels per day,September 2026: Kpler Vortexa and TankerTrackers all record no loadings,Bloomberg,https://www.bloomberg.com/news/articles/2026-10-01/iran-loaded-no-oil-onto-tankers-last-month-as-us-blockade-bites
+2026-07-15,floating_storage,90,million barrels,Iranian crude on tankers outside the blockade mid-July,Kpler via RFE/RL,https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260908-rferl05.htm
+2026-09-07,floating_storage,29,million barrels,,Kpler via RFE/RL,https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260908-rferl05.htm
+2026-09-28,floating_storage,15,million barrels,Late September,Kpler via Iran International,https://www.iranintl.com/en/202610014929
+2026-09-30,crude_production,1.8,million barrels per day,Cut to roughly domestic needs; about half the pre-war level,Kpler analyst via Iran International,https://www.iranintl.com/en/202610014929
+2026-07-31,imf_gdp_forecast_2026,-5.4,%,World Economic Outlook Update July 2026 (fiscal year); April forecast was -6.1,IMF,https://www.imf.org/en/Publications/WEO
+2026-07-31,imf_gdp_forecast_2027,2.9,%,World Economic Outlook Update July 2026 (fiscal year),IMF,https://www.imf.org/en/Publications/WEO
