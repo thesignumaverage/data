@@ -1,30 +1,33 @@
-place,lat,lon,score,share_of_wine_country_land_scoring_lower,test
-"Stellenbosch, South Africa",-33.93,18.86,0.984,0.998,strict
-"Marlborough, New Zealand",-41.52,173.85,0.934,0.981,strict
-"Central Otago, New Zealand",-45.03,169.2,0.276,0.893,neither
-"Napa, United States",38.5,-122.3,0.942,0.983,strict
-"Willamette, United States",45.2,-123.1,0.226,0.887,neither
-"Mendoza, Argentina",-33.0,-68.8,0.654,0.932,generous
-"Maipo, Chile",-33.7,-70.7,0.986,0.999,strict
-"Barossa, Australia",-34.5,139.0,0.989,1.0,strict
-"Bordeaux, France",44.9,-0.5,0.98,0.995,strict
-"Champagne, France",49.05,3.95,0.981,0.996,strict
-"Rioja, Spain",42.45,-2.45,0.984,0.998,strict
-"Mosel, Germany",49.9,6.9,0.914,0.977,strict
-"Sussex, England",50.9,0.1,0.269,0.892,neither
-"Kakheti, Georgia",41.7,45.8,0.975,0.992,strict
-"Ningxia, China",38.5,106.0,0.569,0.923,generous
-"Cappadocia, Turkey",38.6,34.8,0.264,0.892,neither
-"Shiraz, Iran",29.6,52.5,0.156,0.875,neither
-"Urmia, Iran",37.55,45.1,0.919,0.978,strict
-"Qazvin, Iran",36.2,50.0,0.929,0.98,strict
-"Samarkand, Uzbekistan",39.65,66.95,0.932,0.981,strict
-"Bekaa, Lebanon",33.85,35.9,0.633,0.929,generous
-"Meknes, Morocco",33.9,-5.5,0.41,0.907,neither
-"Nashik, India",20.0,73.8,0.002,0.656,neither
-Sahara (control),24.0,10.0,0.004,0.671,neither
-Amazon (control),-3.0,-60.0,0.004,0.671,neither
-Siberia (control),62.0,100.0,0.0,0.332,neither
-Kansas (control),38.5,-98.5,0.328,0.899,neither
-Guangdong (control),23.5,113.0,0.019,0.779,neither
-Iowa (control),42.0,-93.5,0.006,0.709,neither
+place,lat,lon,score,share_of_wine_country_land_scoring_lower,test,best_within_25km,test_within_25km
+"Stellenbosch, South Africa",-33.93,18.86,0.997,0.994,strict,0.999,strict
+"Marlborough, New Zealand",-41.52,173.85,0.948,0.931,neither,0.951,neither
+"Central Otago, New Zealand",-45.03,169.2,0.892,0.87,neither,0.952,generous
+"Napa, United States",38.5,-122.3,0.953,0.937,generous,0.992,strict
+"Willamette, United States",45.2,-123.1,0.868,0.844,neither,0.93,neither
+"Mendoza, Argentina",-33.0,-68.8,0.968,0.954,generous,0.97,generous
+"Maipo, Chile",-33.7,-70.7,1.0,0.999,strict,1.0,strict
+"Barossa, Australia",-34.5,139.0,0.989,0.98,strict,0.999,strict
+"Bordeaux, France",44.9,-0.5,0.997,0.994,strict,0.998,strict
+"Champagne, France",49.05,3.95,0.994,0.988,strict,0.995,strict
+"Rioja, Spain",42.45,-2.45,1.0,1.0,strict,1.0,strict
+"La Mancha, Spain",39.0,-3.4,0.996,0.992,strict,0.997,strict
+"Mosel, Germany",49.9,6.9,0.989,0.98,strict,0.99,strict
+"Sussex, England",50.9,0.1,0.958,0.942,generous,0.963,generous
+"Kakheti, Georgia",41.7,45.8,0.985,0.975,strict,0.999,strict
+"Ningxia, China",38.5,106.0,0.96,0.945,generous,0.97,generous
+"Thrace, Turkey",40.98,27.5,0.987,0.977,strict,0.995,strict
+"Aegean (Izmir), Turkey",38.4,27.3,0.968,0.954,generous,0.99,strict
+"Cappadocia, Turkey",38.6,34.8,0.953,0.937,generous,0.996,strict
+"Shiraz, Iran",29.6,52.5,0.884,0.861,neither,0.978,generous
+"Urmia, Iran",37.55,45.1,0.993,0.987,strict,0.995,strict
+"Qazvin, Iran",36.2,50.0,0.987,0.977,strict,0.991,strict
+"Samarkand, Uzbekistan",39.65,66.95,0.995,0.99,strict,0.995,strict
+"Bekaa, Lebanon",33.85,35.9,0.967,0.953,generous,0.992,strict
+"Meknes, Morocco",33.9,-5.5,0.958,0.943,generous,0.988,strict
+"Nashik, India",20.0,73.8,0.431,0.574,neither,0.816,neither
+Sahara (control),24.0,10.0,0.604,0.663,neither,0.724,neither
+Amazon (control),-3.0,-60.0,0.302,0.488,neither,0.324,neither
+Siberia (control),62.0,100.0,0.159,0.313,neither,0.164,neither
+Kansas (control),38.5,-98.5,0.855,0.83,neither,0.905,neither
+Guangdong (control),23.5,113.0,0.643,0.684,neither,0.717,neither
+Iowa (control),42.0,-93.5,0.693,0.711,neither,0.803,neither

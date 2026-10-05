@@ -1,1486 +1,1300 @@
 iso3,country,province,farmland_strict_ha,farmland_generous_ha,vines_ha
-RUS,Russia,Krasnodar,2546495.0,3077846.0,17636.0
-AUS,Australia,Victoria,2101636.0,3032046.0,15114.0
-UKR,Ukraine,Odessa,1775284.0,1786620.0,17935.0
-ARG,Argentina,Buenos Aires,1599094.0,4855216.0,2440.0
-RUS,Russia,Stavropol',1512837.0,1999019.0,7486.0
-AUS,Australia,South Australia,1430558.0,2453734.0,40011.0
-USA,United States of America,Colorado,1410324.0,1725850.0,331.0
-AUS,Australia,New South Wales,1320212.0,2222947.0,47386.0
-USA,United States of America,Texas,1294114.0,2488247.0,728.0
-USA,United States of America,California,1172729.0,2121541.0,298196.0
-USA,United States of America,Washington,1129848.0,1354703.0,39946.0
-USA,United States of America,Indiana,1069370.0,2374222.0,73.0
-USA,United States of America,Nebraska,1023260.0,3679802.0,37.0
-USA,United States of America,Idaho,962226.0,1143268.0,181.0
-TUR,Turkey,Konya,945583.0,1267439.0,29242.0
-USA,United States of America,Ohio,884451.0,2340796.0,222.0
-UKR,Ukraine,Vinnytsya,845111.0,1388209.0,2098.0
-DEU,Germany,Bayern,794210.0,1159242.0,6838.0
-AUS,Australia,Western Australia,771578.0,2036171.0,12732.0
-USA,United States of America,Kansas,732669.0,3223023.0,45.0
-IRN,Iran,Razavi Khorasan,721192.0,1014119.0,13062.0
-USA,United States of America,Tennessee,638191.0,1046156.0,73.0
-USA,United States of America,Pennsylvania,611948.0,968443.0,5200.0
-USA,United States of America,Kentucky,598562.0,1227843.0,66.0
-DEU,Germany,Sachsen-Anhalt,581575.0,839253.0,741.0
-USA,United States of America,North Carolina,571246.0,1338064.0,462.0
-IRN,Iran,Ardebil,567064.0,662402.0,8872.0
-ESP,Spain,Burgos,563151.0,583253.0,27684.0
-UKR,Ukraine,Khmel'nyts'kyy,547996.0,926026.0,1420.0
-USA,United States of America,Arkansas,536341.0,2076248.0,64.0
-USA,United States of America,Illinois,519921.0,3766956.0,77.0
-GRC,Greece,Kentriki Makedonia,509013.0,514007.0,12254.0
-ESP,Spain,Badajoz,503424.0,768804.0,51500.0
-UKR,Ukraine,Mykolayiv,501356.0,1049678.0,3529.0
-ESP,Spain,Valladolid,486904.0,486904.0,25043.0
-FRA,France,Marne,473081.0,473081.0,26037.0
-ESP,Spain,Ciudad Real,469181.0,632678.0,125736.0
-TUR,Turkey,Ankara,462473.0,707000.0,19346.0
-UKR,Ukraine,Kiev,461259.0,954328.0,1531.0
-USA,United States of America,Virginia,455042.0,518872.0,983.0
-ESP,Spain,Toledo,454862.0,578194.0,58388.0
-DEU,Germany,Sachsen,439535.0,497936.0,495.0
-USA,United States of America,Oregon,418348.0,558156.0,10876.0
-ESP,Spain,Palencia,412975.0,458895.0,19107.0
-AUT,Austria,Niederösterreich,410885.0,444790.0,30837.0
-ESP,Spain,Zaragoza,410868.0,500216.0,41752.0
-USA,United States of America,Missouri,408354.0,2376952.0,43.0
-RUS,Russia,Rostov,407342.0,3202789.0,5002.0
-FRA,France,Aisne,403192.0,408145.0,3351.0
-GRC,Greece,Thessalia,395636.0,409912.0,9886.0
-ESP,Spain,Albacete,395453.0,493609.0,39110.0
-ESP,Spain,Sevilla,394159.0,565381.0,26915.0
-TUR,Turkey,Afyonkarahisar,390145.0,493776.0,10358.0
-ROU,Romania,Constanta,386688.0,455577.0,19668.0
-FRA,France,Eure-et-Loir,385645.0,385645.0,409.0
-CZE,Czech Republic,Středočeský,384442.0,420360.0,313.0
-CHN,China,Hubei,381144.0,1130955.0,16998.0
-USA,United States of America,Maryland,376483.0,391237.0,184.0
-ROU,Romania,Timis,372947.0,469833.0,4586.0
-FRA,France,Yonne,366110.0,366110.0,9927.0
-UKR,Ukraine,Cherkasy,356158.0,996014.0,1466.0
-DEU,Germany,Baden-Württemberg,356149.0,510134.0,29833.0
-FRA,France,Gers,353862.0,353862.0,21256.0
-GRC,Greece,Anatoliki Makedonia kai Thraki,353401.0,354537.0,9100.0
-TUR,Turkey,Balikesir,353284.0,360125.0,8694.0
-SVK,Slovakia,Nitriansky,349738.0,349799.0,6065.0
-USA,United States of America,Utah,349101.0,387158.0,50.0
-RUS,Russia,Crimea,349028.0,806702.0,25392.0
-FRA,France,Aube,343592.0,346394.0,9896.0
-FRA,France,Charente-Maritime,342951.0,342951.0,40292.0
-ITA,Italy,Foggia,338469.0,341129.0,23668.0
-ESP,Spain,Cuenca,337825.0,604993.0,42043.0
-FRA,France,Vienne,335458.0,335458.0,3777.0
-ESP,Spain,Salamanca,332033.0,336703.0,18017.0
-FRA,France,Côte-d'Or,331800.0,331905.0,9769.0
-UKR,Ukraine,Kirovohrad,331692.0,1271192.0,1996.0
-ESP,Spain,Huesca,331264.0,385157.0,26489.0
-IND,India,Jammu and Kashmir,325822.0,413330.0,133.0
-ESP,Spain,León,323186.0,334327.0,17488.0
-ESP,Spain,Zamora,322559.0,323947.0,19782.0
-TUR,Turkey,Manisa,317506.0,431619.0,9292.0
-FRA,France,Deux-Sèvres,317307.0,317307.0,3117.0
-HUN,Hungary,Békés,315468.0,343368.0,8578.0
-FRA,France,Seien-et-Marne,311870.0,311870.0,1732.0
-FRA,France,Loiret,307276.0,307276.0,3047.0
-BGR,Bulgaria,Dobrich,306954.0,306954.0,5520.0
-FRA,France,Cher,300815.0,305181.0,6476.0
-DEU,Germany,Rheinland-Pfalz,298637.0,355782.0,68288.0
-FRA,France,Somme,293867.0,382615.0,378.0
-TUR,Turkey,Denizli,293310.0,321070.0,7205.0
-IRN,Iran,East Azarbaijan,292471.0,583955.0,12706.0
-FRA,France,Maine-et-Loire,288876.0,288876.0,22653.0
-ESP,Spain,Cáceres,287014.0,347353.0,30673.0
-ROU,Romania,Tulcea,285076.0,318794.0,10905.0
-IRN,Iran,Zanjan,282781.0,479587.0,3629.0
-TUR,Turkey,Kütahya,280058.0,322750.0,5425.0
-FRA,France,Oise,279491.0,282615.0,649.0
-IRN,Iran,West Azarbaijan,277128.0,502263.0,12091.0
-FRA,France,Lot-et-Garonne,276969.0,276969.0,10693.0
-GRC,Greece,Stereá Elláda,276469.0,278794.0,14036.0
-UKR,Ukraine,Chernivtsi,276369.0,307216.0,414.0
-FRA,France,Indre,276002.0,276002.0,2527.0
-PRT,Portugal,Beja,273504.0,274250.0,55888.0
-TUR,Turkey,Edirne,272973.0,282134.0,5359.0
-UKR,Ukraine,Kherson,272016.0,776528.0,2057.0
-IRN,Iran,Qazvin,270592.0,308415.0,7707.0
-ESP,Spain,Lérida,270065.0,289930.0,20383.0
-ESP,Spain,Navarra,269814.0,295107.0,31218.0
-ROU,Romania,Bihor,268480.0,276457.0,8713.0
-TUR,Turkey,Çorum,267885.0,384681.0,8783.0
-USA,United States of America,Arizona,267452.0,334059.0,2874.0
-TUR,Turkey,Tekirdag,266224.0,266224.0,5993.0
-HUN,Hungary,Bács-Kiskun,265947.0,328884.0,19702.0
-TUR,Turkey,Eskisehir,264527.0,380630.0,7780.0
-TUR,Turkey,Bursa,264250.0,272349.0,5458.0
-FRA,France,Indre-et-Loire,257161.0,257161.0,10930.0
-USA,United States of America,Alabama,256345.0,318324.0,46.0
-FRA,France,Haute-Garonne,254957.0,255127.0,4852.0
-ROU,Romania,Arad,252916.0,289720.0,3936.0
-FRA,France,Charente,249411.0,249411.0,48812.0
-UKR,Ukraine,Dnipropetrovs'k,246114.0,1155515.0,2223.0
-ROU,Romania,Vaslui,244070.0,288009.0,20332.0
-FRA,France,Ille-et-Vilaine,242490.0,244793.0,526.0
-MAR,Morocco,Gharb - Chrarda - Béni Hssen,241353.0,365871.0,2874.0
-FRA,France,Loir-et-Cher,241346.0,241346.0,7369.0
-FRA,France,Vendée,239102.0,239102.0,2636.0
-HUN,Hungary,Somogy,237521.0,245773.0,4155.0
-UZB,Uzbekistan,Tashkent,236127.0,251093.0,2104.0
-RUS,Russia,Adygey,232374.0,232744.0,392.0
-CZE,Czech Republic,Jihomoravský,230787.0,244849.0,14984.0
-CHL,Chile,Maule,230013.0,243548.0,59848.0
-SVK,Slovakia,Trnavský,229400.0,229400.0,2511.0
-FRA,France,Meuse,227247.0,227247.0,50.0
-TUR,Turkey,Kirklareli,226432.0,228551.0,4692.0
-HUN,Hungary,Hajdú-Bihar,226326.0,248209.0,6086.0
-UZB,Uzbekistan,Samarkand,225196.0,242757.0,0.0
-ESP,Spain,Soria,222784.0,307832.0,22213.0
-UKR,Ukraine,Ternopil',222440.0,542510.0,904.0
-FRA,France,Sarthe,222151.0,222151.0,2735.0
-ESP,Spain,Granada,221087.0,263129.0,23477.0
-ROU,Romania,Dolj,219649.0,287990.0,22673.0
-DEU,Germany,Thüringen,219239.0,390289.0,88.0
-ZAF,South Africa,Western Cape,219188.0,270190.0,130891.0
-DEU,Germany,Nordrhein-Westfalen,219115.0,513671.0,28.0
-ESP,Spain,Murcia,217880.0,239766.0,25776.0
-MAR,Morocco,Tanger - Tétouan,216125.0,282420.0,2074.0
-TUR,Turkey,Samsun,215124.0,297179.0,5939.0
-DEU,Germany,Hessen,214397.0,348795.0,3573.0
-DEU,Germany,Niedersachsen,211111.0,512257.0,39.0
-SRB,Republic of Serbia,Južno-Backi,211053.0,211053.0,2841.0
-UKR,Ukraine,Poltava,208728.0,965511.0,2097.0
-ITA,Italy,Perugia,207936.0,208730.0,19439.0
-HUN,Hungary,Baranya,207835.0,207835.0,4832.0
-ESP,Spain,Segovia,204921.0,224400.0,15163.0
-TUR,Turkey,Usak,204155.0,205677.0,4024.0
-FRA,France,Gironde,203621.0,203621.0,119819.0
-HUN,Hungary,Tolna,202374.0,202374.0,4363.0
-IRN,Iran,Hamadan,198790.0,487131.0,4428.0
-HUN,Hungary,Gyor-Moson-Sopron,196604.0,196604.0,3730.0
-HUN,Hungary,Fejér,194620.0,207015.0,3540.0
-SRB,Republic of Serbia,Južno-Banatski,193909.0,193909.0,2724.0
-HUN,Hungary,Szabolcs-Szatmár-Bereg,192361.0,220904.0,3062.0
-IRN,Iran,Markazi,191046.0,300440.0,2938.0
-ESP,Spain,Cádiz,189995.0,234179.0,8571.0
-MAR,Morocco,Doukkala - Abda,189303.0,270404.0,4254.0
-FRA,France,Haute-Marne,187770.0,187770.0,157.0
-TUR,Turkey,Amasya,185870.0,210250.0,4342.0
-HUN,Hungary,Pest,185299.0,203025.0,2448.0
-RUS,Russia,Kabardin-Balkar,185270.0,212187.0,1877.0
-FRA,France,Eure,184895.0,235050.0,741.0
-ESP,Spain,Córdoba,184351.0,365974.0,19524.0
-FRA,France,Loire-Atlantique,183052.0,183052.0,10396.0
-USA,United States of America,South Carolina,182043.0,478115.0,60.0
-TUR,Turkey,Çanakkale,181289.0,184968.0,5526.0
-FRA,France,Mayenne,180537.0,180537.0,384.0
-TUR,Turkey,Izmir,178750.0,254658.0,6344.0
-USA,United States of America,Oklahoma,178009.0,475487.0,7.0
-ROU,Romania,Satu Mare,177375.0,227671.0,10161.0
-FRA,France,Moselle,174833.0,174833.0,352.0
-FRA,France,Landes,174768.0,174768.0,8591.0
-FRA,France,Orne,173588.0,195751.0,1568.0
-CHL,Chile,Libertador General Bernardo O'Higgins,171650.0,183855.0,43292.0
-TUR,Turkey,Antalya,170782.0,259242.0,5205.0
-HUN,Hungary,Jász-Nagykun-Szolnok,170447.0,322846.0,6877.0
-MAR,Morocco,Taza - Al Hoceima - Taounate,170335.0,297459.0,3504.0
-SRB,Republic of Serbia,Sremski,170197.0,170197.0,1948.0
-ITA,Italy,Potenza,168837.0,174864.0,16919.0
-FRA,France,Nièvre,168291.0,170006.0,2580.0
-USA,United States of America,New Mexico,168153.0,270334.0,86.0
-ROU,Romania,Braila,166741.0,314453.0,6701.0
-HUN,Hungary,Borsod-Abaúj-Zemplén,166575.0,213327.0,8410.0
-PRT,Portugal,Évora,166399.0,166399.0,33430.0
-AUS,Australia,Queensland,166004.0,260845.0,38659.0
-BGR,Bulgaria,Plovdiv,165460.0,168455.0,5099.0
-ROU,Romania,Botosani,164996.0,258784.0,4027.0
-SRB,Republic of Serbia,Srednje-Banatski,164737.0,164737.0,2025.0
-BGR,Bulgaria,Burgas,164424.0,187311.0,3360.0
-FRA,France,Dordogne,164232.0,164232.0,13948.0
-FRA,France,Meurthe-et-Moselle,163288.0,163288.0,225.0
-TUR,Turkey,Burdur,163165.0,190952.0,3787.0
-ESP,Spain,Guadalajara,162817.0,295124.0,29827.0
-ESP,Spain,Málaga,162716.0,162716.0,11142.0
-GRC,Greece,Dytiki Ellada,161275.0,165663.0,12376.0
-DEU,Germany,Brandenburg,160167.0,698647.0,39.0
-BGR,Bulgaria,Varna,160124.0,160124.0,2680.0
-BGR,Bulgaria,Vratsa,159305.0,207346.0,2245.0
-MAR,Morocco,Oriental,159245.0,198603.0,1480.0
-USA,United States of America,Wyoming,158406.0,310586.0,1.0
-ROU,Romania,Olt,158201.0,177219.0,14031.0
-ITA,Italy,Mantova,158039.0,158039.0,10563.0
-FRA,France,Tarn,157838.0,186800.0,6488.0
-TUR,Turkey,Tokat,157479.0,202192.0,5042.0
-GRC,Greece,Dytiki Makedonia,156768.0,161999.0,6056.0
-HRV,Croatia,Osjecko-Baranjska,156253.0,156253.0,5358.0
-FRA,France,Saône-et-Loire,156180.0,156180.0,12199.0
-TUR,Turkey,Karaman,155929.0,200856.0,5093.0
-ITA,Italy,Matera,155702.0,155702.0,13038.0
-ESP,Spain,Jaén,154650.0,230288.0,17469.0
-FRA,France,Tarn-et-Garonne,153958.0,162090.0,3933.0
-ESP,Spain,Ávila,153793.0,167758.0,11141.0
-AUT,Austria,Burgenland,152124.0,156122.0,11513.0
-ITA,Italy,Roma,150945.0,151478.0,15573.0
-IRN,Iran,Gilan,150575.0,231948.0,2733.0
-UKR,Ukraine,Transcarpathia,150550.0,186607.0,1083.0
-ITA,Italy,Ferrara,150153.0,150153.0,8939.0
-ITA,Italy,Pavia,149752.0,150850.0,11599.0
-ITA,Italy,Cuneo,148651.0,151688.0,15298.0
-CZE,Czech Republic,Ústecký,147879.0,152177.0,592.0
-ITA,Italy,Bologna,146667.0,147660.0,11559.0
-FRA,France,Bas-Rhin,146375.0,146607.0,7293.0
-HUN,Hungary,Csongrád,146363.0,178779.0,4275.0
-UZB,Uzbekistan,Jizzakh,145824.0,240689.0,676.0
-BGR,Bulgaria,Yambol,145318.0,222535.0,2621.0
-FRA,France,Ardennes,145062.0,157740.0,110.0
-ROU,Romania,Teleorman,143853.0,250384.0,23009.0
-GRC,Greece,Peloponnisos,142757.0,143591.0,13801.0
-KAZ,Kazakhstan,South Kazakhstan,142166.0,398590.0,3951.0
-HUN,Hungary,Vas,141996.0,142360.0,3386.0
-FRA,France,Aude,140592.0,140611.0,93405.0
-CHL,Chile,Región Metropolitana de Santiago,139190.0,141056.0,26522.0
-TUR,Turkey,Mersin,137534.0,225054.0,5581.0
-UZB,Uzbekistan,Kashkadarya,137315.0,367029.0,11151.0
-ESP,Spain,Valencia,137012.0,167138.0,18904.0
-TUR,Turkey,Isparta,136953.0,163354.0,3900.0
-ESP,Spain,Barcelona,136214.0,138836.0,18624.0
-DZA,Algeria,Sétif,135736.0,203691.0,5337.0
-USA,United States of America,Delaware,135711.0,158712.0,10.0
-IRN,Iran,Fars,135477.0,354363.0,16432.0
-FRA,France,Drôme,135362.0,140464.0,20110.0
-FRA,France,Nord,134767.0,187249.0,621.0
-TUR,Turkey,Nevsehir,134553.0,173744.0,5092.0
-ITA,Italy,Alessandria,134234.0,134803.0,10456.0
-CHN,China,Chongqing,134186.0,579584.0,10105.0
-ESP,Spain,Huelva,134017.0,156806.0,8306.0
-FRA,France,Allier,133521.0,155864.0,2038.0
-ITA,Italy,Viterbo,132674.0,135362.0,12940.0
-ESP,Spain,Tarragona,131780.0,140017.0,10774.0
-USA,United States of America,Nevada,131636.0,152221.0,7.0
-SRB,Republic of Serbia,Severno-Banatski,130618.0,130618.0,1693.0
-DZA,Algeria,Souk Ahras,130413.0,149930.0,123.0
-RUS,Russia,Belgorod,129975.0,873090.0,1652.0
-SRB,Republic of Serbia,Zapadno-Backi,129055.0,129055.0,1737.0
-PRT,Portugal,Portalegre,128792.0,128792.0,23835.0
-RUS,Russia,Chechnya,127766.0,166462.0,1516.0
-ITA,Italy,Siena,127390.0,127463.0,12767.0
-TJK,Tajikistan,Leninabad,126837.0,218024.0,7415.0
-TUR,Turkey,K. Maras,126675.0,252030.0,7175.0
-HUN,Hungary,Veszprém,125851.0,125851.0,10586.0
-TUR,Turkey,Aksaray,125417.0,205074.0,5471.0
-SVK,Slovakia,Košický,124671.0,160441.0,2194.0
-IRN,Iran,Esfahan,124332.0,194255.0,4773.0
-ITA,Italy,Avellino,124144.0,124144.0,9242.0
-ESP,Spain,La Rioja,123809.0,126364.0,49170.0
-ITA,Italy,Grosseto,123622.0,123622.0,13744.0
-TUR,Turkey,Yozgat,122902.0,407276.0,12124.0
-BGR,Bulgaria,Shumen,122393.0,135006.0,1613.0
-BGR,Bulgaria,Stara Zagora,121562.0,154265.0,1563.0
-FRA,France,Hérault,121045.0,121185.0,92265.0
-USA,United States of America,Montana,120964.0,654611.0,3.0
-CZE,Czech Republic,Olomoucký,119995.0,129434.0,111.0
-FRA,France,Haute-Saône,118737.0,118922.0,171.0
-BGR,Bulgaria,Razgrad,117519.0,144669.0,275.0
-RUS,Russia,Kursk,116911.0,559161.0,1596.0
-BGR,Bulgaria,Vidin,116650.0,118353.0,1996.0
-ITA,Italy,Rovigo,116484.0,116484.0,7270.0
-FRA,France,Pyrénées-Atlantiques,115793.0,116854.0,3466.0
-UZB,Uzbekistan,Namangan,113630.0,170642.0,1230.0
-ITA,Italy,Verona,113509.0,115205.0,18486.0
-TUR,Turkey,Kinkkale,113219.0,186553.0,4305.0
-ESP,Spain,Madrid,113195.0,160846.0,15039.0
-HUN,Hungary,Heves,113166.0,127629.0,7548.0
-ITA,Italy,Campobasso,112028.0,112028.0,8700.0
-RUS,Russia,Dagestan,111480.0,154606.0,5354.0
-HRV,Croatia,Vukovarsko-Srijemska,111142.0,111142.0,3573.0
-AUT,Austria,Steiermark,111134.0,116083.0,5385.0
-ITA,Italy,Padova,110886.0,110886.0,8337.0
-FRA,France,Gard,110325.0,111410.0,67919.0
-TUN,Tunisia,Jendouba,109915.0,211694.0,848.0
-ITA,Italy,Turin,108720.0,114083.0,13532.0
-SRB,Republic of Serbia,Severno-Backi,107918.0,107918.0,1412.0
-ROU,Romania,Bacau,106093.0,164398.0,12254.0
-FRA,France,Pas-de-Calais,105769.0,298260.0,581.0
-FRA,France,Haute-Rhin,105391.0,108471.0,10232.0
-DZA,Algeria,Mila,105358.0,138829.0,413.0
-BGR,Bulgaria,Haskovo,105313.0,125405.0,1042.0
-PRT,Portugal,Santarém,104949.0,104949.0,9085.0
-SRB,Republic of Serbia,Branicevski,104168.0,105739.0,405.0
-ESP,Spain,Baleares,104155.0,104764.0,4700.0
-SRB,Republic of Serbia,Grad Beograd,103926.0,103926.0,596.0
-TUR,Turkey,Kirsehir,103026.0,186250.0,5365.0
-ITA,Italy,Cremona,102635.0,102635.0,7990.0
-FRA,France,Ain,99569.0,100473.0,1282.0
-CZE,Czech Republic,Královéhradecký,99528.0,111859.0,28.0
-FRA,France,Isère,98781.0,99694.0,1328.0
-IRN,Iran,North Khorasan,98376.0,145058.0,2788.0
-BGR,Bulgaria,Pleven,98318.0,130424.0,4569.0
-CHN,China,Hunan,98081.0,510506.0,17732.0
-BGR,Bulgaria,Silistra,97259.0,171555.0,1557.0
-ITA,Italy,Cosenza,96612.0,105788.0,12624.0
-ESP,Spain,Alicante,96278.0,100924.0,10611.0
-ITA,Italy,Venezia,96081.0,96081.0,7390.0
-BGR,Bulgaria,Montana,95811.0,138164.0,1694.0
-SRB,Republic of Serbia,Macvanski,95570.0,96432.0,675.0
-MAR,Morocco,Marrakech - Tensift - Al Haouz,94636.0,324843.0,5630.0
-ITA,Italy,Cagliari,94587.0,94759.0,10343.0
-IRN,Iran,Kerman,94274.0,270630.0,6916.0
-PAK,Pakistan,K.P.,94110.0,183981.0,0.0
-ITA,Italy,Ravenna,94097.0,94097.0,17361.0
-DZA,Algeria,Sidi Bel Abbès,94070.0,145914.0,6965.0
-UKR,Ukraine,Zaporizhzhya,93807.0,573223.0,2223.0
-ESP,Spain,Gerona,93783.0,94494.0,6311.0
-GRC,Greece,Kriti,93720.0,95834.0,7770.0
-ITA,Italy,Benevento,93301.0,93301.0,7374.0
-TUR,Turkey,Sakarya,93062.0,99095.0,2458.0
-SYR,Syria,Rif Dimashq,93034.0,152808.0,2529.0
-USA,United States of America,Mississippi,92929.0,774586.0,1.0
-ITA,Italy,Piacenza,92548.0,93053.0,7471.0
-ITA,Italy,Brescia,91577.0,93891.0,8652.0
-ROU,Romania,Mehedinti,91005.0,130840.0,12556.0
-UKR,Ukraine,Ivano-Frankivs'k,90637.0,255793.0,345.0
-ITA,Italy,Bari,90495.0,90495.0,12842.0
-UZB,Uzbekistan,Sirdaryo,90188.0,187892.0,3.0
-FRA,France,Aveyron,89982.0,96470.0,1356.0
-TUR,Turkey,Kastamonu,89903.0,127353.0,4576.0
-ITA,Italy,Treviso,89030.0,90384.0,17570.0
-ESP,Spain,Teruel,88616.0,164635.0,29482.0
-RUS,Russia,North Ossetia,88255.0,101496.0,840.0
-ITA,Italy,Sassari,88084.0,88084.0,11010.0
-HUN,Hungary,Zala,88059.0,88059.0,2705.0
-ITA,Italy,Ancona,87663.0,87663.0,7619.0
-HUN,Hungary,Komárom-Esztergom,87115.0,87115.0,2237.0
-MAR,Morocco,Tadla - Azilal,86865.0,279060.0,3569.0
-TUN,Tunisia,Bizerte,86835.0,191637.0,5652.0
-USA,United States of America,New Jersey,86816.0,130438.0,269.0
-TUR,Turkey,Aydin,85579.0,209431.0,4833.0
-UZB,Uzbekistan,Andijon,85578.0,146173.0,5.0
-ROU,Romania,Salaj,85502.0,85502.0,4684.0
-MDA,Moldova,Comrat,84605.0,84605.0,5804.0
-BGR,Bulgaria,Targovishte,84592.0,90077.0,781.0
-ITA,Italy,Pesaro e Urbino,84579.0,84702.0,9494.0
-PRT,Portugal,Setúbal,84225.0,84429.0,10628.0
-ITA,Italy,Vercelli,84193.0,84300.0,6294.0
-ROU,Romania,Galati,83761.0,285470.0,23176.0
-IRN,Iran,Lorestan,83698.0,347837.0,8570.0
-PRT,Portugal,Bragança,83460.0,85686.0,4360.0
-FRA,France,Yvelines,83180.0,83180.0,463.0
-TJK,Tajikistan,Tadzhikistan Territories,82481.0,114431.0,9697.0
-ROU,Romania,Iasi,82236.0,207925.0,11523.0
-LBN,Lebanon,Beqaa,82140.0,128249.0,3221.0
-TUR,Turkey,Kocaeli,81936.0,82393.0,1478.0
-FRA,France,Morbihan,81847.0,185906.0,917.0
-ITA,Italy,Palermo,80851.0,81051.0,706.0
-FRA,France,Essonne,80742.0,80742.0,388.0
-DZA,Algeria,Guelma,80519.0,120318.0,75.0
-ITA,Italy,Salerno,80469.0,82448.0,9689.0
-ITA,Italy,Caserta,79590.0,80164.0,8694.0
-FRA,France,Bouches-du-Rhône,78721.0,78965.0,19441.0
-GEO,Georgia,Kakheti,78691.0,80958.0,8863.0
-DZA,Algeria,Constantine,78477.0,95136.0,61.0
-ITA,Italy,Udine,78455.0,83227.0,10135.0
-ESP,Spain,Almería,78363.0,105286.0,10138.0
-DZA,Algeria,Tlemcen,77899.0,167048.0,6282.0
-DZA,Algeria,Médéa,77486.0,141970.0,100.0
-CZE,Czech Republic,Jihočeský,77339.0,137111.0,9178.0
-ROU,Romania,Caras-Severin,77234.0,89564.0,1557.0
-CZE,Czech Republic,Zlínský,76368.0,77764.0,1098.0
-CZE,Czech Republic,Vysočina,76297.0,149857.0,2429.0
-CZE,Czech Republic,Pardubický,76028.0,115070.0,31.0
-CHN,China,Zhejiang,75003.0,412969.0,24266.0
-BGR,Bulgaria,Ruse,74707.0,130442.0,1073.0
-ITA,Italy,Vicenza,74690.0,76417.0,7554.0
-ITA,Italy,Macerata,74443.0,75187.0,7754.0
-ITA,Italy,Parma,74209.0,77213.0,7474.0
-ITA,Italy,Pisa,73093.0,73093.0,8035.0
-DZA,Algeria,Oum el Bouaghi,72896.0,124211.0,30.0
-FRA,France,Vaucluse,72638.0,81138.0,46348.0
-TUR,Turkey,Bilecik,72433.0,98126.0,2108.0
-MDA,Moldova,Causeni,72164.0,72164.0,3504.0
-DZA,Algeria,Skikda,72158.0,81553.0,2364.0
-TUR,Turkey,Istanbul,70799.0,70862.0,1703.0
-RUS,Russia,Voronezh,70441.0,1259445.0,2318.0
-TUR,Turkey,Malatya,70082.0,105736.0,5005.0
-ITA,Italy,Oristrano,70076.0,70076.0,8988.0
-ITA,Italy,Arezzo,69838.0,71895.0,8152.0
-ITA,Italy,Modena,69792.0,70133.0,6453.0
-ITA,Italy,Terni,69465.0,69520.0,7020.0
-DZA,Algeria,Bouira,69244.0,109857.0,419.0
-ITA,Italy,Frosinone,69174.0,70909.0,7759.0
-GRC,Greece,Ipeiros,69140.0,111841.0,1973.0
-MDA,Moldova,Ștefan Vodă,68783.0,68783.0,2472.0
-FRA,France,Puy-de-Dôme,68638.0,100443.0,623.0
-ITA,Italy,Caltanissetta,68623.0,68623.0,881.0
-SRB,Republic of Serbia,Šumadijski,68316.0,68646.0,222.0
-RUS,Russia,Karachay-Cherkess,67603.0,90489.0,363.0
-SVK,Slovakia,Bratislavský,67212.0,67212.0,2907.0
-IRN,Iran,Kermanshah,66824.0,636374.0,12516.0
-IND,India,Himachal Pradesh,66074.0,191149.0,513.0
-PRT,Portugal,Castelo Branco,65283.0,65332.0,4382.0
-MAR,Morocco,Meknès - Tafilalet,64982.0,281027.0,4283.0
-ITA,Italy,Reggio Emilia,64870.0,66302.0,8299.0
-PAK,Pakistan,Baluchistan,64514.0,209017.0,13946.0
-MAR,Morocco,Rabat - Salé - Zemmour - Zaer,64290.0,276091.0,3286.0
-SRB,Republic of Serbia,Kolubarski,63673.0,65878.0,236.0
-UZB,Uzbekistan,Ferghana,63612.0,230490.0,4268.0
-BGR,Bulgaria,Sliven,63597.0,90922.0,1563.0
-MEX,Mexico,Chihuahua,63353.0,211907.0,392.0
-CHN,China,Anhui,62689.0,307916.0,17343.0
-AUS,Australia,Tasmania,62633.0,114796.0,1018.0
-MDA,Moldova,Făleşti,62517.0,62517.0,3594.0
-TUR,Turkey,Nigde,62440.0,112662.0,3848.0
-ITA,Italy,Chieti,61961.0,62546.0,18121.0
-SRB,Republic of Serbia,Pomoravski,61749.0,62919.0,205.0
-TUR,Turkey,Çankiri,61567.0,85127.0,3332.0
-FRA,France,Rhône,61476.0,61764.0,16305.0
-ITA,Italy,Firenze,61300.0,62255.0,12043.0
-MAR,Morocco,Souss - Massa - Draâ,61291.0,116682.0,1441.0
-BIH,Bosnia and Herzegovina,Doboj,60878.0,60878.0,278.0
-FRA,France,Jura,60809.0,62149.0,2469.0
-CHL,Chile,Ñuble,60579.0,105981.0,11093.0
-ITA,Italy,Forlì-Cesena,60573.0,61462.0,6106.0
-TUR,Turkey,Giresun,60375.0,78308.0,1767.0
-ITA,Italy,Latina,60194.0,60194.0,6563.0
-SRB,Republic of Serbia,Borski,60178.0,62830.0,979.0
-SRB,Republic of Serbia,Nišavski,60138.0,60138.0,230.0
-FRA,France,Haute-Vienne,58983.0,58983.0,1249.0
-RUS,Russia,Ingush,58981.0,59569.0,449.0
-ITA,Italy,Enna,58859.0,58859.0,3.0
-MDA,Moldova,Cahul,58605.0,58605.0,3739.0
-FRA,France,Vosges,57645.0,59647.0,70.0
-HUN,Hungary,Nógrád,57425.0,61217.0,381.0
-TUR,Turkey,Mugla,57332.0,116597.0,3816.0
-FRA,France,Lot,57322.0,57795.0,5842.0
-HRV,Croatia,Viroviticko-Podravska,57036.0,67456.0,2346.0
-BIH,Bosnia and Herzegovina,Tuzla,56730.0,57242.0,290.0
-TUR,Turkey,Sinop,56235.0,86688.0,2083.0
-ITA,Italy,Crotene,56133.0,56133.0,4958.0
-MDA,Moldova,Edineţ,56083.0,56083.0,3353.0
-CHN,China,Shaanxi,55820.0,460527.0,27308.0
-AZE,Azerbaijan,Cəlilabad,55814.0,55814.0,357.0
-BGR,Bulgaria,Pazardzhik,55586.0,58160.0,667.0
-MDA,Moldova,Sîngerei,55487.0,55487.0,3851.0
-ITA,Italy,Taranto,54962.0,54962.0,7832.0
-DZA,Algeria,Batna,54782.0,136827.0,213.0
-ROU,Romania,Vrancea,54521.0,162012.0,29441.0
-MAR,Morocco,Chaouia - Ouardigha,54264.0,126485.0,5608.0
-DZA,Algeria,Tiaret,54218.0,87870.0,2081.0
-MDA,Moldova,Hîncesti,54129.0,54129.0,4282.0
-ROU,Romania,Cluj,53988.0,110159.0,2095.0
-MAR,Morocco,Fès - Boulemane,53834.0,165446.0,1345.0
-MDA,Moldova,Rîşcani,53642.0,53642.0,3093.0
-ITA,Italy,Medio Campidano,53626.0,53626.0,4702.0
-ITA,Italy,Teramo,53585.0,54908.0,5831.0
-CHL,Chile,Valparaíso,53545.0,56312.0,22434.0
-ESP,Spain,Álava,53453.0,77164.0,5792.0
-ITA,Italy,Barletta-Andria Trani,53140.0,53140.0,5937.0
-SRB,Republic of Serbia,Podunavski,53136.0,53136.0,363.0
-DZA,Algeria,Mostaganem,52935.0,78283.0,3934.0
-ROU,Romania,Calarasi,52888.0,353185.0,7007.0
-PRT,Portugal,Guarda,52428.0,61273.0,5985.0
-SVK,Slovakia,Trenciansky,52017.0,70993.0,120.0
-ITA,Italy,Novara,51900.0,51900.0,4172.0
-ROU,Romania,Giurgiu,51678.0,198190.0,8992.0
-MDA,Moldova,Drochia,51578.0,53854.0,2915.0
-AFG,Afghanistan,Badakhshan,51459.0,110403.0,5928.0
-HUN,Hungary,Hódmezôvásárhely,51163.0,53670.0,1518.0
-ITA,Italy,Asti,50880.0,50880.0,6017.0
-MDA,Moldova,Ungheni,50729.0,50729.0,3192.0
-MDA,Moldova,Briceni,50280.0,50280.0,1987.0
-FRA,France,Ardèche,49900.0,50540.0,10586.0
-MDA,Moldova,Cimişlia,49779.0,49779.0,4109.0
-SRB,Republic of Serbia,Pomoravski,49449.0,51276.0,78.0
-MDA,Moldova,Taraclia,49399.0,49399.0,2758.0
-GRC,Greece,Voreio Aigaio,49123.0,49839.0,2581.0
-FRA,France,Creuse,49094.0,50304.0,1025.0
-FRA,France,Loire,49077.0,51619.0,1383.0
-TJK,Tajikistan,Khatlon,49071.0,154038.0,13326.0
-ITA,Italy,Catania,49031.0,49304.0,641.0
-ITA,Italy,Nuoro,48561.0,49052.0,7576.0
-ITA,Italy,Pordenone,48512.0,49135.0,5715.0
-CHN,China,Guizhou,47962.0,1755674.0,13469.0
-MDA,Moldova,Glodeni,47132.0,47132.0,2620.0
-SRB,Republic of Serbia,Zajecarski,47117.0,53017.0,143.0
-HRV,Croatia,Brodsko-Posavska,47000.0,48405.0,1524.0
-TUN,Tunisia,Le Kef,46911.0,137844.0,113.0
-ITA,Italy,Lecce,46175.0,46175.0,8655.0
-ROU,Romania,Suceava,46119.0,140615.0,146.0
-ITA,Italy,L'Aquila,45800.0,59252.0,9227.0
-BIH,Bosnia and Herzegovina,Bijeljina,45491.0,45491.0,202.0
-MEX,Mexico,Baja California,44995.0,156654.0,7128.0
-FRA,France,Hautes-Pyrénées,44690.0,44966.0,1239.0
-HRV,Croatia,Brodsko-Posavska,44512.0,50388.0,1559.0
-UKR,Ukraine,Chernihiv,44407.0,316910.0,2735.0
-SRB,Republic of Serbia,Jablanicki,44331.0,47183.0,91.0
-PRT,Portugal,Lisboa,43992.0,44649.0,6719.0
-DZA,Algeria,Saïda,43522.0,56476.0,170.0
-RUS,Russia,Volgograd,43503.0,1180622.0,1663.0
-MDA,Moldova,Floreşti,43478.0,43478.0,2726.0
-CZE,Czech Republic,Moravskoslezský,43132.0,78988.0,1.0
-PRT,Portugal,Faro,42938.0,43202.0,3838.0
-MDA,Moldova,Soroca,42887.0,42887.0,2039.0
-MDA,Moldova,Orhei,42836.0,42836.0,3680.0
-PAK,Pakistan,Azad Kashmir,42705.0,71455.0,36.0
-FRA,France,Val-d'Oise,42684.0,42684.0,315.0
-DZA,Algeria,Mascara,42554.0,83979.0,8339.0
-SRB,Republic of Serbia,Moravicki,42439.0,43280.0,92.0
-UKR,Ukraine,Zhytomyr,42420.0,339670.0,1437.0
-ESP,Spain,Castellón,42319.0,69378.0,9137.0
-MDA,Moldova,Cantemir,42259.0,42259.0,2689.0
-PAK,Pakistan,F.A.T.A.,41829.0,73208.0,60.0
-AZE,Azerbaijan,Biləsuvar,41567.0,42187.0,458.0
-TUR,Turkey,Kayseri,41238.0,165417.0,10603.0
-ITA,Italy,Milano,40758.0,41056.0,3533.0
-ITA,Italy,Bergamo,40692.0,41348.0,3812.0
-FRA,France,Pyrénées-Orientales,40465.0,41384.0,34908.0
-LBY,Libya,Al Marj,40354.0,68733.0,2995.0
-IRN,Iran,Mazandaran,40281.0,106952.0,4113.0
-ITA,Italy,Lodi,40275.0,40275.0,3470.0
-MDA,Moldova,Teleneşti,40269.0,40269.0,3391.0
-GRC,Greece,Attiki,40244.0,43723.0,2954.0
-TUN,Tunisia,Kassérine,40098.0,143905.0,4.0
-FRA,France,Ariège,40066.0,40266.0,797.0
-RUS,Russia,Kalmyk,39988.0,78971.0,183.0
-TUR,Turkey,Bolu,39824.0,76639.0,3317.0
-FRA,France,Calvados,39041.0,110431.0,659.0
-ITA,Italy,Agrigento,38979.0,44372.0,522.0
-DZA,Algeria,Oran,38903.0,63175.0,2477.0
-POL,Poland,Lesser Poland,38784.0,146918.0,134.0
-CHL,Chile,Coquimbo,38562.0,42091.0,12508.0
-GEO,Georgia,Kvemo Kartli,38399.0,51390.0,6164.0
-MDA,Moldova,Donduseni,38249.0,38249.0,2352.0
-ROU,Romania,Ialomita,37925.0,257377.0,6558.0
-USA,United States of America,West Virginia,37899.0,48357.0,16.0
-KGZ,Kyrgyzstan,Batken,37873.0,58432.0,453.0
-FRA,France,Côtes-d'Armor,37849.0,167946.0,675.0
-AZE,Azerbaijan,Şəki,37617.0,38926.0,468.0
-BGR,Bulgaria,Blagoevgrad,37586.0,41274.0,926.0
-FRA,France,Var,37424.0,37424.0,30066.0
-IRN,Iran,Kordestan,37397.0,454355.0,5020.0
-ITA,Italy,Brindisi,37225.0,37225.0,6579.0
-ROU,Romania,Maramures,36562.0,53692.0,1655.0
-MDA,Moldova,Criuleni,36486.0,36486.0,2949.0
-TUR,Turkey,Trabzon,36007.0,50125.0,892.0
-POL,Poland,Greater Poland,35965.0,151210.0,24.0
-FRA,France,Alpes-de-Haute-Provence,35922.0,36555.0,3312.0
-BIH,Bosnia and Herzegovina,Banja Luka,35594.0,112162.0,648.0
-USA,United States of America,Georgia,35300.0,147504.0,964.0
-CHE,Switzerland,Vaud,35224.0,48236.0,3980.0
-MDA,Moldova,Anenii Noi,35123.0,35123.0,3039.0
-HRV,Croatia,Zadarska,35105.0,38946.0,950.0
-ITA,Italy,Olbia-Tempio,34990.0,34990.0,3839.0
-PRT,Portugal,Braga,34876.0,35162.0,1146.0
-TUR,Turkey,Zinguldak,34834.0,42421.0,778.0
-DZA,Algeria,Bordj Bou Arréridj,34645.0,46666.0,107.0
-UZB,Uzbekistan,Navoi,34407.0,77966.0,0.0
-MDA,Moldova,Leova,34141.0,34141.0,2359.0
-ITA,Italy,Catanzaro,34101.0,39462.0,4604.0
-KGZ,Kyrgyzstan,Jalal-Abad,33790.0,95814.0,1095.0
-ITA,Italy,Pescara,33708.0,33993.0,3536.0
-UKR,Ukraine,Rivne,33495.0,319473.0,681.0
-FRA,France,Manche,33298.0,57591.0,549.0
-AZE,Azerbaijan,Ağcabədi,33106.0,33251.0,423.0
-POL,Poland,Subcarpathian,32773.0,198631.0,125.0
-IRN,Iran,Chahar Mahall and Bakhtiari,32646.0,115224.0,2691.0
-MDA,Moldova,Bender,32602.0,32602.0,2660.0
-DZA,Algeria,Blida,32355.0,33883.0,2036.0
-PRT,Portugal,Coimbra,31725.0,31949.0,791.0
-DZA,Algeria,Béjaïa,31492.0,40541.0,763.0
-ITA,Italy,Trapani,31456.0,33003.0,8112.0
-SRB,Republic of Serbia,Toplicki,31162.0,32090.0,107.0
-FRA,France,Doubs,31082.0,36950.0,81.0
-ZAF,South Africa,Northern Cape,30940.0,42655.0,65396.0
-MDA,Moldova,Grigoriopol,30884.0,30884.0,2175.0
-ALB,Albania,Korçë,30822.0,35385.0,1129.0
-AZE,Azerbaijan,İmişli,30637.0,32498.0,469.0
-CHN,China,Guangxi,30485.0,108555.0,130.0
-ITA,Italy,Rieti,30362.0,35584.0,4789.0
-GEO,Georgia,Shida Kartli,30173.0,38372.0,3783.0
-TUN,Tunisia,Nabeul,30056.0,151557.0,4908.0
-AZE,Azerbaijan,Xaçmaz,29750.0,29750.0,371.0
-TUR,Turkey,Bartın,29398.0,29523.0,538.0
-ITA,Italy,Reggio Calabria,29264.0,48499.0,5938.0
-AZE,Azerbaijan,Sabirabad,29193.0,29851.0,506.0
-IRN,Iran,Semnan,29185.0,58236.0,1431.0
-DZA,Algeria,Tissemsilt,29032.0,40129.0,502.0
-AFG,Afghanistan,Baghlan,28938.0,67467.0,0.0
-ITA,Italy,Fermo,28935.0,29486.0,2685.0
-TUN,Tunisia,Béja,28697.0,112731.0,1587.0
-ITA,Italy,Livorno,28382.0,28385.0,2851.0
-AZE,Azerbaijan,Füzuli,28224.0,28224.0,121.0
-AFG,Afghanistan,Kunar,27996.0,40502.0,140.0
-TUR,Turkey,Sivas,27874.0,125387.0,12747.0
-MDA,Moldova,Ocniţa,27815.0,27815.0,1653.0
-AZE,Azerbaijan,Şəmkir,27638.0,32238.0,799.0
-UZB,Uzbekistan,Surkhandarya,27515.0,87929.0,0.0
-BGR,Bulgaria,Kardzhali,27121.0,27121.0,306.0
-MDA,Moldova,Nisporeni,26989.0,26989.0,2157.0
-AFG,Afghanistan,Takhar,26753.0,79946.0,1635.0
-MDA,Moldova,Rezina,26725.0,26725.0,2342.0
-SRB,Republic of Serbia,Pcinjski,26585.0,29555.0,66.0
-BIH,Bosnia and Herzegovina,Posavina,26224.0,26224.0,219.0
-TUR,Turkey,Artvin,26118.0,38547.0,940.0
-ITA,Italy,Ragusa,25890.0,25890.0,1145.0
-SRB,Republic of Serbia,Zlatiborski,25563.0,42588.0,48.0
-PRT,Portugal,Vila Real,25512.0,36594.0,20839.0
-IRN,Iran,Kohgiluyeh and Buyer Ahmad,25240.0,91819.0,2028.0
-TUR,Turkey,Adana,25218.0,65925.0,8873.0
-TUR,Turkey,Karabük,25142.0,39867.0,1436.0
-PRT,Portugal,Porto,25132.0,29917.0,1172.0
-ROU,Romania,Buzau,25126.0,130213.0,18987.0
-AZE,Azerbaijan,Beyləqan,24783.0,24783.0,428.0
-MDA,Moldova,Camenca,24780.0,24780.0,1959.0
-UKR,Ukraine,Kiev City,24750.0,34476.0,43.0
-KGZ,Kyrgyzstan,Osh,24657.0,100973.0,786.0
-ITA,Italy,Carbonia-Iglesias,24497.0,24497.0,3331.0
-DEU,Germany,Saarland,24443.0,28244.0,4.0
-ITA,Italy,Ascoli Piceno,23966.0,24278.0,2870.0
-ESP,Spain,Lugo,23945.0,71955.0,11573.0
-MDA,Moldova,Străşeni,23832.0,23832.0,2256.0
-FRA,France,Corrèze,23803.0,25446.0,809.0
-IRN,Iran,Alborz,23733.0,40517.0,856.0
-UKR,Ukraine,Sumy,23618.0,59847.0,1418.0
-ROU,Romania,Neamt,23385.0,117471.0,2004.0
-PRT,Portugal,Leiria,23263.0,23894.0,909.0
-AZE,Azerbaijan,Saatlı,23170.0,23170.0,271.0
-ITA,Italy,Rimini,22990.0,23113.0,2442.0
-HUN,Hungary,Debrecen,22895.0,24902.0,762.0
-ITA,Italy,Siracusa,22544.0,22544.0,393.0
-DZA,Algeria,El Tarf,22263.0,41491.0,1438.0
-MDA,Moldova,Şoldăneşti,21664.0,21664.0,1780.0
-PRT,Portugal,Aveiro,21297.0,21963.0,628.0
-MDA,Moldova,Călărași,21011.0,21011.0,2065.0
-SRB,Republic of Serbia,Raški,20515.0,25451.0,31.0
-ISR,Israel,HaZafon,20419.0,59245.0,4264.0
-AZE,Azerbaijan,Goranboy,20405.0,24135.0,835.0
-HRV,Croatia,Splitsko-Dalmatinska,20367.0,20623.0,516.0
-CZE,Czech Republic,Plzeňský,20310.0,51677.0,46.0
-MDA,Moldova,Stîngă Nistrului,20192.0,20192.0,1666.0
-FRA,France,Haute-Loire,20008.0,26633.0,200.0
-AZE,Azerbaijan,Bərdə,19917.0,19917.0,274.0
-IRN,Iran,Golestan,19881.0,91472.0,5910.0
-DZA,Algeria,Tipaza,19858.0,36291.0,2098.0
-KOS,Kosovo,Lipljan,19852.0,19852.0,170.0
-MDA,Moldova,Rezina,19851.0,19851.0,1713.0
-TUR,Turkey,Düzce,19530.0,27498.0,544.0
-GEO,Georgia,Imereti,19383.0,59278.0,3426.0
-AZE,Azerbaijan,Ağsu,19324.0,19324.0,743.0
-AFG,Afghanistan,Faryab,19248.0,93013.0,5410.0
-AZE,Azerbaijan,Ağstafa,19174.0,19174.0,522.0
-TUR,Turkey,Ordu,19131.0,88872.0,1386.0
-DZA,Algeria,Jijel,18943.0,20444.0,58.0
-ROU,Romania,Prahova,18687.0,75197.0,13168.0
-MKD,Macedonia,Kumanovo,18617.0,19444.0,848.0
-AZE,Azerbaijan,Xocavənd,18581.0,18978.0,212.0
-AZE,Azerbaijan,İsmayıllı,18566.0,20484.0,298.0
-USA,United States of America,South Dakota,18554.0,122149.0,0.0
-KOS,Kosovo,Srbica,18542.0,18542.0,43.0
-AFG,Afghanistan,Nangarhar,18472.0,48149.0,287.0
-AZE,Azerbaijan,Dəvəçi,18456.0,20215.0,164.0
-AZE,Azerbaijan,Hajigabul,18447.0,20184.0,152.0
-CHE,Switzerland,Zürich,18406.0,24397.0,1399.0
-ZAF,South Africa,Eastern Cape,18280.0,61438.0,1384.0
-ROU,Romania,Alba,18221.0,66690.0,4913.0
-AZE,Azerbaijan,Salyan,18181.0,18282.0,283.0
-BIH,Bosnia and Herzegovina,Una-Sana,18147.0,40953.0,262.0
-AZE,Azerbaijan,Kürdəmir,17991.0,21484.0,268.0
-BGR,Bulgaria,Lovech,17751.0,42015.0,618.0
-DZA,Algeria,Boumerdès,17673.0,30219.0,2121.0
-AZE,Azerbaijan,Qəbələ,17627.0,18405.0,77.0
-AZE,Azerbaijan,Ağdaş,17583.0,17583.0,134.0
-ITA,Italy,Vibo Valentia,17503.0,20887.0,2285.0
-AZE,Azerbaijan,Tovuz,17479.0,22996.0,717.0
-AZE,Azerbaijan,Zaqatala,17368.0,17957.0,224.0
-NZL,New Zealand,Canterbury,17302.0,74925.0,5257.0
-AZE,Azerbaijan,Neftçala,17281.0,19441.0,271.0
-MDA,Moldova,Ialoveni,17265.0,17265.0,4397.0
-ROU,Romania,Hunedoara,17250.0,40127.0,998.0
-HUN,Hungary,Székesfehérvár,17234.0,17234.0,118.0
-BIH,Bosnia and Herzegovina,Vlasenica,17070.0,18704.0,143.0
-AZE,Azerbaijan,Qusar,17069.0,17963.0,184.0
-ITA,Italy,Biella,16848.0,16848.0,1804.0
-POL,Poland,Świętokrzyskie,16844.0,100550.0,29.0
-CZE,Czech Republic,Liberecký,16815.0,23359.0,213.0
-MDA,Moldova,Basarabeasca,16588.0,16588.0,1263.0
-AFG,Afghanistan,Kapisa,16562.0,22313.0,0.0
-GRC,Greece,Ionioi Nisoi,16550.0,16572.0,1386.0
-SVK,Slovakia,Banskobystrický,16452.0,58742.0,1880.0
-AZE,Azerbaijan,Yevlakh Rayon,16272.0,16507.0,160.0
-CHE,Switzerland,Bern,16180.0,27671.0,2357.0
-ITA,Italy,Belluno,16110.0,18691.0,4202.0
-CHE,Switzerland,Aargau,15888.0,20723.0,1031.0
-MKD,Macedonia,Staro Nagoričane,15802.0,19838.0,746.0
-AZE,Azerbaijan,Göyçay,15613.0,15613.0,122.0
-ROU,Romania,Arges,15491.0,68810.0,3401.0
-ALB,Albania,Elbasan,15334.0,28014.0,45.0
-ALB,Albania,Berat,15276.0,19590.0,194.0
-PAK,Pakistan,Northern Areas,15257.0,27812.0,7.0
-ALB,Albania,Gjirokastër,15174.0,21559.0,70.0
-TUR,Turkey,Elazig,15059.0,72261.0,4012.0
-SRB,Republic of Serbia,Pirotski,14952.0,26349.0,15.0
-KOS,Kosovo,Vučitrn,14942.0,14942.0,51.0
-ITA,Italy,Trento,14867.0,17676.0,10352.0
-ITA,Italy,Lucca,14585.0,15591.0,2369.0
-AZE,Azerbaijan,Oğuz,14431.0,14923.0,178.0
-HRV,Croatia,Zagrebacka,14413.0,29053.0,756.0
-ALB,Albania,Durrës,14362.0,16073.0,943.0
-USA,United States of America,New York,14337.0,203695.0,12234.0
-ITA,Italy,Isernia,14250.0,15124.0,2175.0
-TKM,Turkmenistan,Chardzhou,14205.0,204708.0,2748.0
-KOS,Kosovo,Gnjilane,14205.0,14205.0,47.0
-AZE,Azerbaijan,Masallı,14123.0,14123.0,18.0
-MAR,Morocco,Grand Casablanca,14072.0,21270.0,174.0
-DZA,Algeria,Tizi Ouzou,13962.0,35947.0,1664.0
-HRV,Croatia,Krapinsko-Zagorska,13949.0,13949.0,481.0
-TUN,Tunisia,Siliana,13939.0,43226.0,96.0
-DZA,Algeria,Tébessa,13937.0,68459.0,86.0
-KOS,Kosovo,Podujevo,13848.0,14465.0,42.0
-HRV,Croatia,Istarska,13788.0,27029.0,1779.0
-HUN,Hungary,Békéscsaba,13694.0,13694.0,369.0
-HRV,Croatia,Karlovacka,13660.0,23132.0,102.0
-TUR,Turkey,Erzincan,13625.0,48258.0,2971.0
-IRN,Iran,South Khorasan,13570.0,33198.0,550.0
-AZE,Azerbaijan,Qobustan,13528.0,13694.0,253.0
-KGZ,Kyrgyzstan,Chuy,13513.0,142785.0,668.0
-ARM,Armenia,Syunik,13471.0,20602.0,899.0
-KOS,Kosovo,Istok,13247.0,14768.0,74.0
-ALB,Albania,Vlorë,13143.0,22323.0,490.0
-BIH,Bosnia and Herzegovina,Zenica-Doboj,13093.0,15705.0,88.0
-CHE,Switzerland,Thurgau,13087.0,13087.0,913.0
-AZE,Azerbaijan,Qazax,13070.0,14594.0,570.0
-AZE,Azerbaijan,Quba,12867.0,15476.0,147.0
-AZE,Azerbaijan,Ağdam,12638.0,13748.0,60.0
-BIH,Bosnia and Herzegovina,Herzegovina-Neretva,12572.0,19020.0,2421.0
-KOS,Kosovo,Đakovica,12458.0,13418.0,38.0
-FRA,France,Territoire de Belfort,12382.0,12658.0,136.0
-ARG,Argentina,Córdoba,12289.0,68945.0,16641.0
-TUR,Turkey,Adiyaman,12257.0,41917.0,5209.0
-FRA,France,Haute-Savoie,12219.0,14040.0,729.0
-BIH,Bosnia and Herzegovina,Trebinje,12218.0,15857.0,337.0
-ITA,Italy,Ogliastra,12189.0,12189.0,1823.0
-TUR,Turkey,Gümüshane,12091.0,36863.0,1426.0
-BGR,Bulgaria,Sofia,12076.0,61149.0,123.0
-NZL,New Zealand,Hawke's Bay,12018.0,18429.0,7184.0
-TUR,Turkey,Osmaniye,11967.0,22852.0,1822.0
-AZE,Azerbaijan,Qax,11866.0,13798.0,147.0
-ALB,Albania,Tiranë,11857.0,14355.0,197.0
-ALB,Albania,Lezhë,11800.0,12081.0,374.0
-ALB,Albania,Shkodër,11785.0,21409.0,711.0
-HRV,Croatia,Šibensko-Kninska,11703.0,11703.0,652.0
-BGR,Bulgaria,Veliko Tarnovo,11669.0,35838.0,2942.0
-HRV,Croatia,Varaždinska,11660.0,25244.0,946.0
-LBY,Libya,Al Jabal al Akhdar,11654.0,20630.0,671.0
-AFG,Afghanistan,Laghman,11390.0,14343.0,0.0
-AZE,Azerbaijan,Tərtər,11350.0,12730.0,31.0
-LUX,Luxembourg,Luxembourg,11159.0,12527.0,386.0
-KOS,Kosovo,Kosovska Kamenica,11155.0,11155.0,6.0
-SYR,Syria,Lattakia,10901.0,17578.0,1167.0
-KAZ,Kazakhstan,Zhambyl,10886.0,164267.0,1686.0
-AZE,Azerbaijan,Şamaxı,10862.0,13148.0,276.0
-PRT,Portugal,Viseu,10675.0,25267.0,20279.0
-ROU,Romania,Dâmbovita,10667.0,76184.0,1695.0
-KOS,Kosovo,Orahovac,10603.0,10603.0,617.0
-GRC,Greece,Notio Aigaio,10554.0,21103.0,1959.0
-CHE,Switzerland,Schaffhausen,10516.0,10516.0,433.0
-HRV,Croatia,Medimurska,10362.0,17795.0,748.0
-GEO,Georgia,Mtskheta-Mtianeti,10358.0,15001.0,2883.0
-BGR,Bulgaria,Pernik,10328.0,36451.0,221.0
-ESP,Spain,Cantabria,10307.0,18499.0,112.0
-TUR,Turkey,Hatay,10243.0,33813.0,3341.0
-HUN,Hungary,Nyíregyháza,10239.0,10239.0,174.0
-NZL,New Zealand,Waikato,10143.0,13962.0,906.0
-ALB,Albania,Fier,10104.0,57848.0,5454.0
-FRA,France,Hautes-Alpes,10077.0,12660.0,349.0
-AFG,Afghanistan,Khost,9992.0,16870.0,68.0
-AZE,Azerbaijan,Zərdab,9918.0,10673.0,148.0
-ITA,Italy,Gorizia,9857.0,12568.0,3111.0
-KOS,Kosovo,Mališevo,9839.0,9839.0,24.0
-MAR,Morocco,Guelmim - Es-Semara,9816.0,12186.0,0.0
-PRT,Portugal,Viana do Castelo,9759.0,16895.0,1570.0
-LBN,Lebanon,North Lebanon,9747.0,35322.0,1513.0
-JPN,Japan,Yamanashi,9682.0,13260.0,3183.0
-FRA,France,Haute-Corse,9662.0,9917.0,6213.0
-FRA,France,Cantal,9623.0,13566.0,83.0
-AFG,Afghanistan,Parwan,9621.0,31374.0,0.0
-ALB,Albania,Kukës,9524.0,11265.0,0.0
-AZE,Azerbaijan,Balakən,9452.0,9675.0,275.0
-SVK,Slovakia,Prešov,9448.0,49888.0,9.0
-DZA,Algeria,Aïn Defla,9389.0,63560.0,1542.0
-TUR,Turkey,Gaziantep,9352.0,48514.0,5378.0
-KOS,Kosovo,Priština,9309.0,9785.0,15.0
-ESP,Spain,Asturias,9290.0,28358.0,390.0
-ITA,Italy,Savona,9254.0,9388.0,1354.0
-TUR,Turkey,Iğdir,9240.0,27300.0,1906.0
-KOS,Kosovo,Prizren,9143.0,9143.0,23.0
-AZE,Azerbaijan,Ucar,9123.0,9123.0,63.0
-MKD,Macedonia,Sveti Nikole,9120.0,11271.0,882.0
-ALB,Albania,Dibër,9039.0,11486.0,5.0
-HUN,Hungary,Gyôr,8985.0,8985.0,84.0
-MKD,Macedonia,Bitola,8911.0,17266.0,842.0
-AZE,Azerbaijan,Zəngilan,8875.0,8875.0,77.0
-MKD,Macedonia,Prilep,8861.0,13444.0,1176.0
-DZA,Algeria,Annaba,8851.0,22660.0,242.0
-KOS,Kosovo,Vitina,8793.0,8793.0,55.0
-ITA,Italy,Como,8716.0,9371.0,996.0
-TUR,Turkey,Rize,8642.0,14017.0,371.0
-KOS,Kosovo,Glogovac,8639.0,8639.0,10.0
-MKD,Macedonia,Novaci,8565.0,9221.0,761.0
-AZE,Azerbaijan,Samux,8561.0,9314.0,497.0
-CZE,Czech Republic,Prague,8442.0,8442.0,19.0
-HRV,Croatia,Sisacko-Moslavacka,8402.0,22349.0,578.0
-HUN,Hungary,Nagykanizsa,8377.0,8377.0,41.0
-BIH,Bosnia and Herzegovina,West Herzegovina,8331.0,9694.0,345.0
-MKD,Macedonia,Konče,8325.0,8325.0,368.0
-AZE,Azerbaijan,Cəbrayıl,8234.0,8234.0,50.0
-IND,India,Uttarakhand,8130.0,160655.0,103.0
-AFG,Afghanistan,Nuristan,8101.0,13824.0,13.0
-AZE,Azerbaijan,Xizı,8086.0,10655.0,427.0
-CHE,Switzerland,Genève,8055.0,8055.0,1156.0
-FRA,France,Savoie,7987.0,8177.0,1711.0
-KOS,Kosovo,Suva Reka,7894.0,7894.0,123.0
-AZE,Azerbaijan,Şərur,7885.0,14646.0,341.0
-ESP,Spain,Orense,7864.0,35101.0,6104.0
-AUT,Austria,Kärnten,7840.0,29424.0,2342.0
-AZE,Azerbaijan,Xocalı,7739.0,9353.0,12.0
-ITA,Italy,Messina,7709.0,8771.0,11.0
-BIH,Bosnia and Herzegovina,West Bosnia,7676.0,14439.0,475.0
-ROU,Romania,Bistrita-Nasaud,7674.0,75450.0,1081.0
-HUN,Hungary,Szolnok,7672.0,13753.0,346.0
-JPN,Japan,Nagano,7552.0,48953.0,786.0
-KOS,Kosovo,Peć,7474.0,9105.0,22.0
-ESP,Spain,La Coruña,7460.0,45392.0,8130.0
-ITA,Italy,Pistoia,7457.0,8136.0,1239.0
-AZE,Azerbaijan,Xanlar,7410.0,10242.0,338.0
-KOR,South Korea,South Gyeongsang,7406.0,168712.0,680.0
-JOR,Jordan,Karak,7405.0,8966.0,72.0
-PER,Peru,Ica,7214.0,45750.0,4914.0
-ITA,Italy,Napoli,7192.0,7371.0,770.0
-CHL,Chile,Bío-Bío,7188.0,37594.0,839.0
-AZE,Azerbaijan,Lankaran,7069.0,7069.0,4.0
-TUR,Turkey,Yalova,7055.0,7055.0,175.0
-DZA,Algeria,Aïn Témouchent,7024.0,17185.0,3605.0
-HUN,Hungary,Miskolc,7023.0,7038.0,26.0
-RUS,Russia,Sevastopol,7019.0,7019.0,6112.0
-ESP,Spain,Bizkaia,6946.0,7769.0,1268.0
-HUN,Hungary,Kecskemét,6902.0,6902.0,373.0
-KOS,Kosovo,Klina,6893.0,6893.0,6.0
-TUN,Tunisia,Manubah,6892.0,45503.0,2496.0
-SYR,Syria,Quneitra,6878.0,12417.0,209.0
-MKD,Macedonia,Veles,6871.0,9373.0,729.0
-ARG,Argentina,Río Negro,6870.0,17415.0,8525.0
-AUT,Austria,Oberösterreich,6775.0,41181.0,419.0
-HUN,Hungary,Pécs,6691.0,6691.0,496.0
-ARM,Armenia,Tavush,6687.0,7684.0,55.0
-ITA,Italy,Varese,6631.0,9030.0,637.0
-MKD,Macedonia,Dolneni,6624.0,10553.0,747.0
-BGR,Bulgaria,Kyustendil,6544.0,21928.0,85.0
-AZE,Azerbaijan,Yardımlı,6516.0,7664.0,70.0
-GEO,Georgia,Samtskhe-Javakheti,6509.0,31412.0,4225.0
-ITA,Italy,Monza e Brianza,6480.0,6646.0,591.0
-CHL,Chile,La Araucanía,6417.0,22192.0,688.0
-MKD,Macedonia,Štip,6375.0,10233.0,763.0
-MKD,Macedonia,Probištip,6365.0,9221.0,480.0
-HUN,Hungary,Szeged,6353.0,9372.0,80.0
-AZE,Azerbaijan,Qubadli,6337.0,6337.0,0.0
-BGR,Bulgaria,Gabrovo,6274.0,9330.0,126.0
-TUR,Turkey,Bitlis,6221.0,33655.0,2341.0
-AUT,Austria,Wien,6218.0,6218.0,612.0
-MKD,Macedonia,Vasilevo,6185.0,6185.0,381.0
-JPN,Japan,Okayama,6160.0,32529.0,202.0
-AFG,Afghanistan,Paktika,6159.0,10509.0,84.0
-ESP,Spain,Santa Cruz de Tenerife,6106.0,12012.0,1681.0
-DZA,Algeria,Khenchela,6057.0,36606.0,88.0
-LUX,Luxembourg,Grevenmacher,6052.0,6052.0,715.0
-BEL,Belgium,Luxembourg,6050.0,10916.0,249.0
-KOS,Kosovo,Kačanik,6046.0,6046.0,8.0
-AFG,Afghanistan,Paktya,6037.0,19716.0,0.0
-ARG,Argentina,Mendoza,5948.0,83813.0,172901.0
-ARE,United Arab Emirates,Abu Dhabi,5904.0,9940.0,7.0
-GEO,Georgia,Samegrelo-Zemo Svaneti,5811.0,48151.0,3962.0
-HRV,Croatia,Licko-Senjska,5798.0,12369.0,2.0
-MEX,Mexico,Sonora,5732.0,92626.0,9475.0
-MKD,Macedonia,Bosilovo,5675.0,5675.0,394.0
-IRN,Iran,Tehran,5600.0,43616.0,1964.0
-MKD,Macedonia,Struga,5478.0,6342.0,392.0
-LBN,Lebanon,Mount Lebanon,5460.0,18647.0,912.0
-SVN,Slovenia,Ormož,5375.0,5375.0,1393.0
-KOR,South Korea,South Jeolla,5352.0,169354.0,535.0
-YEM,Yemen,Sana'a,5328.0,24203.0,259.0
-MKD,Macedonia,Čaška,5304.0,5458.0,355.0
-YEM,Yemen,Al Mahwit,5082.0,9880.0,182.0
-ESP,Spain,Gipuzkoa,5017.0,10601.0,1423.0
-MKD,Macedonia,Gevgelija,4964.0,4964.0,489.0
-BIH,Bosnia and Herzegovina,Brčko Distrikt,4900.0,4900.0,36.0
-ROU,Romania,Brasov,4863.0,18841.0,44.0
-RUS,Russia,Astrakhan',4830.0,12853.0,400.0
-MKD,Macedonia,Gazi Baba,4823.0,4823.0,330.0
-MKD,Macedonia,Mogila,4801.0,4801.0,337.0
-ESP,Spain,Pontevedra,4790.0,26146.0,3551.0
-MKD,Macedonia,Negotino,4744.0,5487.0,419.0
-SYR,Syria,Damascus,4684.0,4684.0,77.0
-MKD,Macedonia,Kavadartsi,4658.0,5320.0,484.0
-ITA,Italy,Genova,4654.0,5578.0,919.0
-SVN,Slovenia,Moravske Toplice,4605.0,4605.0,257.0
-MKD,Macedonia,Saraj,4587.0,10221.0,309.0
-SVN,Slovenia,Krško,4561.0,4561.0,710.0
-MKD,Macedonia,Karbinci,4536.0,4536.0,365.0
-MKD,Macedonia,Rosoman,4512.0,4512.0,433.0
-AZE,Azerbaijan,Abşeron,4509.0,5985.0,172.0
-ROU,Romania,Vâlcea,4491.0,27955.0,8598.0
-GEO,Georgia,Abkhazia,4395.0,6978.0,1864.0
-SVN,Slovenia,Ljutomer,4380.0,4380.0,259.0
-KOS,Kosovo,Dečani,4342.0,4342.0,18.0
-AZE,Azerbaijan,Siyəzən,4329.0,7451.0,167.0
-SVN,Slovenia,Lendava,4326.0,4326.0,327.0
-MKD,Macedonia,Kočani,4316.0,10488.0,341.0
-ROU,Romania,Gorj,4280.0,44372.0,7926.0
-SYR,Syria,Tartus,4216.0,9741.0,874.0
-HRV,Croatia,Koprivničko-Križevačka,4206.0,25901.0,671.0
-ROU,Romania,Sibiu,4107.0,59274.0,5255.0
-UKR,Ukraine,Donets'k,4072.0,264425.0,1764.0
-CHE,Switzerland,Fribourg,4062.0,8906.0,1073.0
-MKD,Macedonia,Radoviš,4026.0,4244.0,224.0
-USA,United States of America,Connecticut,4015.0,21007.0,80.0
-JPN,Japan,Shiga,3972.0,49268.0,100.0
-CYP,Cyprus,Paphos,3946.0,4329.0,699.0
-UKR,Ukraine,Kharkiv,3931.0,70524.0,2205.0
-ITA,Italy,Prato,3907.0,3907.0,589.0
-MKD,Macedonia,Tearce,3877.0,3877.0,176.0
-HUN,Hungary,Sopron,3854.0,3854.0,964.0
-AFG,Afghanistan,Samangan,3791.0,30410.0,0.0
-TUR,Turkey,Tunceli,3767.0,12565.0,1164.0
-FRA,France,Alpes-Maritimes,3746.0,6282.0,588.0
-KOS,Kosovo,Obilić,3734.0,3734.0,28.0
-ITA,Italy,Lecco,3724.0,3822.0,462.0
-SVN,Slovenia,Novo Mesto,3722.0,3722.0,357.0
-UKR,Ukraine,Luhans'k,3720.0,90622.0,1557.0
-FRA,France,Lozère,3718.0,7484.0,123.0
-ISR,Israel,Jerusalem,3715.0,15452.0,673.0
-MKD,Macedonia,Lipkovo,3688.0,4552.0,164.0
-MKD,Macedonia,Kratovo,3684.0,5103.0,445.0
-KOS,Kosovo,Uroševac,3682.0,3682.0,3.0
-HRV,Croatia,Dubrovacko-Neretvanska,3672.0,4248.0,1459.0
-AZE,Azerbaijan,Naxçıvan,3665.0,4899.0,148.0
-BIH,Bosnia and Herzegovina,Central Bosnia,3652.0,7529.0,123.0
-DZA,Algeria,M'Sila,3634.0,16123.0,0.0
-CHN,China,Jiangxi,3619.0,61152.0,9226.0
-BIH,Bosnia and Herzegovina,Foča,3588.0,5166.0,88.0
-AZE,Azerbaijan,Lankaran,3552.0,6081.0,0.0
-NZL,New Zealand,Manawatu-Wanganui,3517.0,9950.0,1008.0
-MNE,Montenegro,Nikšic,3510.0,5526.0,381.0
-KOS,Kosovo,Leposavić,3480.0,4751.0,0.0
-AZE,Azerbaijan,Babək,3479.0,10597.0,351.0
-AFG,Afghanistan,Kabul,3461.0,34220.0,0.0
-CHE,Switzerland,Basel-Landschaft,3436.0,3628.0,164.0
-MKD,Macedonia,Bogdanci,3386.0,3386.0,255.0
-SVN,Slovenia,Lenart,3347.0,3347.0,246.0
-MDA,Moldova,Bălţi,3308.0,3308.0,222.0
-MKD,Macedonia,Debarca,3270.0,4078.0,345.0
-AFG,Afghanistan,Parwan,3262.0,5795.0,0.0
-FRA,France,Finistère,3246.0,70720.0,1525.0
-SVN,Slovenia,Race-Fram,3218.0,3218.0,185.0
-MKD,Macedonia,Gradsko,3196.0,4508.0,311.0
-NZL,New Zealand,Marlborough District,3192.0,4257.0,21530.0
-FRA,France,Seine-Maritime,3160.0,86215.0,582.0
-FRA,France,Corse-du-Sud,3094.0,3202.0,1261.0
-SVN,Slovenia,Apace,3090.0,3090.0,190.0
-MKD,Macedonia,Strumitsa,3051.0,3051.0,258.0
-YEM,Yemen,Al Hudaydah,3039.0,120379.0,4043.0
-AZE,Azerbaijan,Lerik,3034.0,5311.0,32.0
-JPN,Japan,Mie,3023.0,27125.0,130.0
-CHE,Switzerland,Jura,3020.0,4778.0,286.0
-MKD,Macedonia,Resen,3009.0,3009.0,305.0
-MKD,Macedonia,Demir Kapija,3007.0,3007.0,206.0
-MKD,Macedonia,Skopje,3003.0,3003.0,214.0
-HUN,Hungary,Kaposvár,2974.0,2974.0,154.0
-MKD,Macedonia,Debar,2974.0,2974.0,189.0
-KOS,Kosovo,Štimlje,2888.0,2888.0,2.0
-YEM,Yemen,Al Jawf,2855.0,6454.0,69.0
-NZL,New Zealand,Auckland,2854.0,5837.0,1313.0
-ITA,Italy,Massa-Carrara,2835.0,4653.0,653.0
-ITA,Italy,Bozen,2831.0,5517.0,5791.0
-AFG,Afghanistan,Hirat,2821.0,106483.0,3415.0
-MKD,Macedonia,Češinovo-Obleševo,2803.0,2803.0,203.0
-AZE,Azerbaijan,Sədərək,2778.0,2778.0,107.0
-KAZ,Kazakhstan,Almaty,2731.0,189860.0,5162.0
-YEM,Yemen,Amran,2730.0,27842.0,357.0
-ITA,Italy,Imperia,2721.0,2823.0,573.0
-SVN,Slovenia,Cankova,2720.0,2720.0,131.0
-LUX,Luxembourg,Diekirch,2716.0,5412.0,380.0
-MKD,Macedonia,Lozovo,2690.0,2690.0,102.0
-IRQ,Iraq,As-Sulaymaniyah,2644.0,2644.0,2616.0
-SVN,Slovenia,Juršinci,2588.0,2588.0,130.0
-AZE,Azerbaijan,Bakı,2587.0,7601.0,337.0
-SVN,Slovenia,Trebnje,2577.0,3324.0,384.0
-MDA,Moldova,Chişinău,2550.0,2550.0,532.0
-HUN,Hungary,Dunaújváros,2549.0,6739.0,36.0
-ISR,Israel,Haifa,2532.0,7726.0,739.0
-SVN,Slovenia,Kidricevo,2511.0,2511.0,131.0
-CHE,Switzerland,Lucerne,2486.0,8800.0,1140.0
-AZE,Azerbaijan,Astara,2481.0,2481.0,14.0
-MKD,Macedonia,Dojran,2472.0,2472.0,265.0
-LBY,Libya,Al Qubbah,2462.0,10882.0,396.0
-MKD,Macedonia,Jegunovce,2460.0,2460.0,124.0
-MKD,Macedonia,Berovo,2450.0,4032.0,315.0
-YEM,Yemen,Hajjah,2444.0,22925.0,947.0
-NZL,New Zealand,Gisborne District,2443.0,4174.0,3615.0
-MKD,Macedonia,Želino,2442.0,3603.0,209.0
-SVN,Slovenia,Sevnica,2426.0,2426.0,572.0
-SVN,Slovenia,Ljubljana,2424.0,2751.0,323.0
-ITA,Italy,La Spezia,2423.0,2615.0,368.0
-HUN,Hungary,Budapest,2379.0,2945.0,50.0
-NZL,New Zealand,Bay of Plenty,2374.0,3847.0,200.0
-SMR,San Marino,Domagnano,2355.0,2355.0,331.0
-IRN,Iran,Qom,2307.0,3688.0,842.0
-MKD,Macedonia,Vinica,2293.0,2828.0,250.0
-BIH,Bosnia and Herzegovina,Sarajevo,2288.0,5361.0,59.0
-CHN,China,Guangdong,2288.0,18561.0,139.0
-MKD,Macedonia,Delčevo,2280.0,6562.0,448.0
-CHE,Switzerland,Sankt Gallen,2274.0,7299.0,845.0
-NZL,New Zealand,Wellington,2273.0,4761.0,859.0
-SVN,Slovenia,Crnomelj,2272.0,2272.0,127.0
-HUN,Hungary,Szekszárd,2247.0,2247.0,464.0
-NZL,New Zealand,Northland,2240.0,13345.0,245.0
-HUN,Hungary,Zalaegerszeg,2209.0,2209.0,0.0
-SVN,Slovenia,Maribor,2195.0,2195.0,579.0
-JPN,Japan,Nara,2171.0,9982.0,75.0
-SVN,Slovenia,Starše,2159.0,2159.0,128.0
-BGR,Bulgaria,Smolyan,2124.0,2492.0,70.0
-HRV,Croatia,Grad Zagreb,2122.0,7312.0,100.0
-JPN,Japan,Ōita,2102.0,42319.0,350.0
+RUS,Russia,Krasnodar,2297849.0,3115604.0,17636.0
+UKR,Ukraine,Odessa,1707896.0,1764223.0,17935.0
+TUR,Turkey,Konya,611407.0,1246021.0,29242.0
+AUS,Australia,New South Wales,540026.0,1397882.0,47386.0
+ESP,Spain,Burgos,539488.0,539993.0,27684.0
+RUS,Russia,Crimea,531266.0,869146.0,25392.0
+IRN,Iran,Razavi Khorasan,510739.0,955076.0,13062.0
+UKR,Ukraine,Vinnytsya,496599.0,1447579.0,2098.0
+GRC,Greece,Kentriki Makedonia,471552.0,495133.0,12254.0
+RUS,Russia,Stavropol',470797.0,2614016.0,7486.0
+ESP,Spain,Valladolid,451868.0,457715.0,25043.0
+FRA,France,Marne,445667.0,445667.0,26037.0
+ESP,Spain,Palencia,444239.0,444239.0,19107.0
+ROU,Romania,Timis,440466.0,460715.0,4586.0
+ROU,Romania,Constanta,436420.0,436420.0,19668.0
+ESP,Spain,Sevilla,405124.0,566506.0,26915.0
+FRA,France,Aisne,393424.0,403719.0,3351.0
+ESP,Spain,Toledo,388199.0,487941.0,58388.0
+FRA,France,Eure-et-Loir,385236.0,385236.0,409.0
+ROU,Romania,Teleorman,373924.0,379452.0,23009.0
+ROU,Romania,Dolj,373812.0,374944.0,22673.0
+GRC,Greece,Thessalia,357047.0,393780.0,9886.0
+FRA,France,Yonne,352828.0,352828.0,9927.0
+ESP,Spain,Badajoz,351690.0,747331.0,51500.0
+ROU,Romania,Calarasi,344066.0,344066.0,7007.0
+ESP,Spain,Cuenca,340584.0,581854.0,42043.0
+GRC,Greece,Anatoliki Makedonia kai Thraki,336621.0,338657.0,9100.0
+ESP,Spain,Albacete,336097.0,453902.0,39110.0
+SVK,Slovakia,Nitriansky,335389.0,341886.0,6065.0
+HUN,Hungary,Békés,334781.0,334781.0,8578.0
+FRA,France,Aube,334064.0,334064.0,9896.0
+FRA,France,Vienne,331453.0,331453.0,3777.0
+FRA,France,Gers,328537.0,328537.0,21256.0
+ESP,Spain,Zaragoza,324877.0,456581.0,41752.0
+ROU,Romania,Ialomita,322242.0,322242.0,6558.0
+ROU,Romania,Braila,321292.0,321292.0,6701.0
+FRA,France,Côte-d'Or,320157.0,320157.0,9769.0
+ITA,Italy,Foggia,316889.0,316889.0,23668.0
+ESP,Spain,Ciudad Real,316472.0,521916.0,125736.0
+FRA,France,Deux-Sèvres,314094.0,314094.0,3117.0
+DEU,Germany,Bayern,311473.0,1235295.0,6838.0
+ESP,Spain,León,310621.0,311042.0,17488.0
+FRA,France,Seien-et-Marne,309848.0,309848.0,1732.0
+FRA,France,Loiret,302816.0,302816.0,3047.0
+ESP,Spain,Salamanca,298075.0,315276.0,18017.0
+ROU,Romania,Botosani,296931.0,314451.0,4027.0
+FRA,France,Charente-Maritime,296281.0,296281.0,40292.0
+FRA,France,Cher,296038.0,296038.0,6476.0
+UKR,Ukraine,Mykolayiv,295366.0,1319240.0,3529.0
+FRA,France,Somme,294097.0,395474.0,378.0
+ESP,Spain,Zamora,293620.0,300120.0,19782.0
+ROU,Romania,Tulcea,291155.0,300906.0,10905.0
+ESP,Spain,Huesca,285789.0,333320.0,26489.0
+ROU,Romania,Olt,284979.0,302514.0,14031.0
+ROU,Romania,Iasi,281146.0,282916.0,11523.0
+HUN,Hungary,Jász-Nagykun-Szolnok,280378.0,314855.0,6877.0
+TUR,Turkey,Edirne,276776.0,276776.0,5359.0
+ROU,Romania,Arad,275438.0,287705.0,3936.0
+FRA,France,Oise,275199.0,290861.0,649.0
+ESP,Spain,Cáceres,275165.0,305111.0,30673.0
+FRA,France,Indre,273193.0,273193.0,2527.0
+AUT,Austria,Niederösterreich,269773.0,433187.0,30837.0
+DEU,Germany,Baden-Württemberg,267471.0,502390.0,29833.0
+ROU,Romania,Vaslui,266457.0,266457.0,20332.0
+FRA,France,Lot-et-Garonne,264056.0,264056.0,10693.0
+FRA,France,Maine-et-Loire,262461.0,262461.0,22653.0
+IRN,Iran,Ardebil,261827.0,635512.0,8872.0
+ROU,Romania,Galati,261072.0,261072.0,23176.0
+TUR,Turkey,Tekirdag,258082.0,260076.0,5993.0
+ROU,Romania,Bihor,250964.0,261475.0,8713.0
+FRA,France,Haute-Garonne,248567.0,248567.0,4852.0
+USA,United States of America,Washington,248562.0,823752.0,39946.0
+AUS,Australia,Victoria,248088.0,791097.0,15114.0
+ESP,Spain,Navarra,247780.0,259226.0,31218.0
+RUS,Russia,Rostov,247403.0,4564468.0,5002.0
+GRC,Greece,Stereá Elláda,245852.0,254170.0,14036.0
+FRA,France,Ille-et-Vilaine,244261.0,244261.0,526.0
+FRA,France,Indre-et-Loire,243588.0,243588.0,10930.0
+ESP,Spain,Lérida,243233.0,270643.0,20383.0
+HUN,Hungary,Bács-Kiskun,237147.0,306054.0,19702.0
+FRA,France,Vendée,236039.0,236039.0,2636.0
+FRA,France,Loir-et-Cher,230553.0,230553.0,7369.0
+TUR,Turkey,Ankara,226207.0,786792.0,19346.0
+SVK,Slovakia,Trnavský,225557.0,225557.0,2511.0
+AUS,Australia,South Australia,223084.0,2112490.0,40011.0
+HUN,Hungary,Hajdú-Bihar,221087.0,241378.0,6086.0
+FRA,France,Meuse,220543.0,226434.0,50.0
+FRA,France,Sarthe,219352.0,219352.0,2735.0
+UZB,Uzbekistan,Samarkand,216826.0,244579.0,0.0
+UKR,Ukraine,Kherson,216023.0,1110507.0,2057.0
+RUS,Russia,Adygey,211781.0,230093.0,392.0
+HUN,Hungary,Somogy,210455.0,241265.0,4155.0
+UKR,Ukraine,Chernivtsi,209622.0,296875.0,414.0
+ROU,Romania,Satu Mare,209206.0,216615.0,10161.0
+ROU,Romania,Giurgiu,209123.0,210583.0,8992.0
+CZE,Czech Republic,Středočeský,205866.0,434011.0,313.0
+TUR,Turkey,Kirklareli,205296.0,221118.0,4692.0
+TUR,Turkey,Balikesir,205009.0,348798.0,8694.0
+HUN,Hungary,Baranya,202388.0,202388.0,4832.0
+FRA,France,Charente,201927.0,201927.0,48812.0
+FRA,France,Eure,200623.0,265261.0,741.0
+HUN,Hungary,Fejér,200341.0,200341.0,3540.0
+ESP,Spain,Granada,196793.0,253248.0,23477.0
+HUN,Hungary,Tolna,196768.0,196768.0,4363.0
+SRB,Republic of Serbia,Južno-Backi,195621.0,207096.0,2841.0
+ESP,Spain,Jaén,193560.0,226157.0,17469.0
+TUR,Turkey,Bursa,193183.0,261833.0,5458.0
+ESP,Spain,Córdoba,192377.0,383373.0,19524.0
+CZE,Czech Republic,Jihomoravský,191255.0,226696.0,14984.0
+HUN,Hungary,Gyor-Moson-Sopron,191084.0,191084.0,3730.0
+SRB,Republic of Serbia,Južno-Banatski,189747.0,189747.0,2724.0
+DEU,Germany,Rheinland-Pfalz,189500.0,292071.0,68288.0
+ITA,Italy,Perugia,189004.0,189610.0,19439.0
+FRA,France,Haute-Marne,187144.0,187144.0,157.0
+HUN,Hungary,Pest,184509.0,195405.0,2448.0
+TUR,Turkey,Afyonkarahisar,182334.0,438075.0,10358.0
+FRA,France,Orne,182189.0,197795.0,1568.0
+FRA,France,Mayenne,180154.0,180154.0,384.0
+BGR,Bulgaria,Dobrich,176903.0,300088.0,5520.0
+ESP,Spain,Cádiz,176398.0,219007.0,8571.0
+FRA,France,Tarn,176248.0,176248.0,6488.0
+ESP,Spain,Soria,176048.0,294596.0,22213.0
+ESP,Spain,Murcia,174670.0,215781.0,25776.0
+BGR,Bulgaria,Burgas,174285.0,179878.0,3360.0
+CHL,Chile,Maule,174148.0,177271.0,59848.0
+FRA,France,Moselle,172809.0,172809.0,352.0
+FRA,France,Loire-Atlantique,171564.0,171564.0,10396.0
+BGR,Bulgaria,Yambol,170075.0,219284.0,2621.0
+BGR,Bulgaria,Silistra,169774.0,169774.0,1557.0
+FRA,France,Nièvre,164295.0,164295.0,2580.0
+SRB,Republic of Serbia,Sremski,163937.0,166726.0,1948.0
+ROU,Romania,Buzau,163909.0,206683.0,18987.0
+SRB,Republic of Serbia,Srednje-Banatski,162687.0,162687.0,2025.0
+FRA,France,Meurthe-et-Moselle,162109.0,162109.0,225.0
+FRA,France,Landes,161829.0,161829.0,8591.0
+FRA,France,Tarn-et-Garonne,157491.0,157491.0,3933.0
+FRA,France,Morbihan,156990.0,188526.0,917.0
+ITA,Italy,Potenza,156931.0,156931.0,16919.0
+ESP,Spain,Guadalajara,156514.0,291753.0,29827.0
+UKR,Ukraine,Zaporizhzhya,155552.0,883607.0,2223.0
+ESP,Spain,Segovia,153698.0,207787.0,15163.0
+IND,India,Jammu and Kashmir,152445.0,415816.0,133.0
+FRA,France,Allier,152214.0,152214.0,2038.0
+UKR,Ukraine,Kirovohrad,152035.0,1333879.0,1996.0
+HUN,Hungary,Csongrád,151962.0,173125.0,4275.0
+HUN,Hungary,Borsod-Abaúj-Zemplén,148212.0,201336.0,8410.0
+TUR,Turkey,Amasya,148169.0,203059.0,4342.0
+TUR,Turkey,Eskisehir,147739.0,364603.0,7780.0
+ITA,Italy,Mantova,147449.0,147449.0,10563.0
+ESP,Spain,Málaga,147221.0,147221.0,11142.0
+IRN,Iran,West Azarbaijan,146555.0,390545.0,12091.0
+ITA,Italy,Matera,142663.0,142663.0,13038.0
+FRA,France,Dordogne,142216.0,142216.0,13948.0
+FRA,France,Ardennes,142029.0,157095.0,110.0
+ITA,Italy,Ferrara,141182.0,141182.0,8939.0
+UKR,Ukraine,Transcarpathia,140873.0,186612.0,1083.0
+ESP,Spain,Ávila,140004.0,153382.0,11141.0
+GRC,Greece,Dytiki Ellada,139556.0,149726.0,12376.0
+FRA,France,Saône-et-Loire,138209.0,138209.0,12199.0
+BGR,Bulgaria,Plovdiv,137729.0,160623.0,5099.0
+ROU,Romania,Arges,137540.0,151835.0,3401.0
+MAR,Morocco,Gharb - Chrarda - Béni Hssen,137531.0,368705.0,2874.0
+FRA,France,Bas-Rhin,137244.0,137244.0,7293.0
+HUN,Hungary,Szabolcs-Szatmár-Bereg,137131.0,217633.0,3062.0
+TUR,Turkey,Samsun,136858.0,290455.0,5939.0
+ROU,Romania,Bacau,136658.0,148760.0,12254.0
+UKR,Ukraine,Dnipropetrovs'k,136367.0,1435114.0,2223.0
+DEU,Germany,Hessen,135883.0,348546.0,3573.0
+HUN,Hungary,Vas,134663.0,137781.0,3386.0
+BGR,Bulgaria,Razgrad,132887.0,144294.0,275.0
+ROU,Romania,Vrancea,132834.0,134294.0,29441.0
+ITA,Italy,Roma,132666.0,134136.0,15573.0
+ITA,Italy,Bologna,132531.0,133809.0,11559.0
+CHL,Chile,Libertador General Bernardo O'Higgins,131673.0,131673.0,43292.0
+IRN,Iran,Zanjan,131396.0,446327.0,3629.0
+ITA,Italy,Pavia,130751.0,131335.0,11599.0
+ITA,Italy,Cuneo,129985.0,132622.0,15298.0
+IRN,Iran,Qazvin,129692.0,285636.0,7707.0
+BGR,Bulgaria,Shumen,129600.0,132007.0,1613.0
+ROU,Romania,Dâmbovita,129525.0,136258.0,1695.0
+FRA,France,Nord,129272.0,209706.0,621.0
+ROU,Romania,Mehedinti,126998.0,127363.0,12556.0
+SRB,Republic of Serbia,Severno-Banatski,125860.0,128277.0,1693.0
+BGR,Bulgaria,Vratsa,125274.0,203306.0,2245.0
+ITA,Italy,Alessandria,122016.0,122016.0,10456.0
+ITA,Italy,Viterbo,121237.0,122829.0,12940.0
+MAR,Morocco,Tanger - Tétouan,119721.0,301353.0,2074.0
+HUN,Hungary,Heves,117691.0,118220.0,7548.0
+FRA,France,Haute-Saône,117201.0,117201.0,171.0
+HUN,Hungary,Veszprém,116770.0,117623.0,10586.0
+ITA,Italy,Avellino,114870.0,114870.0,9242.0
+GRC,Greece,Dytiki Makedonia,114299.0,151805.0,6056.0
+BGR,Bulgaria,Ruse,114161.0,159334.0,1073.0
+ESP,Spain,Tarragona,113903.0,123297.0,10774.0
+FRA,France,Drôme,113866.0,113866.0,20110.0
+SRB,Republic of Serbia,Zapadno-Backi,111817.0,127087.0,1737.0
+IRN,Iran,Markazi,111726.0,289501.0,2938.0
+FRA,France,Pas-de-Calais,111464.0,315949.0,581.0
+ARG,Argentina,Buenos Aires,111264.0,3991320.0,2440.0
+TUR,Turkey,Çanakkale,111250.0,175842.0,5526.0
+UZB,Uzbekistan,Tashkent,110728.0,244254.0,2104.0
+BGR,Bulgaria,Varna,110657.0,156321.0,2680.0
+BGR,Bulgaria,Vidin,109457.0,114972.0,1996.0
+ITA,Italy,Grosseto,108109.0,108109.0,13744.0
+ITA,Italy,Siena,108034.0,108034.0,12767.0
+MAR,Morocco,Oriental,107969.0,329178.0,1480.0
+ESP,Spain,Madrid,107441.0,148193.0,15039.0
+TUR,Turkey,Manisa,107404.0,426850.0,9292.0
+MAR,Morocco,Doukkala - Abda,107284.0,460907.0,4254.0
+TUR,Turkey,Tokat,106196.0,202354.0,5042.0
+ITA,Italy,Rovigo,106172.0,109213.0,7270.0
+GRC,Greece,Peloponnisos,105994.0,116009.0,13801.0
+FRA,France,Pyrénées-Atlantiques,105877.0,106803.0,3466.0
+SRB,Republic of Serbia,Severno-Backi,105382.0,105382.0,1412.0
+BGR,Bulgaria,Pleven,104866.0,243034.0,4569.0
+AUS,Australia,Western Australia,103688.0,1525245.0,12732.0
+SVK,Slovakia,Košický,103406.0,157752.0,2194.0
+ITA,Italy,Campobasso,103328.0,103328.0,8700.0
+SRB,Republic of Serbia,Grad Beograd,103157.0,103157.0,596.0
+CHL,Chile,Región Metropolitana de Santiago,102834.0,103143.0,26522.0
+TUR,Turkey,Denizli,102561.0,310428.0,7205.0
+TUR,Turkey,Karaman,101336.0,193718.0,5093.0
+BGR,Bulgaria,Stara Zagora,100785.0,164939.0,1563.0
+ESP,Spain,Barcelona,100745.0,113419.0,18624.0
+ITA,Italy,Turin,100539.0,100791.0,13532.0
+ITA,Italy,Padova,100248.0,100248.0,8337.0
+ESP,Spain,Huelva,99764.0,135313.0,8306.0
+UZB,Uzbekistan,Jizzakh,99758.0,254515.0,676.0
+BGR,Bulgaria,Haskovo,97897.0,126009.0,1042.0
+ESP,Spain,Baleares,97851.0,98922.0,4700.0
+CHL,Chile,Ñuble,97699.0,99908.0,11093.0
+FRA,France,Haute-Rhin,95842.0,100589.0,10232.0
+FRA,France,Isère,95495.0,96317.0,1328.0
+ESP,Spain,Valencia,95063.0,138362.0,18904.0
+FRA,France,Ain,95026.0,95922.0,1282.0
+ITA,Italy,Cremona,94645.0,94645.0,7990.0
+SRB,Republic of Serbia,Macvanski,94624.0,95486.0,675.0
+SRB,Republic of Serbia,Branicevski,93875.0,103002.0,405.0
+ITA,Italy,Cosenza,92955.0,93564.0,12624.0
+ROU,Romania,Prahova,91928.0,122054.0,13168.0
+IRN,Iran,East Azarbaijan,90993.0,514185.0,12706.0
+TUR,Turkey,Çorum,90233.0,376000.0,8783.0
+ITA,Italy,Verona,90193.0,93929.0,18486.0
+FRA,France,Puy-de-Dôme,89713.0,96020.0,623.0
+FRA,France,Gironde,89399.0,89399.0,119819.0
+BGR,Bulgaria,Targovishte,88924.0,93096.0,781.0
+ESP,Spain,La Rioja,88857.0,88857.0,49170.0
+ITA,Italy,Venezia,87666.0,87666.0,7390.0
+DEU,Germany,Sachsen,87047.0,515036.0,495.0
+CZE,Czech Republic,Olomoucký,86801.0,134832.0,111.0
+FRA,France,Aveyron,86254.0,86843.0,1356.0
+ESP,Spain,Gerona,84583.0,86806.0,6311.0
+UKR,Ukraine,Khmel'nyts'kyy,84381.0,929535.0,1420.0
+HUN,Hungary,Komárom-Esztergom,84339.0,84339.0,2237.0
+PRT,Portugal,Santarém,84302.0,88069.0,9085.0
+ITA,Italy,Piacenza,84022.0,84323.0,7471.0
+ITA,Italy,Benevento,83969.0,83969.0,7374.0
+USA,United States of America,California,82768.0,909167.0,298196.0
+HUN,Hungary,Zala,82727.0,84809.0,2705.0
+FRA,France,Yvelines,82485.0,82485.0,463.0
+ITA,Italy,Cagliari,81309.0,81626.0,10343.0
+TJK,Tajikistan,Leninabad,81285.0,212342.0,7415.0
+TUR,Turkey,Nevsehir,80348.0,185302.0,5092.0
+FRA,France,Essonne,79977.0,79977.0,388.0
+FRA,France,Côtes-d'Armor,79918.0,178717.0,675.0
+ITA,Italy,Brescia,79649.0,80059.0,8652.0
+ITA,Italy,Ancona,78829.0,78829.0,7619.0
+TUR,Turkey,Kocaeli,78269.0,78269.0,1478.0
+MDA,Moldova,Comrat,78082.0,78082.0,5804.0
+ROU,Romania,Caras-Severin,77778.0,80726.0,1557.0
+ITA,Italy,Vercelli,77728.0,77728.0,6294.0
+TUR,Turkey,Sakarya,77051.0,95112.0,2458.0
+ITA,Italy,Bari,76925.0,76925.0,12842.0
+ITA,Italy,Palermo,76895.0,76895.0,706.0
+TUR,Turkey,Isparta,76646.0,143399.0,3900.0
+ROU,Romania,Ilfov,76623.0,76623.0,2031.0
+ROU,Romania,Neamt,76235.0,150661.0,2004.0
+ITA,Italy,Sassari,75944.0,75944.0,11010.0
+TUR,Turkey,Burdur,75455.0,184490.0,3787.0
+GRC,Greece,Kriti,75221.0,81634.0,7770.0
+UZB,Uzbekistan,Andijon,74936.0,146168.0,5.0
+ITA,Italy,Ravenna,74921.0,74921.0,17361.0
+ITA,Italy,Pesaro e Urbino,74843.0,74843.0,9494.0
+ESP,Spain,Alicante,73517.0,86342.0,10611.0
+ROU,Romania,Salaj,73462.0,78611.0,4684.0
+AUT,Austria,Burgenland,72146.0,140896.0,11513.0
+ITA,Italy,Salerno,71702.0,71702.0,9689.0
+ITA,Italy,Treviso,71097.0,71422.0,17570.0
+ITA,Italy,Caserta,70951.0,70951.0,8694.0
+BGR,Bulgaria,Veliko Tarnovo,70016.0,157826.0,2942.0
+ESP,Spain,Almería,69297.0,97301.0,10138.0
+ESP,Spain,Álava,68527.0,68527.0,5792.0
+FRA,France,Calvados,68502.0,175695.0,659.0
+RUS,Russia,Chechnya,68486.0,162895.0,1516.0
+ITA,Italy,Udine,68185.0,71324.0,10135.0
+MDA,Moldova,Causeni,68155.0,68155.0,3504.0
+HRV,Croatia,Osjecko-Baranjska,67639.0,149071.0,5358.0
+UZB,Uzbekistan,Namangan,67601.0,169494.0,1230.0
+TUR,Turkey,Aksaray,67337.0,212378.0,5471.0
+SRB,Republic of Serbia,Šumadijski,67336.0,68066.0,222.0
+ITA,Italy,Macerata,67093.0,67093.0,7754.0
+ITA,Italy,Parma,66868.0,67552.0,7474.0
+ITA,Italy,Caltanissetta,66656.0,67742.0,881.0
+CZE,Czech Republic,Zlínský,66388.0,82141.0,1098.0
+KAZ,Kazakhstan,South Kazakhstan,66060.0,509978.0,3951.0
+KGZ,Kyrgyzstan,Jalal-Abad,65450.0,110048.0,1095.0
+TUN,Tunisia,Bizerte,65331.0,212211.0,5652.0
+BGR,Bulgaria,Sliven,65102.0,93110.0,1563.0
+TUR,Turkey,Istanbul,65034.0,65538.0,1703.0
+ESP,Spain,Teruel,64959.0,154194.0,29482.0
+MDA,Moldova,Ștefan Vodă,64943.0,64943.0,2472.0
+CZE,Czech Republic,Ústecký,64318.0,153862.0,592.0
+ITA,Italy,Pisa,64240.0,64240.0,8035.0
+MAR,Morocco,Taza - Al Hoceima - Taounate,63956.0,336373.0,3504.0
+GRC,Greece,Ipeiros,63886.0,105509.0,1973.0
+FRA,France,Aude,63313.0,63313.0,93405.0
+ITA,Italy,Frosinone,62943.0,62943.0,7759.0
+TUR,Turkey,Usak,62805.0,201375.0,4024.0
+SVK,Slovakia,Bratislavský,62586.0,63671.0,2907.0
+ITA,Italy,Terni,62201.0,62201.0,7020.0
+ITA,Italy,Vicenza,61885.0,65443.0,7554.0
+ITA,Italy,Arezzo,61828.0,62248.0,8152.0
+SRB,Republic of Serbia,Kolubarski,61166.0,65015.0,236.0
+KGZ,Kyrgyzstan,Osh,60787.0,100232.0,786.0
+ITA,Italy,Modena,60735.0,60735.0,6453.0
+ITA,Italy,Oristrano,60381.0,60381.0,8988.0
+IRN,Iran,Esfahan,59697.0,151352.0,4773.0
+MDA,Moldova,Făleşti,58924.0,58924.0,3594.0
+ITA,Italy,Enna,58367.0,58367.0,3.0
+CHL,Chile,La Araucanía,58122.0,142273.0,688.0
+IRN,Iran,Gilan,57686.0,166404.0,2733.0
+FRA,France,Bouches-du-Rhône,57121.0,57121.0,19441.0
+UKR,Ukraine,Cherkasy,56973.0,1067827.0,1466.0
+HUN,Hungary,Nógrád,56711.0,59534.0,381.0
+SRB,Republic of Serbia,Pomoravski,56557.0,62547.0,205.0
+FRA,France,Haute-Vienne,55898.0,55898.0,1249.0
+FRA,France,Vosges,55598.0,55891.0,70.0
+BGR,Bulgaria,Montana,55086.0,135080.0,1694.0
+ITA,Italy,Reggio Emilia,54897.0,54897.0,8299.0
+ITA,Italy,Forlì-Cesena,54308.0,54308.0,6106.0
+FRA,France,Jura,54231.0,56516.0,2469.0
+TUR,Turkey,Antalya,53744.0,245271.0,5205.0
+MDA,Moldova,Cahul,53626.0,53626.0,3739.0
+ITA,Italy,Latina,53461.0,53461.0,6563.0
+UZB,Uzbekistan,Ferghana,53311.0,228401.0,4268.0
+TJK,Tajikistan,Tadzhikistan Territories,52964.0,104498.0,9697.0
+MDA,Moldova,Edineţ,52726.0,52726.0,3353.0
+SRB,Republic of Serbia,Podunavski,52675.0,52675.0,363.0
+RUS,Russia,Dagestan,52517.0,148610.0,5354.0
+TUR,Turkey,Kütahya,52202.0,306039.0,5425.0
+HUN,Hungary,Hódmezôvásárhely,52152.0,52152.0,1518.0
+SRB,Republic of Serbia,Borski,51994.0,61520.0,979.0
+TUR,Turkey,Kastamonu,51856.0,127694.0,4576.0
+UKR,Ukraine,Ternopil',51844.0,584762.0,904.0
+MDA,Moldova,Sîngerei,51635.0,51635.0,3851.0
+DZA,Algeria,Souk Ahras,51242.0,172057.0,123.0
+MDA,Moldova,Drochia,50873.0,50873.0,2915.0
+MDA,Moldova,Rîşcani,50549.0,50549.0,3093.0
+ITA,Italy,Crotene,50495.0,50495.0,4958.0
+BIH,Bosnia and Herzegovina,Doboj,50397.0,60003.0,278.0
+SVK,Slovakia,Trenciansky,49347.0,74469.0,120.0
+MAR,Morocco,Marrakech - Tensift - Al Haouz,49281.0,401494.0,5630.0
+ITA,Italy,Teramo,48965.0,48965.0,5831.0
+MDA,Moldova,Hîncesti,48890.0,48890.0,4282.0
+BIH,Bosnia and Herzegovina,Tuzla,48320.0,55224.0,290.0
+ITA,Italy,Medio Campidano,48046.0,48474.0,4702.0
+ITA,Italy,L'Aquila,47838.0,50043.0,9227.0
+ITA,Italy,Novara,47555.0,47555.0,4172.0
+MDA,Moldova,Ungheni,47538.0,47538.0,3192.0
+ITA,Italy,Barletta-Andria Trani,47203.0,47203.0,5937.0
+ITA,Italy,Catania,46645.0,46645.0,641.0
+PRT,Portugal,Setúbal,46605.0,66538.0,10628.0
+ITA,Italy,Taranto,46487.0,46487.0,7832.0
+MDA,Moldova,Taraclia,46414.0,46414.0,2758.0
+ITA,Italy,Firenze,46058.0,46058.0,12043.0
+ROU,Romania,Maramures,46002.0,54215.0,1655.0
+GEO,Georgia,Kakheti,45913.0,58980.0,8863.0
+FRA,France,Lot,45703.0,45703.0,5842.0
+MDA,Moldova,Briceni,45675.0,48073.0,1987.0
+TUR,Turkey,Kinkkale,45490.0,199195.0,4305.0
+BIH,Bosnia and Herzegovina,Bijeljina,45289.0,45289.0,202.0
+FRA,France,Loire,45229.0,46209.0,1383.0
+BGR,Bulgaria,Pazardzhik,45144.0,54602.0,667.0
+FRA,France,Rhône,44731.0,44731.0,16305.0
+UZB,Uzbekistan,Kashkadarya,44618.0,358886.0,11151.0
+MDA,Moldova,Glodeni,44512.0,44512.0,2620.0
+MDA,Moldova,Cimişlia,44358.0,44358.0,4109.0
+FRA,France,Creuse,43919.0,43919.0,1025.0
+SRB,Republic of Serbia,Nišavski,43560.0,59834.0,230.0
+ROU,Romania,Gorj,43519.0,47444.0,7926.0
+ITA,Italy,Chieti,43477.0,43477.0,18121.0
+TUR,Turkey,Nigde,43351.0,109620.0,3848.0
+HRV,Croatia,Viroviticko-Podravska,43102.0,66399.0,2346.0
+ROU,Romania,Cluj,42937.0,157780.0,2095.0
+SRB,Republic of Serbia,Pomoravski,42933.0,51716.0,78.0
+TUR,Turkey,Sinop,42746.0,81745.0,2083.0
+FRA,France,Manche,42325.0,92975.0,549.0
+FRA,France,Val-d'Oise,42262.0,42262.0,315.0
+ITA,Italy,Asti,41850.0,41850.0,6017.0
+AZE,Azerbaijan,Cəlilabad,41727.0,55166.0,357.0
+ZAF,South Africa,Western Cape,41693.0,154508.0,130891.0
+TUR,Turkey,Çankiri,41413.0,87530.0,3332.0
+ITA,Italy,Pordenone,41276.0,42174.0,5715.0
+FRA,France,Hautes-Pyrénées,41223.0,41223.0,1239.0
+MDA,Moldova,Floreşti,40752.0,40752.0,2726.0
+IRN,Iran,North Khorasan,40588.0,131681.0,2788.0
+TUR,Turkey,Izmir,40274.0,250851.0,6344.0
+MDA,Moldova,Soroca,39904.0,39904.0,2039.0
+ITA,Italy,Nuoro,39758.0,39758.0,7576.0
+IRN,Iran,Kerman,39545.0,166750.0,6916.0
+MDA,Moldova,Cantemir,39387.0,39387.0,2689.0
+ITA,Italy,Agrigento,39374.0,42099.0,522.0
+MDA,Moldova,Orhei,39156.0,39156.0,3680.0
+USA,United States of America,Oregon,38794.0,312196.0,10876.0
+FRA,France,Gard,38539.0,38539.0,67919.0
+CZE,Czech Republic,Vysočina,37951.0,211333.0,2429.0
+CHL,Chile,Bío-Bío,37700.0,38974.0,839.0
+ITA,Italy,Lecce,37477.0,37477.0,8655.0
+FRA,France,Ariège,37346.0,39330.0,797.0
+ITA,Italy,Milano,37228.0,37228.0,3533.0
+AZE,Azerbaijan,Biləsuvar,37122.0,41738.0,458.0
+MDA,Moldova,Teleneşti,36879.0,36879.0,3391.0
+ITA,Italy,Lodi,36805.0,36805.0,3470.0
+ITA,Italy,Bergamo,36146.0,36146.0,3812.0
+AUS,Australia,Queensland,35822.0,235143.0,38659.0
+ALB,Albania,Korçë,35243.0,36718.0,1129.0
+DZA,Algeria,Skikda,35060.0,77440.0,2364.0
+PAK,Pakistan,K.P.,34431.0,229450.0,0.0
+ITA,Italy,Catanzaro,34314.0,34314.0,4604.0
+ROU,Romania,Hunedoara,34102.0,48334.0,998.0
+FRA,France,Ardèche,34074.0,34074.0,10586.0
+TUR,Turkey,Mersin,34020.0,258680.0,5581.0
+ROU,Romania,Alba,33725.0,110311.0,4913.0
+ESP,Spain,Castellón,33634.0,62815.0,9137.0
+CHE,Switzerland,Vaud,33506.0,48815.0,3980.0
+RUS,Russia,Ingush,33093.0,58559.0,449.0
+TUR,Turkey,Kirsehir,32753.0,232851.0,5365.0
+DZA,Algeria,Tlemcen,32400.0,188122.0,6282.0
+SRB,Republic of Serbia,Moravicki,32249.0,43860.0,92.0
+MDA,Moldova,Criuleni,32118.0,32118.0,2949.0
+PRT,Portugal,Lisboa,32098.0,34433.0,6719.0
+MDA,Moldova,Anenii Noi,32084.0,32084.0,3039.0
+TUR,Turkey,Bilecik,31907.0,91408.0,2108.0
+MDA,Moldova,Leova,31781.0,31781.0,2359.0
+IRN,Iran,Fars,31774.0,509045.0,16432.0
+DZA,Algeria,Mila,31452.0,148626.0,413.0
+GEO,Georgia,Kvemo Kartli,30725.0,36600.0,6164.0
+PAK,Pakistan,Baluchistan,30235.0,104787.0,13946.0
+ITA,Italy,Rieti,30230.0,30230.0,4789.0
+AZE,Azerbaijan,Şəki,30175.0,37095.0,468.0
+ROU,Romania,Vâlcea,30140.0,53113.0,8598.0
+TUR,Turkey,Yozgat,30078.0,421682.0,12124.0
+IRN,Iran,Lorestan,29863.0,260927.0,8570.0
+ITA,Italy,Brindisi,29860.0,29860.0,6579.0
+PRT,Portugal,Évora,29840.0,126935.0,33430.0
+FRA,France,Vaucluse,29724.0,29724.0,46348.0
+MDA,Moldova,Bender,29720.0,29720.0,2660.0
+RUS,Russia,Kabardin-Balkar,29510.0,203404.0,1877.0
+HRV,Croatia,Brodsko-Posavska,29434.0,50528.0,1524.0
+ITA,Italy,Pescara,29405.0,29405.0,3536.0
+MAR,Morocco,Fès - Boulemane,29159.0,203819.0,1345.0
+AZE,Azerbaijan,Xaçmaz,29102.0,29102.0,371.0
+IRN,Iran,Hamadan,29038.0,413984.0,4428.0
+ITA,Italy,Reggio Calabria,29034.0,43552.0,5938.0
+TUN,Tunisia,Nabeul,28942.0,150263.0,4908.0
+FRA,France,Alpes-de-Haute-Provence,28844.0,28844.0,3312.0
+PRT,Portugal,Faro,28787.0,32808.0,3838.0
+MDA,Moldova,Grigoriopol,28709.0,28709.0,2175.0
+AZE,Azerbaijan,Ağcabədi,28561.0,32692.0,423.0
+ALB,Albania,Fier,28451.0,52268.0,5454.0
+ITA,Italy,Olbia-Tempio,28423.0,28423.0,3839.0
+FRA,France,Doubs,27995.0,33270.0,81.0
+BGR,Bulgaria,Blagoevgrad,27991.0,33652.0,926.0
+TUR,Turkey,Zinguldak,27912.0,40064.0,778.0
+HRV,Croatia,Zadarska,27359.0,31187.0,950.0
+MAR,Morocco,Rabat - Salé - Zemmour - Zaer,27020.0,425802.0,3286.0
+MAR,Morocco,Chaouia - Ouardigha,26986.0,266867.0,5608.0
+FRA,France,Hérault,26911.0,26911.0,92265.0
+ITA,Italy,Fermo,26801.0,26801.0,2685.0
+SRB,Republic of Serbia,Zajecarski,26702.0,50387.0,143.0
+TUR,Turkey,Malatya,26682.0,93689.0,5005.0
+BIH,Bosnia and Herzegovina,Banja Luka,26645.0,116550.0,648.0
+TUR,Turkey,K. Maras,26416.0,265875.0,7175.0
+TUR,Turkey,Bartın,26065.0,27406.0,538.0
+TUR,Turkey,Kayseri,25953.0,163045.0,10603.0
+ITA,Italy,Trapani,25951.0,26378.0,8112.0
+CHL,Chile,Valparaíso,25767.0,26757.0,22434.0
+TUR,Turkey,Giresun,25766.0,65766.0,1767.0
+SYR,Syria,Rif Dimashq,25435.0,130182.0,2529.0
+KGZ,Kyrgyzstan,Batken,25321.0,53855.0,453.0
+GRC,Greece,Voreio Aigaio,25121.0,44667.0,2581.0
+PRT,Portugal,Coimbra,24956.0,26845.0,791.0
+RUS,Russia,North Ossetia,24937.0,98482.0,840.0
+MDA,Moldova,Nisporeni,24832.0,24832.0,2157.0
+ITA,Italy,Ragusa,24560.0,24560.0,1145.0
+LBN,Lebanon,Beqaa,24537.0,133196.0,3221.0
+ITA,Italy,Livorno,24502.0,24502.0,2851.0
+MDA,Moldova,Rezina,24383.0,24383.0,2342.0
+GRC,Greece,Attiki,24168.0,39157.0,2954.0
+AZE,Azerbaijan,Sabirabad,24054.0,29345.0,506.0
+HRV,Croatia,Istarska,23789.0,25517.0,1779.0
+ESP,Spain,La Coruña,23611.0,66152.0,8130.0
+PRT,Portugal,Portalegre,23582.0,101574.0,23835.0
+MDA,Moldova,Ocniţa,23538.0,25880.0,1653.0
+AZE,Azerbaijan,Beyləqan,23420.0,24360.0,428.0
+AZE,Azerbaijan,Şəmkir,23074.0,31268.0,799.0
+MDA,Moldova,Camenca,22821.0,22821.0,1959.0
+PRT,Portugal,Beja,22818.0,155191.0,55888.0
+MAR,Morocco,Meknès - Tafilalet,22605.0,315030.0,4283.0
+LBY,Libya,Al Marj,22298.0,107187.0,2995.0
+DZA,Algeria,Constantine,21714.0,95074.0,61.0
+BGR,Bulgaria,Kardzhali,21625.0,22168.0,306.0
+DEU,Germany,Saarland,21581.0,29856.0,4.0
+DZA,Algeria,Mostaganem,21484.0,76889.0,3934.0
+MEX,Mexico,Baja California,21293.0,136983.0,7128.0
+HRV,Croatia,Brodsko-Posavska,21033.0,53258.0,1559.0
+ITA,Italy,Ascoli Piceno,20990.0,20990.0,2870.0
+AFG,Afghanistan,Faryab,20950.0,143753.0,5410.0
+DZA,Algeria,Sidi Bel Abbès,20802.0,161230.0,6965.0
+ITA,Italy,Carbonia-Iglesias,20611.0,20611.0,3331.0
+ITA,Italy,Rimini,20557.0,20557.0,2442.0
+DZA,Algeria,Oum el Bouaghi,20557.0,167493.0,30.0
+MDA,Moldova,Străşeni,20428.0,20428.0,2256.0
+DZA,Algeria,Sétif,20256.0,223913.0,5337.0
+USA,United States of America,Idaho,20236.0,375353.0,181.0
+HUN,Hungary,Debrecen,20022.0,23708.0,762.0
+FRA,France,Haute-Loire,19995.0,28035.0,200.0
+ITA,Italy,Siracusa,19928.0,20470.0,393.0
+UZB,Uzbekistan,Navoi,19924.0,69332.0,0.0
+MDA,Moldova,Şoldăneşti,19884.0,19884.0,1780.0
+AFG,Afghanistan,Kunar,19589.0,35913.0,140.0
+ROU,Romania,Suceava,19551.0,139042.0,146.0
+CZE,Czech Republic,Královéhradecký,19505.0,140301.0,28.0
+AZE,Azerbaijan,Bərdə,19346.0,19346.0,274.0
+DEU,Germany,Sachsen-Anhalt,19136.0,756765.0,741.0
+AZE,Azerbaijan,İmişli,19002.0,30732.0,469.0
+MDA,Moldova,Călărași,18946.0,18946.0,2065.0
+BGR,Bulgaria,Lovech,18905.0,71622.0,618.0
+IRN,Iran,Chahar Mahall and Bakhtiari,18579.0,103709.0,2691.0
+MDA,Moldova,Donduseni,18471.0,34983.0,2352.0
+CHE,Switzerland,Zürich,18340.0,23930.0,1399.0
+DZA,Algeria,Bouira,18303.0,115634.0,419.0
+MDA,Moldova,Stîngă Nistrului,18234.0,18234.0,1666.0
+MDA,Moldova,Rezina,18138.0,18138.0,1713.0
+AZE,Azerbaijan,Füzuli,17882.0,28090.0,121.0
+PRT,Portugal,Leiria,17878.0,18872.0,909.0
+DZA,Algeria,Blida,17751.0,30304.0,2036.0
+CHE,Switzerland,Bern,17743.0,31744.0,2357.0
+ALB,Albania,Elbasan,17702.0,26028.0,45.0
+TUN,Tunisia,Jendouba,17649.0,215624.0,848.0
+SVK,Slovakia,Banskobystrický,17598.0,89323.0,1880.0
+SRB,Republic of Serbia,Toplicki,17509.0,30188.0,107.0
+AZE,Azerbaijan,Dəvəçi,17382.0,19014.0,164.0
+KGZ,Kyrgyzstan,Chuy,17340.0,147058.0,668.0
+ESP,Spain,Lugo,17248.0,57803.0,11573.0
+SRB,Republic of Serbia,Raški,17245.0,24382.0,31.0
+HRV,Croatia,Varaždinska,17174.0,27772.0,946.0
+CHL,Chile,Coquimbo,17116.0,24592.0,12508.0
+HUN,Hungary,Székesfehérvár,17075.0,17075.0,118.0
+AZE,Azerbaijan,İsmayıllı,16985.0,19451.0,298.0
+PAK,Pakistan,F.A.T.A.,16934.0,89387.0,60.0
+AFG,Afghanistan,Baghlan,16927.0,69258.0,0.0
+USA,United States of America,Arizona,16926.0,134339.0,2874.0
+AZE,Azerbaijan,Ağstafa,16896.0,18362.0,522.0
+ALB,Albania,Berat,16811.0,18349.0,194.0
+AZE,Azerbaijan,Qəbələ,16719.0,17997.0,77.0
+PRT,Portugal,Aveiro,16629.0,20144.0,628.0
+TUR,Turkey,Aydin,16466.0,220410.0,4833.0
+ITA,Italy,Vibo Valentia,16398.0,18329.0,2285.0
+CZE,Czech Republic,Moravskoslezský,16267.0,71851.0,1.0
+DZA,Algeria,Guelma,15673.0,128016.0,75.0
+IRN,Iran,Semnan,15660.0,40634.0,1431.0
+CHE,Switzerland,Aargau,15656.0,20155.0,1031.0
+DEU,Germany,Nordrhein-Westfalen,15513.0,561376.0,28.0
+MDA,Moldova,Basarabeasca,15291.0,15291.0,1263.0
+AZE,Azerbaijan,Ağsu,15185.0,18179.0,743.0
+BIH,Bosnia and Herzegovina,Vlasenica,14877.0,16111.0,143.0
+ALB,Albania,Dibër,14874.0,14874.0,5.0
+ITA,Italy,Belluno,14838.0,16905.0,4202.0
+SVK,Slovakia,Prešov,14750.0,53333.0,9.0
+KAZ,Kazakhstan,Zhambyl,14734.0,172881.0,1686.0
+ITA,Italy,Biella,14695.0,14695.0,1804.0
+AZE,Azerbaijan,Qusar,14497.0,17513.0,184.0
+AZE,Azerbaijan,Tovuz,14393.0,21552.0,717.0
+UZB,Uzbekistan,Sirdaryo,14386.0,190405.0,3.0
+FRA,France,Corrèze,14281.0,14910.0,809.0
+SRB,Republic of Serbia,Jablanicki,14241.0,45053.0,91.0
+MKD,Macedonia,Bitola,14109.0,17703.0,842.0
+AZE,Azerbaijan,Salyan,14083.0,17731.0,283.0
+HRV,Croatia,Splitsko-Dalmatinska,13957.0,13957.0,516.0
+AZE,Azerbaijan,Ağdaş,13758.0,17450.0,134.0
+AZE,Azerbaijan,Göyçay,13516.0,15490.0,122.0
+HUN,Hungary,Békéscsaba,13324.0,13324.0,369.0
+KOS,Kosovo,Istok,13174.0,14695.0,74.0
+HRV,Croatia,Zagrebacka,13173.0,43598.0,756.0
+AZE,Azerbaijan,Yevlakh Rayon,13124.0,16112.0,160.0
+FRA,France,Pyrénées-Orientales,13095.0,13095.0,34908.0
+MKD,Macedonia,Kumanovo,12953.0,18596.0,848.0
+AZE,Azerbaijan,Oğuz,12819.0,14137.0,178.0
+MDA,Moldova,Ialoveni,12705.0,12705.0,4397.0
+TUR,Turkey,Mugla,12632.0,108812.0,3816.0
+ALB,Albania,Durrës,12570.0,14969.0,943.0
+ALB,Albania,Tiranë,12460.0,12877.0,197.0
+TJK,Tajikistan,Khatlon,12436.0,323500.0,13326.0
+TUR,Turkey,Artvin,12427.0,31660.0,940.0
+KOS,Kosovo,Đakovica,12420.0,13380.0,38.0
+FRA,France,Territoire de Belfort,12105.0,12105.0,136.0
+ITA,Italy,Lucca,12103.0,12432.0,2369.0
+FRA,France,Hautes-Alpes,11981.0,12871.0,349.0
+AFG,Afghanistan,Nangarhar,11962.0,42786.0,287.0
+TUR,Turkey,Düzce,11894.0,24666.0,544.0
+TKM,Turkmenistan,Chardzhou,11878.0,259133.0,2748.0
+ITA,Italy,Isernia,11850.0,11850.0,2175.0
+AZE,Azerbaijan,Qazax,11843.0,14023.0,570.0
+SRB,Republic of Serbia,Zlatiborski,11834.0,43514.0,48.0
+ALB,Albania,Gjirokastër,11664.0,17489.0,70.0
+UKR,Ukraine,Kiev,11576.0,1035251.0,1531.0
+AFG,Afghanistan,Badakhshan,11542.0,87144.0,5928.0
+LBY,Libya,Al Jabal al Akhdar,11540.0,52464.0,671.0
+CHE,Switzerland,Thurgau,11091.0,11975.0,913.0
+MAR,Morocco,Tadla - Azilal,11056.0,310752.0,3569.0
+LUX,Luxembourg,Luxembourg,10976.0,11632.0,386.0
+AZE,Azerbaijan,Ağdam,10962.0,13413.0,60.0
+KOS,Kosovo,Vučitrn,10948.0,14891.0,51.0
+KGZ,Kyrgyzstan,Talas,10932.0,92135.0,288.0
+AZE,Azerbaijan,Saatlı,10775.0,22904.0,271.0
+SRB,Republic of Serbia,Pcinjski,10697.0,28193.0,66.0
+TUR,Turkey,Bolu,10692.0,70598.0,3317.0
+GEO,Georgia,Shida Kartli,10656.0,32965.0,3783.0
+HRV,Croatia,Krapinsko-Zagorska,10647.0,12876.0,481.0
+PRT,Portugal,Castelo Branco,10638.0,53589.0,4382.0
+MAR,Morocco,Grand Casablanca,10622.0,24832.0,174.0
+MAR,Morocco,Souss - Massa - Draâ,10554.0,90061.0,1441.0
+GRC,Greece,Ionioi Nisoi,10547.0,13418.0,1386.0
+DZA,Algeria,El Tarf,10531.0,38916.0,1438.0
+FRA,France,Haute-Savoie,10266.0,11382.0,729.0
+UKR,Ukraine,Poltava,10131.0,1296755.0,2097.0
+DZA,Algeria,Médéa,10115.0,155937.0,100.0
+KOS,Kosovo,Orahovac,9967.0,9967.0,617.0
+PER,Peru,Ica,9928.0,37458.0,4914.0
+ESP,Spain,Cantabria,9926.0,9926.0,112.0
+AZE,Azerbaijan,Xocavənd,9921.0,18094.0,212.0
+MKD,Macedonia,Saraj,9911.0,9911.0,309.0
+KOS,Kosovo,Mališevo,9814.0,9814.0,24.0
+KOS,Kosovo,Srbica,9812.0,18499.0,43.0
+ESP,Spain,Asturias,9792.0,12980.0,390.0
+HRV,Croatia,Koprivničko-Križevačka,9764.0,48032.0,671.0
+HRV,Croatia,Šibensko-Kninska,9387.0,9387.0,652.0
+HUN,Hungary,Szeged,9283.0,9283.0,80.0
+ITA,Italy,Gorizia,9272.0,9272.0,3111.0
+DZA,Algeria,Jijel,9222.0,18249.0,58.0
+EGY,Egypt,Al Jizah,9199.0,91614.0,2002.0
+KOS,Kosovo,Prizren,9119.0,9119.0,23.0
+ALB,Albania,Vlorë,9055.0,20947.0,490.0
+HUN,Hungary,Gyôr,8889.0,8889.0,84.0
+BIH,Bosnia and Herzegovina,Zenica-Doboj,8797.0,12137.0,88.0
+KOS,Kosovo,Vitina,8737.0,8737.0,55.0
+KOS,Kosovo,Glogovac,8628.0,8628.0,10.0
+AZE,Azerbaijan,Tərtər,8616.0,12185.0,31.0
+DZA,Algeria,Saïda,8585.0,62849.0,170.0
+KOS,Kosovo,Lipljan,8577.0,19683.0,170.0
+IRN,Iran,Alborz,8503.0,32048.0,856.0
+ALB,Albania,Lezhë,8495.0,9523.0,374.0
+ALB,Albania,Kukës,8380.0,8996.0,0.0
+HUN,Hungary,Nagykanizsa,8334.0,8334.0,41.0
+GEO,Georgia,Imereti,8260.0,52712.0,3426.0
+DZA,Algeria,Béjaïa,8192.0,40036.0,763.0
+ITA,Italy,Ogliastra,8157.0,8157.0,1823.0
+DZA,Algeria,Boumerdès,8142.0,27150.0,2121.0
+DZA,Algeria,Oran,7998.0,70708.0,2477.0
+TUR,Turkey,Ordu,7974.0,88392.0,1386.0
+AZE,Azerbaijan,Kürdəmir,7943.0,20630.0,268.0
+DZA,Algeria,Bordj Bou Arréridj,7876.0,81170.0,107.0
+AZE,Azerbaijan,Ucar,7840.0,8424.0,63.0
+HUN,Hungary,Szolnok,7796.0,13408.0,346.0
+BGR,Bulgaria,Pernik,7795.0,14667.0,221.0
+KOS,Kosovo,Suva Reka,7740.0,8465.0,123.0
+ITA,Italy,Trento,7632.0,8571.0,10352.0
+FRA,France,Seine-Maritime,7601.0,199821.0,582.0
+HRV,Croatia,Medimurska,7549.0,18556.0,748.0
+KOS,Kosovo,Peć,7452.0,9083.0,22.0
+AZE,Azerbaijan,Quba,7415.0,13489.0,147.0
+ESP,Spain,Pontevedra,7327.0,22478.0,3551.0
+TUR,Turkey,Sivas,7190.0,120821.0,12747.0
+AZE,Azerbaijan,Neftçala,7175.0,18770.0,271.0
+ITA,Italy,Varese,7069.0,7069.0,637.0
+KOS,Kosovo,Gnjilane,7042.0,14146.0,47.0
+AZE,Azerbaijan,Xocalı,6987.0,8902.0,12.0
+ITA,Italy,Pistoia,6964.0,6964.0,1239.0
+ITA,Italy,Como,6894.0,7188.0,996.0
+ITA,Italy,Savona,6893.0,6893.0,1354.0
+KOS,Kosovo,Klina,6887.0,6887.0,6.0
+CHE,Switzerland,Genève,6867.0,6867.0,1156.0
+MKD,Macedonia,Sveti Nikole,6848.0,10375.0,882.0
+TUN,Tunisia,Béja,6845.0,139398.0,1587.0
+FRA,France,Cantal,6829.0,10644.0,83.0
+AFG,Afghanistan,Hirat,6793.0,106341.0,3415.0
+HUN,Hungary,Dunaújváros,6701.0,6701.0,36.0
+AZE,Azerbaijan,Zaqatala,6512.0,16650.0,224.0
+HUN,Hungary,Kecskemét,6492.0,6492.0,373.0
+MKD,Macedonia,Prilep,6473.0,11054.0,1176.0
+HRV,Croatia,Grad Zagreb,6396.0,6396.0,100.0
+TUR,Turkey,Karabük,6373.0,38734.0,1436.0
+ITA,Italy,Napoli,6332.0,6332.0,770.0
+DZA,Algeria,Tipaza,6327.0,34582.0,2098.0
+BIH,Bosnia and Herzegovina,Posavina,6279.0,25994.0,219.0
+HUN,Hungary,Miskolc,6154.0,6899.0,26.0
+AZE,Azerbaijan,Zərdab,6067.0,9902.0,148.0
+KOS,Kosovo,Kačanik,6038.0,6038.0,8.0
+HUN,Hungary,Pécs,5940.0,5940.0,496.0
+ITA,Italy,Monza e Brianza,5853.0,5853.0,591.0
+MKD,Macedonia,Konče,5828.0,7643.0,368.0
+MKD,Macedonia,Vasilevo,5761.0,5761.0,381.0
+FRA,France,Var,5691.0,5691.0,30066.0
+CHE,Switzerland,Fribourg,5658.0,14599.0,1073.0
+AZE,Azerbaijan,Şamaxı,5458.0,11925.0,276.0
+AZE,Azerbaijan,Qubadli,5453.0,5985.0,0.0
+LUX,Luxembourg,Grevenmacher,5452.0,5452.0,715.0
+ESP,Spain,Gipuzkoa,5441.0,7667.0,1423.0
+IRN,Iran,Kohgiluyeh and Buyer Ahmad,5376.0,91663.0,2028.0
+ARM,Armenia,Tavush,5315.0,5826.0,55.0
+AZE,Azerbaijan,Goranboy,5285.0,22678.0,835.0
+MKD,Macedonia,Bosilovo,5281.0,5281.0,394.0
+AZE,Azerbaijan,Zəngilan,5274.0,8410.0,77.0
+BIH,Bosnia and Herzegovina,Herzegovina-Neretva,5272.0,11760.0,2421.0
+KOS,Kosovo,Kosovska Kamenica,5260.0,11146.0,6.0
+CHE,Switzerland,Schaffhausen,5260.0,9931.0,433.0
+BIH,Bosnia and Herzegovina,West Herzegovina,5223.0,7639.0,345.0
+AZE,Azerbaijan,Qax,5205.0,12614.0,147.0
+FRA,France,Alpes-Maritimes,5167.0,5167.0,588.0
+MKD,Macedonia,Struga,5096.0,5806.0,392.0
+ESP,Spain,Orense,5059.0,25147.0,6104.0
+TUR,Turkey,Yalova,5007.0,6150.0,175.0
+DZA,Algeria,Mascara,4961.0,122866.0,8339.0
+BIH,Bosnia and Herzegovina,Brčko Distrikt,4863.0,4863.0,36.0
+RUS,Russia,Kalmyk,4839.0,120214.0,183.0
+GEO,Georgia,Mtskheta-Mtianeti,4656.0,9597.0,2883.0
+FRA,France,Finistère,4588.0,79401.0,1525.0
+DZA,Algeria,Batna,4587.0,158419.0,213.0
+IRN,Iran,Mazandaran,4579.0,96218.0,4113.0
+AUT,Austria,Wien,4579.0,5216.0,612.0
+PRT,Portugal,Bragança,4512.0,77596.0,4360.0
+BIH,Bosnia and Herzegovina,West Bosnia,4509.0,14890.0,475.0
+EGY,Egypt,Shamal Sina',4356.0,17556.0,422.0
+AZE,Azerbaijan,Hajigabul,4341.0,19501.0,152.0
+ROU,Romania,Bucharest,4336.0,4336.0,143.0
+KOS,Kosovo,Dečani,4325.0,4325.0,18.0
+AFG,Afghanistan,Paktika,4325.0,11840.0,84.0
+TUR,Turkey,Iğdir,4286.0,31458.0,1906.0
+BGR,Bulgaria,Gabrovo,4176.0,21622.0,126.0
+MKD,Macedonia,Karbinci,4171.0,4171.0,365.0
+RUS,Russia,Sevastopol,4143.0,4143.0,6112.0
+AFG,Afghanistan,Kabul,4095.0,35033.0,0.0
+MKD,Macedonia,Rosoman,4079.0,4079.0,433.0
+AFG,Afghanistan,Kapisa,4077.0,18504.0,0.0
+HRV,Croatia,Vukovarsko-Srijemska,4067.0,106039.0,3573.0
+MKD,Macedonia,Gevgelija,4039.0,4039.0,489.0
+HRV,Croatia,Sisacko-Moslavacka,4007.0,56188.0,578.0
+CZE,Czech Republic,Liberecký,3995.0,30673.0,213.0
+TUR,Turkey,Adiyaman,3929.0,112819.0,5209.0
+DEU,Germany,Brandenburg,3891.0,518015.0,39.0
+AFG,Afghanistan,Parwan,3870.0,22755.0,0.0
+MKD,Macedonia,Negotino,3796.0,4701.0,419.0
+BIH,Bosnia and Herzegovina,Trebinje,3760.0,13808.0,337.0
+BGR,Bulgaria,Kyustendil,3726.0,21162.0,85.0
+MKD,Macedonia,Tearce,3723.0,3723.0,176.0
+FRA,France,Savoie,3717.0,3717.0,1711.0
+BGR,Bulgaria,Sofia,3707.0,53690.0,123.0
+KOS,Kosovo,Obilić,3706.0,3706.0,28.0
+PAK,Pakistan,Northern Areas,3694.0,13210.0,7.0
+AFG,Afghanistan,Laghman,3653.0,12778.0,0.0
+MKD,Macedonia,Staro Nagoričane,3593.0,18334.0,746.0
+MKD,Macedonia,Novaci,3562.0,7600.0,761.0
+CZE,Czech Republic,Prague,3363.0,7999.0,19.0
+AZE,Azerbaijan,Samux,3355.0,8009.0,497.0
+MKD,Macedonia,Veles,3348.0,8643.0,729.0
+CHE,Switzerland,Basel-Landschaft,3299.0,3912.0,164.0
+BIH,Bosnia and Herzegovina,Central Bosnia,3297.0,5766.0,123.0
+MKD,Macedonia,Tetovo,3295.0,5697.0,235.0
+CHE,Switzerland,Lucerne,3243.0,9333.0,1140.0
+IRN,Iran,Tehran,3218.0,34208.0,1964.0
+MKD,Macedonia,Debarca,3186.0,3186.0,345.0
+AFG,Afghanistan,Paktya,3178.0,20820.0,0.0
+MKD,Macedonia,Želino,3176.0,3176.0,209.0
+IRN,Iran,Kermanshah,3159.0,522776.0,12516.0
+ARG,Argentina,Mendoza,3157.0,22451.0,172901.0
+ITA,Italy,Prato,3150.0,3150.0,589.0
+HUN,Hungary,Sopron,3088.0,3088.0,964.0
+MDA,Moldova,Bălţi,3086.0,3086.0,222.0
+MKD,Macedonia,Bogdanci,3081.0,3081.0,255.0
+ESP,Spain,Santa Cruz de Tenerife,3049.0,7129.0,1681.0
+DZA,Algeria,Tissemsilt,3030.0,55234.0,502.0
+ISR,Israel,Jerusalem,2955.0,17308.0,673.0
+TUR,Turkey,Trabzon,2898.0,44186.0,892.0
+KOS,Kosovo,Štimlje,2886.0,2886.0,2.0
+KOS,Kosovo,Leposavić,2871.0,4346.0,0.0
+MKD,Macedonia,Gostivar,2847.0,2847.0,231.0
+HUN,Hungary,Kaposvár,2820.0,2820.0,154.0
+FRA,France,Lozère,2820.0,8258.0,123.0
+AZE,Azerbaijan,Şərur,2813.0,14330.0,341.0
+MKD,Macedonia,Debar,2785.0,2785.0,189.0
+TUR,Turkey,Bitlis,2781.0,17585.0,2341.0
+ESP,Spain,Bizkaia,2759.0,2759.0,1268.0
+ARM,Armenia,Syunik,2741.0,19516.0,899.0
+ALB,Albania,Shkodër,2719.0,16167.0,711.0
+MKD,Macedonia,Lipkovo,2682.0,4388.0,164.0
+TUR,Turkey,Erzincan,2680.0,35036.0,2971.0
+ITA,Italy,Messina,2618.0,2618.0,11.0
+MKD,Macedonia,Češinovo-Obleševo,2601.0,2996.0,203.0
+MKD,Macedonia,Lozovo,2588.0,2588.0,102.0
+CHE,Switzerland,Jura,2587.0,4808.0,286.0
+SVN,Slovenia,Lendava,2584.0,3963.0,327.0
+AZE,Azerbaijan,Xizı,2521.0,7229.0,427.0
+ITA,Italy,Lecco,2479.0,2479.0,462.0
+HRV,Croatia,Karlovacka,2416.0,19285.0,102.0
+AZE,Azerbaijan,Lankaran,2393.0,4054.0,0.0
+MKD,Macedonia,Demir Kapija,2356.0,2356.0,206.0
+USA,United States of America,New Mexico,2346.0,43520.0,86.0
+SVN,Slovenia,Ljutomer,2331.0,4121.0,259.0
+AZE,Azerbaijan,Masallı,2320.0,14006.0,18.0
+MKD,Macedonia,Gazi Baba,2314.0,4493.0,330.0
+ROU,Romania,Bistrita-Nasaud,2286.0,81322.0,1081.0
+MKD,Macedonia,Kavadartsi,2272.0,3755.0,484.0
+DZA,Algeria,Annaba,2267.0,24953.0,242.0
+ITA,Italy,Massa-Carrara,2257.0,2601.0,653.0
+MKD,Macedonia,Čaška,2249.0,5324.0,355.0
+MKD,Macedonia,Strumitsa,2221.0,2221.0,258.0
+AFG,Afghanistan,Takhar,2220.0,91751.0,1635.0
+ISR,Israel,HaZafon,2212.0,132675.0,4264.0
+GRC,Greece,Notio Aigaio,2205.0,16259.0,1959.0
+MKD,Macedonia,Dojran,2174.0,2174.0,265.0
+ITA,Italy,Genova,2173.0,2173.0,919.0
+AZE,Azerbaijan,Xanlar,2129.0,9600.0,338.0
+MKD,Macedonia,Jegunovce,2121.0,2121.0,124.0
 KOS,Kosovo,Kosovska Mitrovica,2100.0,2100.0,0.0
-ITA,Italy,Sondrio,2095.0,2797.0,1206.0
-CHE,Switzerland,Solothurn,2094.0,5800.0,426.0
-CHE,Switzerland,Zug,2092.0,3052.0,197.0
-SVN,Slovenia,Žalec,2082.0,2082.0,226.0
-KGZ,Kyrgyzstan,Talas,2058.0,52243.0,288.0
-SVN,Slovenia,Šmarje pri Jelšah,2047.0,2047.0,198.0
-EGY,Egypt,Matruh,2034.0,39769.0,2340.0
-MKD,Macedonia,Valandovo,2033.0,2066.0,307.0
-ARM,Armenia,Lori,2021.0,2278.0,633.0
-FRA,France,Val-de-Marne,1983.0,1983.0,30.0
-NPL,Nepal,Seti,1981.0,40416.0,0.0
-JPN,Japan,Hyōgo,1964.0,59913.0,308.0
-SVN,Slovenia,Črenšovci,1941.0,1941.0,142.0
-CYP,Cyprus,Limassol,1925.0,3448.0,333.0
-HUN,Hungary,Veszprém,1919.0,1919.0,2.0
-DZA,Algeria,Djelfa,1913.0,4549.0,101.0
-SVN,Slovenia,Cerkvenjak,1903.0,1903.0,125.0
-SVN,Slovenia,Slovenske Konjice,1879.0,1879.0,201.0
-ITA,Italy,Verbano-Cusio-Ossola,1792.0,2363.0,724.0
-SVN,Slovenia,Rogašovci,1791.0,1791.0,126.0
-USA,United States of America,Michigan,1784.0,165732.0,9130.0
-SVN,Slovenia,Šalovci,1762.0,1762.0,126.0
-SVN,Slovenia,Koper,1760.0,2072.0,1489.0
-SVN,Slovenia,Beltinci,1745.0,1745.0,66.0
-BIH,Bosnia and Herzegovina,Sarajevo-romanija,1735.0,5951.0,69.0
-SVN,Slovenia,Brežice,1732.0,1732.0,416.0
-SVN,Slovenia,Turnišče,1712.0,1712.0,66.0
-USA,United States of America,Massachusetts,1712.0,18273.0,27.0
-MKD,Macedonia,Gostivar,1675.0,3271.0,231.0
-MKD,Macedonia,Aračinovo,1626.0,1626.0,101.0
-TUR,Turkey,Van,1625.0,53571.0,3826.0
-MKD,Macedonia,Krivogaštani,1617.0,1617.0,103.0
-KEN,Kenya,Rift Valley,1610.0,223314.0,2.0
-MKD,Macedonia,Studeničani,1583.0,2341.0,100.0
-ARM,Armenia,Aragatsotn,1573.0,3369.0,615.0
-SVN,Slovenia,Puconci,1542.0,1542.0,65.0
-ROU,Romania,Covasna,1535.0,42412.0,2.0
-SVN,Slovenia,Slovenska Bistrica,1513.0,2019.0,201.0
-MKD,Macedonia,Kičevo,1506.0,1506.0,108.0
-KOR,South Korea,North Jeolla,1445.0,80182.0,2228.0
-SVN,Slovenia,Gornji Petrovci,1445.0,1445.0,116.0
-YEM,Yemen,Amanat Al Asimah,1441.0,11614.0,207.0
-MKD,Macedonia,Ohrid,1437.0,1868.0,136.0
-HRV,Croatia,Primorsko-Goranska,1396.0,3317.0,149.0
-DZA,Algeria,Chlef,1375.0,39172.0,2633.0
+MKD,Macedonia,Radoviš,2091.0,3697.0,224.0
+BIH,Bosnia and Herzegovina,Una-Sana,2090.0,36624.0,262.0
+AUS,Australia,Tasmania,2076.0,12060.0,1018.0
+CHE,Switzerland,Solothurn,2063.0,7487.0,426.0
+HUN,Hungary,Zalaegerszeg,2026.0,2026.0,0.0
+SMR,San Marino,Domagnano,2024.0,2024.0,331.0
+MDA,Moldova,Chişinău,2018.0,2018.0,532.0
+MKD,Macedonia,Štip,2015.0,9415.0,763.0
+AZE,Azerbaijan,Bakı,1958.0,7516.0,337.0
+MKD,Macedonia,Vinica,1952.0,1952.0,250.0
+MKD,Macedonia,Mogila,1921.0,4464.0,337.0
+UZB,Uzbekistan,Surkhandarya,1919.0,206178.0,0.0
+TUR,Turkey,Gümüshane,1901.0,25103.0,1426.0
+UKR,Ukraine,Ivano-Frankivs'k,1897.0,248995.0,345.0
+MAR,Morocco,Guelmim - Es-Semara,1880.0,9591.0,0.0
+HUN,Hungary,Veszprém,1858.0,1858.0,2.0
+ARG,Argentina,Río Negro,1843.0,8331.0,8525.0
+SVN,Slovenia,Črenšovci,1799.0,1799.0,142.0
+MKD,Macedonia,Kruševo,1796.0,2798.0,241.0
+HUN,Hungary,Szekszárd,1783.0,1783.0,464.0
+ITA,Italy,Sondrio,1773.0,1773.0,1206.0
+FRA,France,Haute-Corse,1771.0,1771.0,6213.0
+CHE,Switzerland,Zug,1760.0,2641.0,197.0
+HUN,Hungary,Budapest,1730.0,1730.0,50.0
+TUR,Turkey,Elazig,1653.0,59171.0,4012.0
+SVN,Slovenia,Turnišče,1646.0,1646.0,66.0
+KOS,Kosovo,Uroševac,1644.0,3679.0,3.0
+USA,United States of America,Utah,1641.0,127360.0,50.0
+MKD,Macedonia,Demir Hisar,1632.0,3245.0,341.0
+ARM,Armenia,Aragatsotn,1564.0,3355.0,615.0
+MKD,Macedonia,Aračinovo,1525.0,1525.0,101.0
+USA,United States of America,Colorado,1438.0,92845.0,331.0
+ITA,Italy,Imperia,1433.0,1433.0,573.0
+HRV,Croatia,Bjelovarsko-bilogorska,1406.0,61292.0,765.0
+SVN,Slovenia,Crnomelj,1405.0,1703.0,127.0
+MKD,Macedonia,Kičevo,1398.0,1398.0,108.0
+PRT,Portugal,Porto,1395.0,27900.0,1172.0
+MKD,Macedonia,Valandovo,1391.0,1391.0,307.0
 HUN,Hungary,Szombathely,1368.0,1368.0,0.0
-KOS,Kosovo,Kosovo Polje,1363.0,1363.0,6.0
-CYP,Cyprus,Nicosia,1360.0,4211.0,36.0
-MEX,Mexico,Coahuila,1338.0,60675.0,1063.0
-SVN,Slovenia,Videm,1289.0,1289.0,244.0
-YEM,Yemen,Shabwah,1273.0,2977.0,49.0
-MKD,Macedonia,Ilinden,1273.0,1273.0,101.0
-MKD,Macedonia,Novo Selo,1255.0,1255.0,106.0
-ESP,Spain,Las Palmas,1223.0,1551.0,1558.0
-MKD,Macedonia,Čučer Sandevo,1222.0,1874.0,110.0
-SVN,Slovenia,Križevci,1217.0,1217.0,65.0
-AUS,Australia,Australian Capital Territory,1206.0,4047.0,59.0
-SVN,Slovenia,Braslovce,1176.0,1176.0,111.0
-LBN,Lebanon,An Nabatiyah,1162.0,15820.0,794.0
-TUN,Tunisia,Sfax,1155.0,12619.0,0.0
-SVN,Slovenia,Markovci,1151.0,1151.0,65.0
-KOS,Kosovo,Novo Brdo,1137.0,1137.0,1.0
-MNE,Montenegro,Cetinje,1137.0,1714.0,47.0
-PER,Peru,Arequipa,1130.0,20696.0,595.0
-FRA,France,Seine-Saint-Denis,1127.0,1127.0,36.0
-NPL,Nepal,Mahakali,1074.0,30826.0,0.0
-SYR,Syria,Hamah,1054.0,18180.0,4088.0
-AZE,Azerbaijan,Kəlbəcər,1046.0,2808.0,0.0
-AFG,Afghanistan,Bamyan,1042.0,4957.0,0.0
-SVN,Slovenia,Vojnik,1014.0,1014.0,121.0
-MKD,Macedonia,Makedonska Kamenica,1003.0,1003.0,164.0
+KOS,Kosovo,Kosovo Polje,1356.0,1356.0,6.0
+HRV,Croatia,Primorsko-Goranska,1349.0,1349.0,149.0
+MEX,Mexico,Chihuahua,1341.0,147606.0,392.0
+AZE,Azerbaijan,Balakən,1336.0,9135.0,275.0
+TUR,Turkey,Agri,1319.0,18968.0,4907.0
+CHE,Switzerland,Sankt Gallen,1302.0,6132.0,845.0
+DEU,Germany,Thüringen,1296.0,409720.0,88.0
+MKD,Macedonia,Drugovo,1276.0,1859.0,158.0
+MKD,Macedonia,Novo Selo,1148.0,1148.0,106.0
+CYP,Cyprus,Paphos,1144.0,2395.0,699.0
+MKD,Macedonia,Resen,1144.0,2152.0,305.0
+AZE,Azerbaijan,Siyəzən,1118.0,6942.0,167.0
+MKD,Macedonia,Plasnica,1095.0,1452.0,119.0
+ITA,Italy,La Spezia,1087.0,1087.0,368.0
+FRA,France,Seine-Saint-Denis,1086.0,1086.0,36.0
+ARM,Armenia,Lori,1076.0,1511.0,633.0
+MNE,Montenegro,Nikšic,1059.0,1902.0,381.0
+MKD,Macedonia,Oslomej,1029.0,1831.0,91.0
 KOS,Kosovo,Zvečan,992.0,992.0,0.0
-MNE,Montenegro,Podgorica,966.0,3010.0,2877.0
-CHN,China,Fujian,965.0,253816.0,10748.0
-SVN,Slovenia,Ivancna Gorica,963.0,1829.0,177.0
-DZA,Algeria,Alger,956.0,956.0,160.0
-SVN,Slovenia,Radenci,950.0,950.0,378.0
-AUT,Austria,Vorarlberg,932.0,1842.0,113.0
-TJK,Tajikistan,Dushanbe,909.0,909.0,49.0
-CHE,Switzerland,Neuchâtel,900.0,1954.0,599.0
-SVN,Slovenia,Žužemberk,878.0,878.0,87.0
-SVN,Slovenia,Destrnik,855.0,855.0,136.0
-SVN,Slovenia,Gornja Radgona,847.0,847.0,411.0
-MKD,Macedonia,Kriva Palanka,844.0,2367.0,210.0
-GBR,United Kingdom,Kent,838.0,33598.0,1415.0
-MNE,Montenegro,Danilovgrad,836.0,1122.0,129.0
-SVN,Slovenia,Pesnica,826.0,826.0,238.0
-MEX,Mexico,Baja California Sur,815.0,63267.0,53.0
-SVN,Slovenia,Ig,807.0,1503.0,160.0
-GEO,Georgia,Tbilisi,806.0,806.0,126.0
-SVN,Slovenia,Metlika,793.0,793.0,63.0
-MKD,Macedonia,Karpoš,788.0,788.0,87.0
-MKD,Macedonia,Zelenikovo,738.0,1175.0,33.0
-GBR,United Kingdom,Thurrock,732.0,3886.0,0.0
-SVN,Slovenia,Murska Sobota,720.0,720.0,33.0
-HUN,Hungary,Tatabánya,717.0,717.0,2.0
-SVN,Slovenia,Šentjur pri Celju,700.0,700.0,81.0
-MNE,Montenegro,Ulcinj,679.0,679.0,117.0
-MNE,Montenegro,Bar,676.0,752.0,17.0
-SVN,Slovenia,Zavrc,662.0,662.0,288.0
-AZE,Azerbaijan,Şəki,662.0,662.0,0.0
-SVN,Slovenia,Trzin,658.0,658.0,38.0
-TUR,Turkey,Siirt,638.0,10540.0,1941.0
-MKD,Macedonia,Centar župa,634.0,634.0,50.0
-PAK,Pakistan,Sind,632.0,914510.0,365.0
-JOR,Jordan,Balqa,626.0,2925.0,498.0
-BGR,Bulgaria,Grad Sofiya,603.0,9173.0,1.0
-CHN,China,Sichuan,601.0,186380.0,26534.0
-JOR,Jordan,Ma`an,594.0,870.0,64.0
-SVN,Slovenia,Tabor,588.0,588.0,79.0
-CHE,Switzerland,Valais,587.0,1658.0,4828.0
-BIH,Bosnia and Herzegovina,Bosnian Podrinje,583.0,1087.0,9.0
-SVN,Slovenia,Slovenj Gradec,583.0,847.0,156.0
-DZA,Algeria,El Bayadh,579.0,840.0,72.0
-SVN,Slovenia,Ilirska Bistrica,574.0,908.0,121.0
-HUN,Hungary,Eger,567.0,567.0,1574.0
-AFG,Afghanistan,Jawzjan,554.0,7217.0,129.0
-USA,United States of America,Rhode Island,549.0,2112.0,35.0
-AFG,Afghanistan,Badghis,537.0,23545.0,6084.0
-DEU,Germany,Berlin,535.0,2990.0,1.0
-SVN,Slovenia,Oplotnica,524.0,524.0,149.0
-SVN,Slovenia,Celje,517.0,517.0,63.0
-SVN,Slovenia,Grosuplje,514.0,1376.0,140.0
-SVN,Slovenia,Šmartno in Litiji,510.0,510.0,59.0
-AZE,Azerbaijan,Shirvan,508.0,508.0,0.0
-JPN,Japan,Shimane,501.0,26033.0,133.0
-TUN,Tunisia,Gafsa,491.0,4007.0,0.0
-JPN,Japan,Kanagawa,487.0,5799.0,69.0
-CHE,Switzerland,Ticino,483.0,615.0,740.0
-MKD,Macedonia,Brod,449.0,2538.0,38.0
-SVN,Slovenia,Nazarje,437.0,609.0,80.0
-SYR,Syria,Homs (Hims),433.0,17155.0,3860.0
-GBR,United Kingdom,Surrey,396.0,4505.0,284.0
-TUR,Turkey,Diyarbakir,389.0,30940.0,9824.0
-ARM,Armenia,Erevan,387.0,1340.0,70.0
-JPN,Japan,Kyōto,377.0,16229.0,132.0
-TUR,Turkey,Erzurum,374.0,76495.0,6711.0
-AFG,Afghanistan,Logar,371.0,4449.0,0.0
-DEU,Germany,Mecklenburg-Vorpommern,344.0,55894.0,7.0
-JPN,Japan,Tottori,341.0,20059.0,142.0
-OMN,Oman,Al Buraymi,326.0,3560.0,1.0
-MKD,Macedonia,Rankovce,304.0,1552.0,191.0
-MKD,Macedonia,Demir Hisar,276.0,3847.0,341.0
-MKD,Macedonia,Brvenica,271.0,942.0,110.0
-KOS,Kosovo,Zubin Potok,261.0,1598.0,0.0
-ITA,Italy,Trieste,256.0,820.0,158.0
-NZL,New Zealand,Otago,224.0,5265.0,2254.0
-TKM,Turkmenistan,Balkan,201.0,2157.0,543.0
-TKM,Turkmenistan,Ahal,201.0,149983.0,7163.0
-ARG,Argentina,La Pampa,157.0,18115.0,1592.0
-JPN,Japan,Ōsaka,128.0,3907.0,28.0
-HRV,Croatia,Bjelovarsko-bilogorska,81.0,2375.0,765.0
-TUN,Tunisia,Gabès,69.0,5626.0,119.0
-ARG,Argentina,Neuquén,55.0,2452.0,2126.0
-IRN,Iran,Yazd,6.0,21782.0,871.0
-ARG,Argentina,Chubut,4.0,1730.0,288.0
-NER,Niger,Diffa,0.0,2785.0,0.0
-TUN,Tunisia,Monastir,0.0,2327.0,0.0
-PER,Peru,Moquegua,0.0,2978.0,62.0
-PER,Peru,Lambayeque,0.0,67349.0,1206.0
-PER,Peru,La Libertad,0.0,36755.0,2801.0
-PER,Peru,Áncash,0.0,6783.0,2184.0
-UZB,Uzbekistan,Bukhoro,0.0,139707.0,5.0
-UZB,Uzbekistan,Khorezm,0.0,151139.0,18.0
-TKM,Turkmenistan,Tashauz,0.0,218929.0,1848.0
-ARG,Argentina,La Rioja,0.0,5957.0,14121.0
-SDN,Sudan,White Nile,0.0,1629.0,0.0
-GBR,United Kingdom,Worcestershire,0.0,1440.0,78.0
-GBR,United Kingdom,Bracknell Forest,0.0,1988.0,0.0
-URY,Uruguay,Maldonado,0.0,1790.0,57.0
-BRA,Brazil,Bahia,0.0,3605.0,14643.0
-GEO,Georgia,Guria,0.0,9899.0,1175.0
-URY,Uruguay,Cerro Largo,0.0,4960.0,338.0
-URY,Uruguay,Treinta y Tres,0.0,2895.0,407.0
-URY,Uruguay,Rocha,0.0,9204.0,244.0
-SDN,Sudan,Red Sea,0.0,48351.0,0.0
-CYN,Northern Cyprus,Northern Cyprus,0.0,1252.0,9.0
-GBR,United Kingdom,Warwickshire,0.0,14379.0,9.0
-CHN,China,Henan,0.0,116905.0,25067.0
-CHN,China,Shanxi,0.0,15562.0,35735.0
-CHN,China,Ningxia,0.0,127063.0,6045.0
-TUR,Turkey,Mus,0.0,2622.0,4417.0
-TUR,Turkey,Batman,0.0,1055.0,2268.0
-POL,Poland,Opole,0.0,175605.0,8.0
-POL,Poland,Lower Silesian,0.0,218585.0,152.0
-TJK,Tajikistan,Gorno-Badakhshan,0.0,2430.0,2408.0
-TUR,Turkey,Bayburt,0.0,19366.0,1055.0
-RUS,Russia,Orel,0.0,23550.0,1401.0
-PER,Peru,Lima,0.0,21769.0,1098.0
-ARG,Argentina,Santiago del Estero,0.0,12171.0,118.0
-AFG,Afghanistan,Sari Pul,0.0,32249.0,0.0
-AFG,Afghanistan,Wardak,0.0,1263.0,0.0
-DZA,Algeria,Biskra,0.0,15025.0,251.0
-ARG,Argentina,Tucumán,0.0,27734.0,3216.0
-ITA,Italy,Aoste,0.0,1819.0,1648.0
-TUR,Turkey,Hakkari,0.0,3576.0,945.0
-TUR,Turkey,Sirnak,0.0,2312.0,1947.0
-IRQ,Iraq,Dihok,0.0,7553.0,363.0
-TUR,Turkey,Agri,0.0,30573.0,4907.0
-NLD,Netherlands,Limburg,0.0,4069.0,96.0
-KOR,South Korea,Daegu,0.0,7972.0,94.0
-GBR,United Kingdom,Gloucestershire,0.0,4434.0,104.0
-NPL,Nepal,Bheri,0.0,21457.0,0.0
-NPL,Nepal,Rapti,0.0,41883.0,0.0
-KOR,South Korea,Gwangju,0.0,2154.0,6.0
-KOR,South Korea,North Chungcheong,0.0,17067.0,2807.0
-GBR,United Kingdom,Northamptonshire,0.0,6572.0,10.0
-GBR,United Kingdom,Bedford,0.0,4068.0,2.0
-GBR,United Kingdom,Central Bedfordshire,0.0,10220.0,8.0
-GBR,United Kingdom,Buckinghamshire,0.0,20372.0,17.0
-GBR,United Kingdom,Milton Keynes,0.0,9148.0,1.0
-GBR,United Kingdom,Cambridgeshire,0.0,45549.0,16.0
-EGY,Egypt,Al Minufiyah,0.0,92422.0,622.0
-GBR,United Kingdom,Hertfordshire,0.0,11057.0,25.0
-GBR,United Kingdom,Wiltshire,0.0,3649.0,24.0
-GBR,United Kingdom,Reading,0.0,1313.0,0.0
-GBR,United Kingdom,Royal Borough of Windsor and Maidenhead,0.0,4423.0,1.0
-GBR,United Kingdom,Wokingham,0.0,1453.0,10.0
-GBR,United Kingdom,West Berkshire,0.0,1316.0,25.0
-GBR,United Kingdom,Oxfordshire,0.0,40884.0,35.0
-EGY,Egypt,Qina,0.0,149318.0,1087.0
-EGY,Egypt,Suhaj,0.0,117771.0,234.0
-EGY,Egypt,Al Gharbiyah,0.0,159446.0,3618.0
-EGY,Egypt,Al Qalyubiyah,0.0,62384.0,112.0
-GBR,United Kingdom,Havering,0.0,2601.0,0.0
-SAU,Saudi Arabia,Al Madinah,0.0,2421.0,811.0
-IRN,Iran,Ilam,0.0,39802.0,6073.0
-TKM,Turkmenistan,Mary,0.0,282415.0,7329.0
-UKR,Ukraine,L'viv,0.0,286702.0,927.0
-POL,Poland,Lublin,0.0,187989.0,210.0
-POL,Poland,West Pomeranian,0.0,3150.0,75.0
-POL,Poland,Lubusz,0.0,15999.0,170.0
-ARM,Armenia,Kotayk,0.0,1755.0,734.0
-ZAF,South Africa,KwaZulu-Natal,0.0,26438.0,141.0
-BEL,Belgium,Limburg,0.0,2269.0,147.0
-IRN,Iran,Hormozgan,0.0,5826.0,869.0
-JPN,Japan,Kagoshima,0.0,9943.0,426.0
-EGY,Egypt,Dumyat,0.0,27641.0,217.0
-JOR,Jordan,Amman,0.0,14854.0,380.0
-SAU,Saudi Arabia,Al Jawf,0.0,3566.0,1006.0
-AFG,Afghanistan,Kandahar,0.0,9224.0,3.0
-MMR,Myanmar,Kachin,0.0,1598.0,1.0
-EGY,Egypt,Al Bahr al Ahmar,0.0,6795.0,202.0
-EGY,Egypt,Aswan,0.0,55354.0,53.0
-SDN,Sudan,Northern,0.0,67593.0,0.0
-EGY,Egypt,Al Wadi at Jadid,0.0,62285.0,1321.0
-LBY,Libya,Ajdabiya,0.0,1113.0,0.0
-YEM,Yemen,Hadramawt,0.0,13034.0,1013.0
-LBY,Libya,Murzuq,0.0,2505.0,42.0
-MRT,Mauritania,Trarza,0.0,20581.0,0.0
-YEM,Yemen,Lahij,0.0,3864.0,313.0
-AFG,Afghanistan,Balkh,0.0,15077.0,1407.0
-TUR,Turkey,Kilis,0.0,1979.0,1301.0
-TUR,Turkey,Sanliurfa,0.0,20932.0,12581.0
-TUR,Turkey,Kars,0.0,8628.0,5462.0
-NPL,Nepal,Sagarmatha,0.0,4878.0,0.0
-NPL,Nepal,Gandaki,0.0,6377.0,0.0
-OMN,Oman,Al Batnah South,0.0,4502.0,0.0
-YEM,Yemen,Abyan,0.0,10985.0,195.0
-SEN,Senegal,Saint-Louis,0.0,12503.0,0.0
-SYR,Syria,As Suwayda',0.0,6103.0,723.0
-JOR,Jordan,Mafraq,0.0,13588.0,635.0
-RUS,Russia,Saratov,0.0,126750.0,1600.0
-LBY,Libya,Al Kufrah,0.0,1678.0,6.0
-SAU,Saudi Arabia,Jizan,0.0,53600.0,23.0
-YEM,Yemen,Sa`dah,0.0,8797.0,188.0
-SAU,Saudi Arabia,Najran,0.0,3326.0,46.0
-MEX,Mexico,Nuevo León,0.0,8591.0,12.0
-AFG,Afghanistan,Farah,0.0,2865.0,8.0
-IRN,Iran,Sistan and Baluchestan,0.0,6135.0,1566.0
-NPL,Nepal,Lumbini,0.0,6195.0,0.0
-TUN,Tunisia,Ben Arous (Tunis Sud),0.0,15964.0,939.0
-LBY,Libya,Az Zawiyah,0.0,2355.0,1427.0
-LBY,Libya,Tajura' wa an Nawahi al Arba,0.0,3236.0,619.0
-LBY,Libya,Al Marqab,0.0,8957.0,306.0
-LBY,Libya,Misratah,0.0,5920.0,316.0
-AFG,Afghanistan,Hilmand,0.0,23601.0,0.0
-CAN,Canada,Ontario,0.0,17533.0,6359.0
-CHN,China,Xinjiang,0.0,1347790.0,150825.0
-ISR,Israel,HaDarom,0.0,77952.0,2470.0
-PSX,Gaza Strip,Gaza Strip,0.0,4683.0,144.0
-PSX,West Bank,West Bank,0.0,9368.0,2231.0
-ISR,Israel,HaMerkaz,0.0,27611.0,1043.0
-PER,Peru,Piura,0.0,15339.0,3918.0
-ZAF,South Africa,Mpumalanga,0.0,2928.0,18733.0
-SYR,Syria,Dar`a,0.0,27117.0,2199.0
-IND,India,Rajasthan,0.0,92564.0,4521.0
-PAK,Pakistan,Punjab,0.0,20984.0,118.0
-KEN,Kenya,Eastern,0.0,7680.0,0.0
-ARG,Argentina,Catamarca,0.0,21558.0,11386.0
-UZB,Uzbekistan,Karakalpakstan,0.0,241781.0,53.0
-KAZ,Kazakhstan,Qyzylorda,0.0,55870.0,332.0
-ARG,Argentina,San Juan,0.0,9863.0,50674.0
-EGY,Egypt,Shamal Sina',0.0,20296.0,422.0
-LBY,Libya,Ash Shati',0.0,1950.0,2.0
-ROU,Romania,Harghita,0.0,2245.0,172.0
-ROU,Romania,Mures,0.0,36050.0,11428.0
-SAU,Saudi Arabia,Ar Riyad,0.0,11425.0,1374.0
-SAU,Saudi Arabia,Tabuk,0.0,26531.0,1420.0
-EGY,Egypt,As Suways,0.0,8168.0,301.0
-GBR,United Kingdom,Hampshire,0.0,4348.0,339.0
+AZE,Azerbaijan,Cəbrayıl,991.0,7541.0,50.0
+TUR,Turkey,Tunceli,943.0,9035.0,1164.0
+SVN,Slovenia,Krško,927.0,3825.0,710.0
+ITA,Italy,Bozen,860.0,1655.0,5791.0
+TJK,Tajikistan,Dushanbe,860.0,860.0,49.0
+CZE,Czech Republic,Jihočeský,849.0,170169.0,9178.0
+MKD,Macedonia,Čučer Sandevo,835.0,1236.0,110.0
+SVN,Slovenia,Ormož,829.0,3898.0,1393.0
+PER,Peru,Lima,826.0,30742.0,1098.0
+TUR,Turkey,Van,824.0,18972.0,3826.0
+USA,United States of America,Alabama,795.0,193785.0,46.0
+MKD,Macedonia,Studeničani,775.0,2247.0,100.0
+KAZ,Kazakhstan,Qyzylorda,773.0,66901.0,332.0
+AFG,Afghanistan,Khost,773.0,23741.0,68.0
+BIH,Bosnia and Herzegovina,Sarajevo,750.0,3069.0,59.0
+LUX,Luxembourg,Diekirch,741.0,6399.0,380.0
+SVN,Slovenia,Metlika,729.0,729.0,63.0
+CHE,Switzerland,Neuchâtel,726.0,1639.0,599.0
+HUN,Hungary,Tatabánya,714.0,714.0,2.0
+MKD,Macedonia,Karpoš,701.0,701.0,87.0
+AZE,Azerbaijan,Yardımlı,618.0,6024.0,70.0
+MKD,Macedonia,Kočani,610.0,8952.0,341.0
+MKD,Macedonia,Centar župa,585.0,585.0,50.0
+MKD,Macedonia,Gradsko,572.0,4197.0,311.0
+MKD,Macedonia,Brvenica,569.0,569.0,110.0
+MKD,Macedonia,Ohrid,554.0,554.0,136.0
+GEO,Georgia,Samtskhe-Javakheti,536.0,12440.0,4225.0
+SVN,Slovenia,Videm,470.0,1046.0,244.0
+FRA,France,Val-de-Marne,458.0,1943.0,30.0
+MKD,Macedonia,Zelenikovo,416.0,853.0,33.0
+AZE,Azerbaijan,Abşeron,413.0,4064.0,172.0
+ITA,Italy,Verbano-Cusio-Ossola,372.0,646.0,724.0
+DZA,Algeria,Tizi Ouzou,342.0,32638.0,1664.0
+BIH,Bosnia and Herzegovina,Foča,319.0,1245.0,88.0
+RUS,Russia,Volgograd,292.0,932850.0,1663.0
+CAN,Canada,British Columbia,127.0,7841.0,4466.0
+UKR,Ukraine,Luhans'k,0.0,223060.0,1557.0
+UKR,Ukraine,Kharkiv,0.0,255975.0,2205.0
+RUS,Russia,Belgorod,0.0,913942.0,1652.0
+RUS,Russia,Kursk,0.0,256881.0,1596.0
+UKR,Ukraine,Sumy,0.0,109890.0,1418.0
+UKR,Ukraine,L'viv,0.0,397959.0,927.0
+POL,Poland,Lublin,0.0,95057.0,210.0
+AUT,Austria,Kärnten,0.0,8810.0,2342.0
+DEU,Germany,Mecklenburg-Vorpommern,0.0,266320.0,7.0
+POL,Poland,Lubusz,0.0,40265.0,170.0
+DZA,Algeria,Tébessa,0.0,110121.0,86.0
+EGY,Egypt,Matruh,0.0,29784.0,2340.0
+TUN,Tunisia,Kassérine,0.0,91981.0,4.0
+TUR,Turkey,Sanliurfa,0.0,41401.0,12581.0
+SYR,Syria,Hasaka (Al Haksa),0.0,103268.0,8856.0
+TKM,Turkmenistan,Ahal,0.0,254902.0,7163.0
+AFG,Afghanistan,Badghis,0.0,40677.0,6084.0
+TKM,Turkmenistan,Mary,0.0,439290.0,7329.0
+SVN,Slovenia,Šalovci,0.0,1636.0,126.0
+SVN,Slovenia,Gornji Petrovci,0.0,1329.0,116.0
+AFG,Afghanistan,Balkh,0.0,63977.0,1407.0
+AFG,Afghanistan,Kunduz,0.0,62560.0,2136.0
+ZAF,South Africa,KwaZulu-Natal,0.0,3772.0,141.0
+UKR,Ukraine,Donets'k,0.0,775003.0,1764.0
+ZAF,South Africa,Eastern Cape,0.0,3247.0,1384.0
+SVN,Slovenia,Maribor,0.0,1632.0,579.0
+SVN,Slovenia,Apace,0.0,2900.0,190.0
+SVN,Slovenia,Cankova,0.0,2589.0,131.0
+TUN,Tunisia,Le Kef,0.0,142565.0,113.0
+RUS,Russia,Voronezh,0.0,1195375.0,2318.0
+IND,India,West Bengal,0.0,2212.0,1.0
+IND,India,Sikkim,0.0,5053.0,0.0
+MKD,Macedonia,Kriva Palanka,0.0,1692.0,210.0
+MKD,Macedonia,Rankovce,0.0,2016.0,191.0
+SRB,Republic of Serbia,Pirotski,0.0,25453.0,15.0
+MKD,Macedonia,Delčevo,0.0,5794.0,448.0
+AUT,Austria,Steiermark,0.0,106344.0,5385.0
+MKD,Macedonia,Berovo,0.0,2977.0,315.0
+MKD,Macedonia,Pehčevo,0.0,2061.0,200.0
+IND,India,Uttarakhand,0.0,29028.0,103.0
+KOS,Kosovo,Podujevo,0.0,14423.0,42.0
+KOS,Kosovo,Zubin Potok,0.0,1092.0,0.0
+KOS,Kosovo,Priština,0.0,9770.0,15.0
+BEL,Belgium,Limburg,0.0,1884.0,147.0
+SVN,Slovenia,Rogašovci,0.0,1664.0,126.0
+MKD,Macedonia,Makedonska Kamenica,0.0,1683.0,164.0
+ARG,Argentina,La Rioja,0.0,2400.0,14121.0
+ARG,Argentina,Catamarca,0.0,16127.0,11386.0
+IRN,Iran,South Khorasan,0.0,20443.0,550.0
+IRN,Iran,Golestan,0.0,105655.0,5910.0
+UZB,Uzbekistan,Bukhoro,0.0,144790.0,5.0
+UZB,Uzbekistan,Khorezm,0.0,154316.0,18.0
+TKM,Turkmenistan,Tashauz,0.0,233372.0,1848.0
+UZB,Uzbekistan,Karakalpakstan,0.0,350498.0,53.0
+TKM,Turkmenistan,Balkan,0.0,2903.0,543.0
+GTM,Guatemala,Huehuetenango,0.0,1637.0,172.0
+TUR,Turkey,Mardin,0.0,6915.0,4924.0
+DZA,Algeria,Biskra,0.0,1312.0,251.0
+DZA,Algeria,Khenchela,0.0,46734.0,88.0
+DZA,Algeria,M'Sila,0.0,5838.0,0.0
+DZA,Algeria,Tiaret,0.0,169549.0,2081.0
+AFG,Afghanistan,Uruzgan,0.0,4117.0,0.0
+DZA,Algeria,Relizane,0.0,49002.0,4939.0
+DZA,Algeria,Aïn Defla,0.0,83656.0,1542.0
+ARG,Argentina,Córdoba,0.0,20904.0,16641.0
+ARG,Argentina,La Pampa,0.0,6389.0,1592.0
+ARG,Argentina,San Luis,0.0,9322.0,1589.0
+AFG,Afghanistan,Sari Pul,0.0,43334.0,0.0
+DZA,Algeria,Djelfa,0.0,5609.0,101.0
+SYR,Syria,Dar`a,0.0,66450.0,2199.0
+JOR,Jordan,Mafraq,0.0,3461.0,635.0
+RUS,Russia,Astrakhan',0.0,12399.0,400.0
+RUS,Russia,Saratov,0.0,5418.0,1600.0
+SAU,Saudi Arabia,Al Jawf,0.0,2559.0,1006.0
+AFG,Afghanistan,Hilmand,0.0,18591.0,0.0
+AFG,Afghanistan,Kandahar,0.0,19634.0,3.0
+AFG,Afghanistan,Zabul,0.0,1294.0,0.0
+AFG,Afghanistan,Nuristan,0.0,8479.0,13.0
+YEM,Yemen,Sa`dah,0.0,3299.0,188.0
+ARG,Argentina,San Juan,0.0,1390.0,50674.0
+IND,India,Meghalaya,0.0,46008.0,0.0
+USA,United States of America,Texas,0.0,153746.0,728.0
+MEX,Mexico,Sonora,0.0,26335.0,9475.0
+USA,United States of America,New York,0.0,23489.0,12234.0
+USA,United States of America,Pennsylvania,0.0,184054.0,5200.0
+USA,United States of America,Ohio,0.0,106803.0,222.0
+CAN,Canada,Ontario,0.0,3480.0,6359.0
+USA,United States of America,Montana,0.0,51777.0,3.0
+SVN,Slovenia,Moravske Toplice,0.0,4349.0,257.0
+MEX,Mexico,Coahuila,0.0,28016.0,1063.0
+CHL,Chile,Los Ríos,0.0,3712.0,100.0
+JOR,Jordan,Amman,0.0,11808.0,380.0
+GBR,United Kingdom,Norfolk,0.0,6373.0,66.0
+GBR,United Kingdom,Newport,0.0,1285.0,0.0
+GBR,United Kingdom,South Gloucestershire,0.0,1064.0,4.0
+POL,Poland,Lower Silesian,0.0,133368.0,152.0
+POL,Poland,Opole,0.0,103753.0,8.0
+CZE,Czech Republic,Pardubický,0.0,125651.0,31.0
+AZE,Azerbaijan,Gədəbəy,0.0,10774.0,168.0
+GBR,United Kingdom,Dorset,0.0,42794.0,29.0
+ARM,Armenia,Vayots Dzor,0.0,3074.0,131.0
+ARM,Armenia,Ararat,0.0,12674.0,436.0
+AFG,Afghanistan,Samangan,0.0,59680.0,0.0
+AZE,Azerbaijan,Babək,0.0,8754.0,351.0
+AZE,Azerbaijan,Şahbuz,0.0,1256.0,163.0
+AZE,Azerbaijan,Ordubad,0.0,2387.0,65.0
+SVK,Slovakia,Žilinský,0.0,3863.0,7.0
+POL,Poland,Silesian,0.0,42512.0,21.0
+POL,Poland,Lesser Poland,0.0,107652.0,134.0
+POL,Poland,Subcarpathian,0.0,140382.0,125.0
+LBN,Lebanon,Mount Lebanon,0.0,17311.0,912.0
+TUR,Turkey,Adana,0.0,268809.0,8873.0
+TUR,Turkey,Hakkari,0.0,4037.0,945.0
+TUR,Turkey,Rize,0.0,7290.0,371.0
+AZE,Azerbaijan,Sədərək,0.0,3927.0,107.0
+NLD,Netherlands,Limburg,0.0,2739.0,96.0
+DZA,Algeria,Aïn Témouchent,0.0,79272.0,3605.0
+PRT,Portugal,Viana do Castelo,0.0,11606.0,1570.0
+PAK,Pakistan,Azad Kashmir,0.0,64578.0,36.0
+SVN,Slovenia,Novo Mesto,0.0,3230.0,357.0
+SVN,Slovenia,Brežice,0.0,1097.0,416.0
+GEO,Georgia,Guria,0.0,6124.0,1175.0
+BIH,Bosnia and Herzegovina,Sarajevo-romanija,0.0,4387.0,69.0
+GBR,United Kingdom,Gloucestershire,0.0,5943.0,104.0
+PAK,Pakistan,Punjab,0.0,12617.0,118.0
+GBR,United Kingdom,Suffolk,0.0,104556.0,36.0
+GBR,United Kingdom,Cornwall,0.0,2081.0,22.0
+GBR,United Kingdom,Torbay,0.0,1009.0,0.0
+GBR,United Kingdom,Devon,0.0,3383.0,87.0
+EGY,Egypt,As Suways,0.0,7938.0,301.0
+TUN,Tunisia,Ben Arous (Tunis Sud),0.0,15707.0,939.0
+GBR,United Kingdom,West Sussex,0.0,26971.0,521.0
+GBR,United Kingdom,East Sussex,0.0,22386.0,137.0
+GBR,United Kingdom,Kent,0.0,84652.0,1415.0
+GBR,United Kingdom,North Somerset,0.0,1040.0,2.0
 GBR,United Kingdom,Southend-on-Sea,0.0,2607.0,0.0
-DZA,Algeria,Relizane,0.0,39520.0,4939.0
-EGY,Egypt,Ash Sharqiyah,0.0,315348.0,2098.0
-EGY,Egypt,Ad Daqahliyah,0.0,245459.0,4095.0
-EGY,Egypt,Kafr ash Shaykh,0.0,181747.0,1215.0
-JPN,Japan,Fukushima,0.0,53791.0,811.0
-JPN,Japan,Niigata,0.0,10339.0,810.0
-JPN,Japan,Toyama,0.0,36906.0,381.0
-JPN,Japan,Ishikawa,0.0,27119.0,219.0
-JPN,Japan,Fukui,0.0,28347.0,139.0
-EGY,Egypt,Al Isma`iliyah,0.0,111842.0,1131.0
-JPN,Japan,Gifu,0.0,13315.0,175.0
-JPN,Japan,Tochigi,0.0,43167.0,936.0
-JPN,Japan,Gunma,0.0,17089.0,410.0
-JOR,Jordan,Jarash,0.0,1581.0,214.0
-JOR,Jordan,Ajlun,0.0,6405.0,176.0
-KEN,Kenya,Central,0.0,7722.0,0.0
-EGY,Egypt,Bani Suwayf,0.0,128165.0,2433.0
-EGY,Egypt,Al Fayyum,0.0,142355.0,946.0
-MLI,Mali,Timbuktu,0.0,13702.0,0.0
-EGY,Egypt,Al Jizah,0.0,95780.0,2002.0
-KEN,Kenya,Nairobi,0.0,1062.0,0.0
-PER,Peru,Huancavelica,0.0,2316.0,1457.0
-PER,Peru,Ayacucho,0.0,2444.0,1224.0
-KOR,South Korea,Jeju,0.0,40311.0,1.0
-SAU,Saudi Arabia,Ash Sharqiyah,0.0,1560.0,31.0
-SVN,Slovenia,Komenda,0.0,1430.0,116.0
-SVN,Slovenia,Nova Goriška,0.0,1319.0,1100.0
-EGY,Egypt,Al Minya,0.0,210024.0,5239.0
-KOR,South Korea,Ulsan,0.0,15102.0,47.0
-KOR,South Korea,Busan,0.0,1492.0,2.0
-CHN,China,Hebei,0.0,7839.0,93783.0
-IND,India,Karnataka,0.0,1262.0,22441.0
-SDN,Sudan,River Nile,0.0,22675.0,0.0
-USA,United States of America,Louisiana,0.0,31498.0,15.0
-JPN,Japan,Tokushima,0.0,9994.0,99.0
-JPN,Japan,Yamaguchi,0.0,30084.0,232.0
-JPN,Japan,Wakayama,0.0,5874.0,77.0
-JPN,Japan,Hiroshima,0.0,34155.0,192.0
-EGY,Egypt,Al Buhayrah,0.0,421847.0,10069.0
-EGY,Egypt,Al Iskandariyah,0.0,68683.0,2092.0
-LBY,Libya,Benghazi,0.0,15654.0,485.0
-JPN,Japan,Fukuoka,0.0,23242.0,263.0
-JPN,Japan,Saga,0.0,16359.0,154.0
-JPN,Japan,Nagasaki,0.0,12735.0,136.0
-JPN,Japan,Aichi,0.0,9474.0,58.0
-KOR,South Korea,South Chungcheong,0.0,39869.0,1518.0
-JPN,Japan,Kōchi,0.0,6253.0,145.0
-JPN,Japan,Ehime,0.0,14469.0,210.0
-JPN,Japan,Kagawa,0.0,14389.0,91.0
-JPN,Japan,Shizuoka,0.0,19727.0,227.0
-JPN,Japan,Miyazaki,0.0,7540.0,210.0
-NPL,Nepal,Dhawalagiri,0.0,37222.0,0.0
-NPL,Nepal,Karnali,0.0,28876.0,0.0
-KOR,South Korea,North Gyeongsang,0.0,153641.0,222.0
-IRN,Iran,Khuzestan,0.0,2985.0,15838.0
-JPN,Japan,Tokyo,0.0,2328.0,39.0
-JPN,Japan,Chiba,0.0,72774.0,541.0
-JPN,Japan,Ibaraki,0.0,68557.0,677.0
-GBR,United Kingdom,Essex,0.0,68286.0,255.0
-GBR,United Kingdom,Suffolk,0.0,40820.0,36.0
-GBR,United Kingdom,Medway,0.0,2121.0,32.0
-ZAF,South Africa,Limpopo,0.0,25592.0,6687.0
-JOR,Jordan,Madaba,0.0,3244.0,193.0
-JPN,Japan,Kumamoto,0.0,37107.0,274.0
-ARG,Argentina,San Luis,0.0,5122.0,1589.0
-AZE,Azerbaijan,Ordubad,0.0,2893.0,65.0
-AZE,Azerbaijan,Şahbuz,0.0,2259.0,163.0
-ARM,Armenia,Ararat,0.0,1518.0,436.0
-KGZ,Kyrgyzstan,Ysyk-Köl,0.0,57311.0,531.0
-ARM,Armenia,Vayots Dzor,0.0,1071.0,131.0
-JPN,Japan,Saitama,0.0,10466.0,84.0
-AZE,Azerbaijan,Culfa,0.0,2616.0,297.0
-NGA,Nigeria,Kano,0.0,22788.0,0.0
-MEX,Mexico,Durango,0.0,45507.0,325.0
-MEX,Mexico,Zacatecas,0.0,3041.0,10945.0
-MEX,Mexico,San Luis Potosí,0.0,11144.0,470.0
-MEX,Mexico,Guanajuato,0.0,5687.0,366.0
-PRK,North Korea,Kangwŏn-do,0.0,15133.0,12.0
-KOR,South Korea,Gangwon,0.0,23392.0,632.0
-AZE,Azerbaijan,Daşkəsən,0.0,2479.0,46.0
-ARE,United Arab Emirates,Dubay,0.0,1804.0,2.0
-OMN,Oman,Al Batnah North,0.0,13619.0,0.0
-ECU,Ecuador,Imbabura,0.0,1401.0,1.0
-EGY,Egypt,Asyut,0.0,141817.0,1381.0
-BLR,Belarus,Gomel,0.0,2453.0,725.0
-BRA,Brazil,Rio Grande do Sul,0.0,71966.0,18302.0
-ARG,Argentina,Salta,0.0,110511.0,5455.0
-ARG,Argentina,Jujuy,0.0,36012.0,735.0
-CHN,China,Inner Mongol,0.0,35090.0,18237.0
-ETH,Ethiopia,"Southern Nations, Nationalities and Peoples",0.0,2152.0,220.0
-LBN,Lebanon,South Lebanon,0.0,18178.0,623.0
-CAN,Canada,British Columbia,0.0,1614.0,4466.0
-KAZ,Kazakhstan,Almaty City,0.0,1055.0,3.0
-ARE,United Arab Emirates,Ras Al Khaymah,0.0,2640.0,2.0
-ARE,United Arab Emirates,Sharjah,0.0,1087.0,1.0
-CZE,Czech Republic,Karlovarský,0.0,1129.0,4.0
-CHN,China,Gansu,0.0,8398.0,10407.0
-PER,Peru,Tacna,0.0,5355.0,125.0
-SVN,Slovenia,Šenčur,0.0,1604.0,128.0
-YEM,Yemen,Dhamar,0.0,9401.0,1356.0
-YEM,Yemen,Raymah,0.0,2317.0,241.0
-YEM,Yemen,Ma'rib,0.0,3261.0,128.0
-URY,Uruguay,Lavalleja,0.0,1474.0,129.0
-MKD,Macedonia,Tetovo,0.0,3493.0,235.0
-MKD,Macedonia,Pehčevo,0.0,2620.0,200.0
-SYR,Syria,UNDOF,0.0,2116.0,101.0
-TUN,Tunisia,Zaghouan,0.0,32151.0,686.0
-TUN,Tunisia,Kairouan,0.0,25082.0,45.0
-TUN,Tunisia,Sidi Bou Zid,0.0,15909.0,536.0
-BEL,Belgium,Namur,0.0,2291.0,117.0
-LBY,Libya,Sabha,0.0,2922.0,77.0
-LBY,Libya,Al Jufrah,0.0,3539.0,74.0
-LBY,Libya,Mizdah,0.0,2947.0,0.0
-ROU,Romania,Ilfov,0.0,65742.0,2031.0
-MNE,Montenegro,Bijelo Polje,0.0,1223.0,179.0
-UKR,Ukraine,Volyn,0.0,168140.0,982.0
-AZE,Azerbaijan,Gədəbəy,0.0,12780.0,168.0
-TUN,Tunisia,Tataouine,0.0,1273.0,0.0
-GEO,Georgia,Racha-Lechkhumi-Kvemo Svaneti,0.0,2387.0,968.0
-CHN,China,Yunnan,0.0,219700.0,7930.0
-TUR,Turkey,Ardahan,0.0,5722.0,2373.0
-KOS,Kosovo,Dragaš,0.0,1010.0,0.0
-MKD,Macedonia,Kisela Voda,0.0,2534.0,352.0
-USA,United States of America,Iowa,0.0,34480.0,22.0
-POL,Poland,Kuyavian-Pomeranian,0.0,47750.0,51.0
-POL,Poland,Masovian,0.0,14443.0,81.0
-POL,Poland,Silesian,0.0,69939.0,21.0
-SVK,Slovakia,Žilinský,0.0,1784.0,7.0
-RUS,Russia,Samara,0.0,9104.0,2344.0
-MKD,Macedonia,Kruševo,0.0,2224.0,241.0
-MKD,Macedonia,Drugovo,0.0,2509.0,158.0
-MKD,Macedonia,Butel,0.0,1813.0,193.0
-ARM,Armenia,Gegharkunik,0.0,1321.0,6700.0
+GBR,United Kingdom,Essex,0.0,49623.0,255.0
+URY,Uruguay,Rocha,0.0,2732.0,244.0
+NPL,Nepal,Gandaki,0.0,2580.0,0.0
+NPL,Nepal,Dhawalagiri,0.0,2798.0,0.0
+NPL,Nepal,Mahakali,0.0,2179.0,0.0
+NPL,Nepal,Karnali,0.0,2094.0,0.0
+JOR,Jordan,Balqa,0.0,2843.0,498.0
+JOR,Jordan,Karak,0.0,7982.0,72.0
+JOR,Jordan,Madaba,0.0,3171.0,193.0
+JOR,Jordan,Irbid,0.0,7841.0,558.0
+IRN,Iran,Khuzestan,0.0,2348.0,15838.0
+IRN,Iran,Ilam,0.0,31937.0,6073.0
+HRV,Croatia,Licko-Senjska,0.0,7788.0,2.0
+IRQ,Iraq,As-Sulaymaniyah,0.0,2519.0,2616.0
+SYR,Syria,Lattakia,0.0,36270.0,1167.0
+SYR,Syria,Idlib,0.0,12026.0,4093.0
+AZE,Azerbaijan,Astara,0.0,1827.0,14.0
+AZE,Azerbaijan,Lerik,0.0,2564.0,32.0
+ARM,Armenia,Armavir,0.0,5778.0,1872.0
+AFG,Afghanistan,Jawzjan,0.0,78840.0,129.0
+TUR,Turkey,Hatay,0.0,29443.0,3341.0
+TUR,Turkey,Gaziantep,0.0,111651.0,5378.0
+TUR,Turkey,Kilis,0.0,9253.0,1301.0
+SYR,Syria,Aleppo,0.0,180116.0,7304.0
+IRN,Iran,Kordestan,0.0,265087.0,5020.0
+AUT,Austria,Oberösterreich,0.0,132194.0,419.0
+IRQ,Iraq,Dihok,0.0,2950.0,363.0
+TUR,Turkey,Sirnak,0.0,1160.0,1947.0
+LBY,Libya,Benghazi,0.0,23953.0,485.0
+LBY,Libya,Al Qubbah,0.0,21137.0,396.0
+EGY,Egypt,Al Iskandariyah,0.0,66939.0,2092.0
+EGY,Egypt,Al Buhayrah,0.0,139367.0,10069.0
+EGY,Egypt,Kafr ash Shaykh,0.0,111352.0,1215.0
+EGY,Egypt,Dumyat,0.0,20101.0,217.0
+DEU,Germany,Niedersachsen,0.0,523905.0,39.0
+EGY,Egypt,Al Isma`iliyah,0.0,110769.0,1131.0
+NPL,Nepal,Janakpur,0.0,4323.0,0.0
+USA,United States of America,Maryland,0.0,72257.0,184.0
+USA,United States of America,Virginia,0.0,74570.0,983.0
+USA,United States of America,North Carolina,0.0,59851.0,462.0
+USA,United States of America,Georgia,0.0,7937.0,964.0
+USA,United States of America,Mississippi,0.0,11545.0,1.0
+EGY,Egypt,Ash Sharqiyah,0.0,157270.0,2098.0
+EGY,Egypt,Ad Daqahliyah,0.0,147535.0,4095.0
+CHN,China,Hebei,0.0,67384.0,93783.0
+NPL,Nepal,Mechi,0.0,1497.0,0.0
+NPL,Nepal,Bhojpur,0.0,8225.0,0.0
+NPL,Nepal,Sagarmatha,0.0,10050.0,0.0
+USA,United States of America,Connecticut,0.0,1111.0,80.0
+SVN,Slovenia,Žalec,0.0,1856.0,226.0
+SVN,Slovenia,Grosuplje,0.0,1236.0,140.0
+ROU,Romania,Harghita,0.0,2328.0,172.0
+ROU,Romania,Mures,0.0,180267.0,11428.0
+ROU,Romania,Sibiu,0.0,66601.0,5255.0
+ROU,Romania,Brasov,0.0,28343.0,44.0
+ROU,Romania,Covasna,0.0,51463.0,2.0
+SVN,Slovenia,Juršinci,0.0,2458.0,130.0
+SVN,Slovenia,Križevci,0.0,1151.0,65.0
+SVN,Slovenia,Kidricevo,0.0,2380.0,131.0
+ISR,Israel,HaMerkaz,0.0,38697.0,1043.0
+SVN,Slovenia,Slovenska Bistrica,0.0,1322.0,201.0
+AZE,Azerbaijan,Naxçıvan,0.0,4751.0,148.0
+SVN,Slovenia,Slovenske Konjice,0.0,1678.0,201.0
+SVN,Slovenia,Beltinci,0.0,1680.0,66.0
+SVN,Slovenia,Trebnje,0.0,2713.0,384.0
+SVN,Slovenia,Sevnica,0.0,1676.0,572.0
+SVN,Slovenia,Šmarje pri Jelšah,0.0,1837.0,198.0
+USA,United States of America,Wyoming,0.0,4025.0,1.0
+USA,United States of America,Missouri,0.0,27429.0,43.0
+USA,United States of America,Oklahoma,0.0,1677.0,7.0
+USA,United States of America,Kansas,0.0,11613.0,45.0
+SVN,Slovenia,Markovci,0.0,1086.0,65.0
+POL,Poland,Świętokrzyskie,0.0,50658.0,29.0
+POL,Poland,Greater Poland,0.0,1593.0,24.0
+DEU,Germany,Hamburg,0.0,1604.0,1.0
+GBR,United Kingdom,Isle of Wight,0.0,5036.0,19.0
+NZL,New Zealand,Canterbury,0.0,1541.0,5257.0
+YEM,Yemen,Dhamar,0.0,4945.0,1356.0
+YEM,Yemen,Al Mahwit,0.0,7407.0,182.0
+YEM,Yemen,Amran,0.0,10154.0,357.0
+YEM,Yemen,Sana'a,0.0,19079.0,259.0
+KGZ,Kyrgyzstan,Ysyk-Köl,0.0,62367.0,531.0
+SVN,Slovenia,Braslovce,0.0,1065.0,111.0
+AZE,Azerbaijan,Lankaran,0.0,6756.0,4.0
+SVN,Slovenia,Ljubljana,0.0,2126.0,323.0
+SVN,Slovenia,Ivancna Gorica,0.0,1412.0,177.0
+BEL,Belgium,West Flanders,0.0,8330.0,125.0
+BEL,Belgium,Hainaut,0.0,2540.0,85.0
+BEL,Belgium,Namur,0.0,15578.0,117.0
+BEL,Belgium,Luxembourg,0.0,10582.0,249.0
+SVN,Slovenia,Puconci,0.0,1477.0,65.0
+SVN,Slovenia,Cerkvenjak,0.0,1778.0,125.0
+SVN,Slovenia,Starše,0.0,2031.0,128.0
+SVN,Slovenia,Race-Fram,0.0,3033.0,185.0
+DEU,Germany,Schleswig-Holstein,0.0,2566.0,17.0
+PER,Peru,Arequipa,0.0,6428.0,595.0
+PER,Peru,Moquegua,0.0,1034.0,62.0
+GBR,United Kingdom,Hampshire,0.0,82125.0,339.0
+BRA,Brazil,Pernambuco,0.0,5039.0,5554.0
+GBR,United Kingdom,Thurrock,0.0,3886.0,0.0
+GBR,United Kingdom,Somerset,0.0,15723.0,99.0
+DZA,Algeria,Chlef,0.0,66147.0,2633.0
+TUN,Tunisia,Manubah,0.0,61598.0,2496.0
+TUN,Tunisia,Sousse,0.0,2338.0,701.0
+TUN,Tunisia,Monastir,0.0,2327.0,0.0
+USA,United States of America,Nebraska,0.0,55193.0,37.0
+TUN,Tunisia,Gabès,0.0,2667.0,119.0
+LBY,Libya,Az Zawiyah,0.0,12277.0,1427.0
+LBY,Libya,Tajura' wa an Nawahi al Arba,0.0,52906.0,619.0
+LBY,Libya,Al Marqab,0.0,11281.0,306.0
+LBY,Libya,Misratah,0.0,3882.0,316.0
+SAU,Saudi Arabia,Tabuk,0.0,10722.0,1420.0
+PRT,Portugal,Guarda,0.0,49110.0,5985.0
+PER,Peru,Lambayeque,0.0,7838.0,1206.0
+ARM,Armenia,Gegharkunik,0.0,2002.0,6700.0
+MEX,Mexico,Baja California Sur,0.0,43462.0,53.0
+PRT,Portugal,Braga,0.0,33486.0,1146.0
+TUN,Tunisia,Sfax,0.0,7046.0,0.0
+USA,United States of America,Nevada,0.0,19953.0,7.0
+PER,Peru,Ayacucho,0.0,2217.0,1224.0
+PRT,Portugal,Viseu,0.0,12243.0,20279.0
+TUN,Tunisia,Siliana,0.0,45415.0,96.0
+TUN,Tunisia,Sidi Bou Zid,0.0,12014.0,536.0
+TUR,Turkey,Ardahan,0.0,1616.0,2373.0
+SVN,Slovenia,Lenart,0.0,3099.0,246.0
+TUN,Tunisia,Zaghouan,0.0,27661.0,686.0
+TUN,Tunisia,Kairouan,0.0,68482.0,45.0
+GEO,Georgia,Samegrelo-Zemo Svaneti,0.0,38964.0,3962.0
+PER,Peru,Lima Province,0.0,2102.0,1.0
+RUS,Russia,Karachay-Cherkess,0.0,79684.0,363.0
+GEO,Georgia,Abkhazia,0.0,2920.0,1864.0
+NPL,Nepal,Narayani,0.0,2004.0,0.0
+CYP,Cyprus,Limassol,0.0,1743.0,333.0
+SYR,Syria,Quneitra,0.0,12234.0,209.0
+CYP,Cyprus,Nicosia,0.0,8588.0,36.0
+CYP,Cyprus,Famagusta,0.0,1202.0,0.0
+CYN,Northern Cyprus,Northern Cyprus,0.0,2655.0,9.0
+IND,India,Himachal Pradesh,0.0,106531.0,513.0
+PER,Peru,La Libertad,0.0,48902.0,2801.0
+PER,Peru,Áncash,0.0,13589.0,2184.0
+SYR,Syria,Hamah,0.0,75668.0,4088.0
+EGY,Egypt,Asyut,0.0,56005.0,1381.0
+EGY,Egypt,Suhaj,0.0,7876.0,234.0
+EGY,Egypt,Al Gharbiyah,0.0,109164.0,3618.0
+EGY,Egypt,Al Qalyubiyah,0.0,27560.0,112.0
+EGY,Egypt,Al Minufiyah,0.0,51945.0,622.0
+EGY,Egypt,Bani Suwayf,0.0,124158.0,2433.0
+EGY,Egypt,Al Fayyum,0.0,75470.0,946.0
+EGY,Egypt,Al Minya,0.0,166905.0,5239.0
+CHN,China,Ningxia,0.0,128128.0,6045.0
+DEU,Germany,Berlin,0.0,2110.0,1.0
+MKD,Macedonia,Skopje,0.0,2789.0,214.0
+SYR,Syria,Damascus,0.0,4607.0,77.0
+KAZ,Kazakhstan,Almaty City,0.0,1020.0,3.0
+UKR,Ukraine,Kiev City,0.0,33926.0,43.0
+USA,United States of America,Indiana,0.0,51875.0,73.0
+USA,United States of America,West Virginia,0.0,7200.0,16.0
+USA,United States of America,Tennessee,0.0,253562.0,73.0
+USA,United States of America,Arkansas,0.0,10215.0,64.0
+USA,United States of America,Kentucky,0.0,493212.0,66.0
+USA,United States of America,Illinois,0.0,27036.0,77.0
+YEM,Yemen,Amanat Al Asimah,0.0,11407.0,207.0
+BGR,Bulgaria,Grad Sofiya,0.0,23021.0,1.0
+KAZ,Kazakhstan,Almaty,0.0,131696.0,5162.0
+AFG,Afghanistan,Bamyan,0.0,3415.0,0.0
+AFG,Afghanistan,Wardak,0.0,4298.0,0.0
+AFG,Afghanistan,Logar,0.0,16910.0,0.0
+AFG,Afghanistan,Parwan,0.0,3262.0,0.0
+AFG,Afghanistan,Ghazni,0.0,18312.0,0.0
+CHN,China,Henan,0.0,148901.0,25067.0
+CHN,China,Shanxi,0.0,240666.0,35735.0
+AZE,Azerbaijan,Qobustan,0.0,12652.0,253.0
+ARG,Argentina,Santiago del Estero,0.0,54735.0,118.0
+ARG,Argentina,Tucumán,0.0,32201.0,3216.0
+JOR,Jordan,Ajlun,0.0,7253.0,176.0
+ARM,Armenia,Kotayk,0.0,3285.0,734.0
+GBR,United Kingdom,Buckinghamshire,0.0,3444.0,17.0
+GBR,United Kingdom,Wiltshire,0.0,57876.0,24.0
+GBR,United Kingdom,Bath and North East Somerset,0.0,3381.0,2.0
+GBR,United Kingdom,Surrey,0.0,4174.0,284.0
+GBR,United Kingdom,Reading,0.0,1313.0,0.0
+GBR,United Kingdom,West Berkshire,0.0,9177.0,25.0
+GBR,United Kingdom,Oxfordshire,0.0,44134.0,35.0
+GBR,United Kingdom,Havering,0.0,2601.0,0.0
+CHN,China,Shaanxi,0.0,90792.0,27308.0
+JOR,Jordan,Jarash,0.0,3890.0,214.0
+ARM,Armenia,Erevan,0.0,1099.0,70.0
+TUR,Turkey,Diyarbakir,0.0,44989.0,9824.0
+TUR,Turkey,Osmaniye,0.0,74736.0,1822.0
+TUR,Turkey,Erzurum,0.0,28347.0,6711.0
+MKD,Macedonia,Kisela Voda,0.0,2182.0,352.0
+MKD,Macedonia,Krivogaštani,0.0,1513.0,103.0
+MKD,Macedonia,Dolneni,0.0,10513.0,747.0
+MKD,Macedonia,Butel,0.0,2151.0,193.0
+MKD,Macedonia,Brod,0.0,1365.0,38.0
+MEX,Mexico,Durango,0.0,21625.0,325.0
+MKD,Macedonia,Probištip,0.0,8741.0,480.0
+UKR,Ukraine,Chernihiv,0.0,402994.0,2735.0
+MEX,Mexico,Guanajuato,0.0,3858.0,366.0
+MEX,Mexico,Hidalgo,0.0,1991.0,0.0
+IRN,Iran,Qom,0.0,5418.0,842.0
+IRN,Iran,Yazd,0.0,10637.0,871.0
+CHN,China,Gansu,0.0,100738.0,10407.0
+CZE,Czech Republic,Karlovarský,0.0,3758.0,4.0
+CZE,Czech Republic,Plzeňský,0.0,94364.0,46.0
+LBY,Libya,Mizdah,0.0,2344.0,0.0
+LBY,Libya,Al Jifarah,0.0,11780.0,424.0
+MKD,Macedonia,Ilinden,0.0,1172.0,101.0
+MKD,Macedonia,Kratovo,0.0,5631.0,445.0
+MEX,Mexico,San Luis Potosí,0.0,1620.0,470.0
+UKR,Ukraine,Volyn,0.0,167199.0,982.0
+UKR,Ukraine,Rivne,0.0,331833.0,681.0
+UKR,Ukraine,Zhytomyr,0.0,477914.0,1437.0
+LBN,Lebanon,North Lebanon,0.0,45012.0,1513.0
+SYR,Syria,Homs (Hims),0.0,35728.0,3860.0
+SYR,Syria,Tartus,0.0,25805.0,874.0
+HUN,Hungary,Nyíregyháza,0.0,10065.0,174.0
+PER,Peru,Tacna,0.0,4496.0,125.0
+ARG,Argentina,Salta,0.0,20657.0,5455.0
+KOS,Kosovo,Novo Brdo,0.0,1136.0,1.0
+CYP,Cyprus,Larnaca,0.0,1186.0,13.0
+TUR,Turkey,Batman,0.0,17759.0,2268.0
+ARG,Argentina,Jujuy,0.0,5653.0,735.0
+SYR,Syria,UNDOF,0.0,2085.0,101.0
+ISR,Israel,HaDarom,0.0,106511.0,2470.0
+PSX,Gaza Strip,Gaza Strip,0.0,4936.0,144.0
+PSX,West Bank,West Bank,0.0,25810.0,2231.0
+ISR,Israel,Haifa,0.0,23503.0,739.0
+PRT,Portugal,Vila Real,0.0,26304.0,20839.0
+LBN,Lebanon,An Nabatiyah,0.0,22586.0,794.0
+LBN,Lebanon,South Lebanon,0.0,18921.0,623.0
+TUR,Turkey,Bayburt,0.0,10521.0,1055.0
+TUR,Turkey,Siirt,0.0,17793.0,1941.0
+CHN,China,Xinjiang,0.0,1293691.0,150825.0

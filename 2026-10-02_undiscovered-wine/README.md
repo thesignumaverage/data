@@ -4,16 +4,16 @@ The datasets behind this article from Signum Average. Each CSV in this folder is
 
 ## suitable_land_by_country.csv
 
-**Farmland suited to vineyards, and the vines grown on it, by country.** For every country, the farmland whose climate, water and soil match the land today's vineyards occupy, under a strict and a generous test, next to the grapes it grows now. Suitability comes from a model trained on 26 wine countries and checked on continents it never saw.
+**Farmland suited to vineyards, and the vines grown on it, by country.** For every country, the farmland whose climate, water and soil match the land today's vineyards occupy, under a strict and a generous test, next to the grapes it grows now. Suitability comes from two models trained on 29 wine countries, averaged, and checked on continents and countries they never saw (version 2, October 4th 2026).
 
-Coverage: World, about 2020 (wine grapes 2000 and 2023). Last updated: 2026-10-03.
+Coverage: World, about 2020 (wine grapes 2000 and 2023). Last updated: 2026-10-04.
 
 | Column | Description |
 |---|---|
 | `iso3` | ISO 3166 three-letter country code (Natural Earth). |
 | `country` | Country name. |
-| `farmland_strict_ha` | Farmland passing the strict test, without vines, hectares. |
-| `farmland_generous_ha` | Farmland passing the generous test (includes the strict test), without vines, hectares. |
+| `farmland_strict_ha` | Cropland passing the strict test, in cells at least 5% cropland, minus the vines already there, hectares. |
+| `farmland_generous_ha` | The same for the generous test (includes the strict test), hectares. |
 | `grapes_all_ha_2020` | Area under grapes of every use (wine, table, raisins), 2020, hectares (CROPGRIDS). |
 | `vineyards_mapped_osm_ha` | Vineyards mapped in OpenStreetMap, hectares. Coverage varies by country. |
 | `wine_grapes_ha_2000` | Wine-grape area in 2000, hectares (Anderson, Nelgen and Puga). Empty if not covered. |
@@ -35,10 +35,10 @@ Sources:
 Notes:
 
 - Strict test: land scoring at least as high as the vineyards that hold three-quarters of today's vineyard hectares in the countries the model learned from. Generous test: nine-tenths.
-- Farmland means a cell where at least 5% of the land is cropland (CROPGRIDS, all 173 crops); cells that already hold vines are not counted as suitable farmland.
 - Countries with under 1,000 hectares of either suitable farmland or grapes are left out.
-- The map itself is in vineyard_suitability_5arcmin.tif in the same folder: band 1 is the score x 250 (strict test 198 or more, generous 122 or more), band 2 the class (0 other land, 1 generous only, 2 strict, 3 vines today); 255 is no data.
 - Licence for this file: it contains data derived from OpenStreetMap, (c) OpenStreetMap contributors, and is released under the Open Database License (ODbL 1.0, https://opendatacommons.org/licenses/odbl/), not CC BY. You may reuse it with that credit; databases you build from it must also be shared under the ODbL.
+- Farmland means cropland (CROPGRIDS, all 173 crops) in cells at least 5% cropland; the vines already there (the larger of OpenStreetMap vineyards and CROPGRIDS grapes) are subtracted. Version 1 of 2 October 2026 did not subtract them.
+- The map itself is in vineyard_suitability_5arcmin.tif in the same folder: band 1 is the score (a percentile of all land) x 250 (strict test 245 or more, generous 238 or more), band 2 the class (0 other land, 1 generous only, 2 strict, 3 vines today); 255 is no data.
 
 How to cite:
 
@@ -58,14 +58,14 @@ Signum Average (2026) - "Farmland suited to vineyards, and the vines grown on it
 
 **Farmland suited to vineyards, by province.** The same measures as the country table for first-level divisions (provinces, states, regions), as drawn by Natural Earth.
 
-Coverage: World, about 2020. Last updated: 2026-10-03.
+Coverage: World, about 2020. Last updated: 2026-10-04.
 
 | Column | Description |
 |---|---|
 | `iso3` | Country code. |
 | `country` | Country name. |
 | `province` | First-level division (Natural Earth name). |
-| `farmland_strict_ha` | Farmland passing the strict test, without vines, hectares. |
+| `farmland_strict_ha` | Cropland passing the strict test, in cells at least 5% cropland, minus the vines already there, hectares. |
 | `farmland_generous_ha` | Farmland passing the generous test, without vines, hectares. |
 | `vines_ha` | Vines grown today: the larger of mapped vineyards (OpenStreetMap) and all grapes (CROPGRIDS), hectares. |
 
@@ -101,9 +101,9 @@ Signum Average (2026) - "Farmland suited to vineyards, by province" [Dataset] Pu
 
 ## wine_market_share_forgone.csv
 
-**Wine market share and sales forgone by countries that plant little of their vineyard land.** For the 21 countries that grow wine grapes on less than 2.6% of their strict-test farmland (the lower quartile of established wine countries), the wine and sales each forgoes compared with holding a share of the world market equal to its share of the world's suitable farmland. Also the physical capacity of the land, which far exceeds what the market can absorb.
+**Wine market share and sales forgone by countries that plant little of their vineyard land.** For the 18 countries that grow wine grapes on less than 4.9% of their strict-test farmland (the lower quartile of established wine countries), the wine and sales each forgoes compared with holding a share of the world market equal to its share of the world's suitable farmland. Also the physical capacity of the land, which far exceeds what the market can absorb.
 
-Coverage: 21 countries; market of 2025 (low case 2035). Last updated: 2026-10-03.
+Coverage: 18 countries; market of 2025 (low case 2035). Last updated: 2026-10-04.
 
 | Column | Description |
 |---|---|
@@ -154,7 +154,7 @@ Signum Average (2026) - "Wine market share and sales forgone by countries that p
 
 **World wine production and consumption.** World wine production and consumption in million hectolitres. 2023 is left out because the two sources measure it differently.
 
-Coverage: 1961-2022, 2024-2025. Last updated: 2026-10-03.
+Coverage: 1961-2022, 2024-2025. Last updated: 2026-10-04.
 
 | Column | Description |
 |---|---|
@@ -190,7 +190,7 @@ Signum Average (2026) - "World wine production and consumption" [Dataset] Publis
 
 **Wine-grape area by country, 2000-2023.** Wine-grape area by country in four census years and the change from each country's first recorded year to 2023, with a flag for emerging producers.
 
-Coverage: 2000, 2010, 2016, 2023. Last updated: 2026-10-03.
+Coverage: 2000, 2010, 2016, 2023. Last updated: 2026-10-04.
 
 | Column | Description |
 |---|---|
@@ -228,17 +228,24 @@ Signum Average (2026) - "Wine-grape area by country, 2000-2023" [Dataset] Publis
 
 ## model_holdout_test.csv
 
-**Vineyard-suitability model: continent hold-out test.** How well the model finds the vineyards of a continent it was not trained on, against a textbook rule based on growing-season temperature.
+**Vineyard-suitability model: continent hold-out test.** How well the model finds the vineyards of a continent it was not trained on, on all land and on farmland only, for the published score (the average of two models), each model alone, and a textbook rule based on growing-season temperature.
 
-Coverage: Six continents. Last updated: 2026-10-03.
+Coverage: Six continents. Last updated: 2026-10-04.
 
 | Column | Description |
 |---|---|
-| `continent` | Continent hidden from the model. |
+| `continent` | Continent hidden from the models. |
 | `vineyard_cells` | Vineyard cells (about 9 km) on that continent in the training countries. |
-| `auc_model` | Area under the ROC curve for the model: 0.5 is a coin toss, 1 is perfect. |
+| `vineyard_cells_farmland` | Of which in cells at least 5% cropland. |
+| `auc_model` | Area under the ROC curve for the published score, all land: 0.5 is a coin toss, 1 is perfect. |
+| `auc_trees` | The same for the gradient-boosted trees alone. |
+| `auc_envelope` | The same for the species-distribution model alone. |
 | `auc_rule` | The same for the rule: distance of growing-season temperature from 17C. |
-| `top10_model` | Share of the continent's vine hectares in its best-scoring tenth of land, model. |
+| `auc_model_farmland` | Published score, farmland only (the harder test). |
+| `auc_trees_farmland` | Trees, farmland only. |
+| `auc_envelope_farmland` | Species-distribution model, farmland only. |
+| `auc_rule_farmland` | Rule, farmland only. |
+| `top10_model` | Share of the continent's vine hectares in its best-scoring tenth of land, published score. |
 | `top10_rule` | The same for the rule. |
 
 Sources:
@@ -267,16 +274,18 @@ Signum Average (2026) - "Vineyard-suitability model: continent hold-out test" [D
 
 **Vineyard-suitability model: scores of known wine regions and control places.** The model's score for the 9 km cell at well-known wine regions and at places that should fail (desert, rainforest, Siberia, the US corn belt). Wine-country cells are scored by models that never saw that country.
 
-Coverage: 29 places. Last updated: 2026-10-03.
+Coverage: 32 places. Last updated: 2026-10-04.
 
 | Column | Description |
 |---|---|
 | `place` | Place. |
 | `lat` | Latitude of the point looked up. |
 | `lon` | Longitude. |
-| `score` | Suitability score, 0-1. |
+| `score` | Score of the cell (a percentile of all land, 0-1). |
 | `share_of_wine_country_land_scoring_lower` | Share of all land in the training countries that scores lower. |
-| `test` | Which test the cell passes: strict, generous or neither. |
+| `test` | Test the cell passes: strict, generous or neither. |
+| `best_within_25km` | Best score within about 25 km (7 x 7 cells). |
+| `test_within_25km` | Test passed by that best cell. |
 
 Sources:
 
@@ -284,7 +293,7 @@ Sources:
 
 Notes:
 
-- One cell per place, so a single point can miss a region whose vineyards lie a few kilometres away.
+- A single cell can miss vineyards a few kilometres away, so the best cell within 25 km is also given.
 
 How to cite:
 
@@ -304,7 +313,7 @@ Signum Average (2026) - "Vineyard-suitability model: scores of known wine region
 
 **Wine regions: consumer ratings with the climate and soil of their vineyards.** Every wine region with at least 300 consumer ratings that we could locate and that has vines nearby, with its rating against the average for wines of the same type and the climate and soil of its vineyards. Used to test whether land predicts quality; it does not, at this scale.
 
-Coverage: 694 regions in 42 countries; ratings 2012-2021. Last updated: 2026-10-03.
+Coverage: 694 regions in 42 countries; ratings 2012-2021. Last updated: 2026-10-04.
 
 | Column | Description |
 |---|---|
@@ -352,6 +361,84 @@ Signum Average (2026) - "Wine regions: consumer ratings with the climate and soi
     title = {Wine regions: consumer ratings with the climate and soil of their vineyards},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/rated_regions_climate_soil.csv}},
+    note = {Dataset}
+}
+```
+
+## model_robustness_versions.csv
+
+**Vineyard-suitability model: 15 versions, one choice changed in each.** How the results change when each choice in the analysis is changed in turn: the strict-test cut-off, the farmland and vine thresholds, the training set, the weight of each continent, soil, irrigation, each of the two models alone and the trees' settings.
+
+Coverage: 15 versions. Last updated: 2026-10-04.
+
+| Column | Description |
+|---|---|
+| `spec` | What was changed. |
+| `auc_all` | Out-of-country AUC on all land. |
+| `auc_farmland` | Out-of-country AUC on farmland only. |
+| `core_mha` | World strict-test farmland, million hectares. |
+| `rank_vs_base` | Rank correlation of countries' strict-test farmland (countries with 100,000+ ha in the main version) with the main version. |
+| `n_laggards` | Countries planting wine grapes on less than the lower quartile of wine countries' density. |
+| `laggard_land_share` | Their share of the world's strict-test farmland. |
+| `sales_bn` | Sales forgone a year, central case, US$bn at export prices. |
+| `top5` | The five countries forgoing the most (ISO codes). |
+
+Sources:
+
+- Signum Average calculations (CC BY 4.0)
+
+Notes:
+
+- Each version is retrained where the change requires it, with every country scored by models that never saw it.
+
+How to cite:
+
+Signum Average (2026) - "Vineyard-suitability model: 15 versions, one choice changed in each" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_robustness_versions.csv
+
+```bibtex
+@misc{signumaverage-model-robustness-versions,
+    author = {{Signum Average}},
+    title = {Vineyard-suitability model: 15 versions, one choice changed in each},
+    year = {2026},
+    howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_robustness_versions.csv}},
+    note = {Dataset}
+}
+```
+
+## model_within_country_test.csv
+
+**Vineyard-suitability model: inside each country.** Within each country, on farmland only, how well the out-of-country score ranks cells with mapped vineyards above the country's other farmland. The hardest test of the model, because climate varies less within a country than between continents.
+
+Coverage: Countries with 25+ mapped vineyard cells on farmland. Last updated: 2026-10-04.
+
+| Column | Description |
+|---|---|
+| `iso` | Country code. |
+| `trained_on` | Whether the country's vineyards trained the model (its scores still come from models that never saw it). |
+| `vineyard_cells` | Farmland cells with mapped vineyards (OpenStreetMap, at least 0.5% of the cell). |
+| `farmland_cells` | Farmland cells (at least 5% cropland). |
+| `auc_model` | AUC of the published score. |
+| `auc_rule` | AUC of the textbook temperature rule. |
+
+Sources:
+
+- OpenStreetMap contributors via Overture Maps: https://www.openstreetmap.org/copyright (ODbL 1.0)
+- Signum Average calculations (CC BY 4.0)
+
+Notes:
+
+- Turkey's low score reflects where its vineyards are mapped: 25 of 46 cells are in hot Mardin and Batman.
+
+How to cite:
+
+Signum Average (2026) - "Vineyard-suitability model: inside each country" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_within_country_test.csv
+
+```bibtex
+@misc{signumaverage-model-within-country-test,
+    author = {{Signum Average}},
+    title = {Vineyard-suitability model: inside each country},
+    year = {2026},
+    howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_within_country_test.csv}},
     note = {Dataset}
 }
 ```

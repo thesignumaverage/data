@@ -1,7 +1,7 @@
-continent,vineyard_cells,auc_model,auc_rule,top10_model,top10_rule
-Europe,4759,0.971,0.962,0.991,0.932
-North America,562,0.927,0.869,0.876,0.36
-South America,603,0.903,0.749,0.821,0.22
-Oceania,431,0.947,0.929,0.872,0.733
-Africa,367,0.916,0.565,0.903,0.087
-Asia,69,0.514,0.555,0.079,0.038
+continent,vineyard_cells,vineyard_cells_farmland,auc_model,auc_trees,auc_envelope,auc_rule,auc_model_farmland,auc_trees_farmland,auc_envelope_farmland,auc_rule_farmland,top10_model,top10_rule
+Europe,7041,6455,0.963,0.961,0.958,0.942,0.832,0.82,0.808,0.728,0.973,0.705
+North America,562,356,0.951,0.929,0.951,0.869,0.893,0.807,0.911,0.563,0.926,0.36
+South America,603,415,0.93,0.893,0.94,0.749,0.948,0.891,0.963,0.745,0.873,0.22
+Oceania,431,285,0.927,0.951,0.869,0.929,0.816,0.877,0.728,0.746,0.79,0.733
+Africa,367,178,0.883,0.911,0.837,0.565,0.921,0.94,0.837,0.393,0.823,0.087
+Asia,69,68,0.603,0.555,0.644,0.555,0.553,0.513,0.584,0.47,0.07,0.038
