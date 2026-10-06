@@ -1,0 +1,5 @@
+year,years_ahead,range,states_inside,of,national_inside,median_width_pp,national_actual,national_median,national_low,national_high,states_above_range,states_below_range,stretch_needed
+2010,10,80%,39,51,False,2.27,64.73,64.09,63.63,64.55,11,1,1.11
+2010,10,95%,45,51,True,3.65,64.73,64.09,63.39,64.81,6,0,1.31
+2020,20,80%,31,51,False,4.85,60.85,58.35,57.33,59.36,19,1,1.29
+2020,20,95%,42,51,False,7.38,60.85,58.35,56.73,59.95,9,0,1.38
