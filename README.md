@@ -1,6 +1,6 @@
 # Signum Average: data
 
-The datasets behind Signum Average's articles and charts (website.thesignumaverage.workers.dev). There is one folder per article, named by publication date and title. Each folder holds the article's CSV files, its PDF if there is one, and a README that explains every file.
+The datasets behind Signum Average's articles and charts (website.thesignumaverage.workers.dev). There is one folder per article, named by publication date and title. Each folder holds the article's CSV files and a README that explains every file.
 
 | Article folder | Datasets |
 |---|---|
