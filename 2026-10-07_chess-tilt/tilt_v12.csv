@@ -1,0 +1,41 @@
+what,group,pairs,mean,first_stage,per_unit_of_hidden_strength,se,effect_of_a_loss,effect_se,losers_minus_winners,losers_minus_winners_se
+"score in the next game, points",all,86027236,0.00486,-0.63233,-0.80563,0.09078,-1.27407,0.14332,-2.81458,0.01163
+"score in the next game, points",bullet,34311324,0.00663,-0.63843,-0.16968,0.17454,-0.26577,0.27336,-2.37,0.01786
+"score in the next game, points",blitz,39806257,0.0038,-0.61135,-1.06024,0.12795,-1.73427,0.20873,-2.53149,0.01629
+"score in the next game, points",rapid,11909655,0.00332,-0.66008,-1.50332,0.18345,-2.27747,0.2756,-5.05587,0.02691
+"score in the next game, points",rating under 1200,10943880,0.00696,-0.65182,-0.7361,0.20537,-1.12929,0.31468,-4.46375,0.03139
+"score in the next game, points",rating 1200-1599,26041753,0.00548,-0.59453,-0.9058,0.16467,-1.52356,0.27719,-3.38167,0.01886
+"score in the next game, points",rating 1600-1999,32716523,0.00387,-0.60047,-0.5362,0.16141,-0.89296,0.26855,-2.21521,0.0173
+"score in the next game, points",rating 2000 and over,16325080,0.00445,-0.77649,-1.25949,0.22153,-1.62204,0.28601,-1.98032,0.02562
+"score in the next game, points; time control held fixed",all,86027236,0.00486,-0.63249,-0.84631,0.09029,-1.33805,0.14252,-2.80928,0.01166
+placebo: score in a game on the following opponent's hidden strength,all,85655834,0.02136,-0.00486,-0.05029,0.11333,-10.34845,20.76037,-98.8293,0.00221
+placebo: score in a game on the following opponent's hidden strength,bullet,34195608,0.02126,-0.00514,-0.01746,0.15544,-3.39726,29.07543,-98.85318,0.00398
+placebo: score in a game on the following opponent's hidden strength,blitz,39581018,0.02269,-0.00602,-0.20919,0.15157,-34.76148,16.59136,-98.90312,0.00231
+placebo: score in a game on the following opponent's hidden strength,rapid,11879208,0.01723,-0.00215,0.18756,0.21703,87.29466,212.12809,-98.51408,0.00583
+"balance: score in the game before the first, points (all)",all,125920659,0.00035,-0.62069,-0.16035,0.08987,-0.25834,0.14484,-1.42984,0.01029
+"balance: score in the game before the first, points (stay)",all,85298300,0.00336,-0.63362,0.5351,0.10567,0.84452,0.16671,-0.31785,0.01443
+"plays again within 30 minutes, %",all,127258687,0.68928,-0.61897,-4.78149,0.06482,-7.72485,0.10545,-5.64283,0.02537
+seconds on moves 2-15 of the next game,all,78654114,48.83591,-0.63412,-2.10089,0.07773,-3.31309,0.12147,-2.26311,0.01151
+blunders per 100 moves in the next game,all,7550340,5.925,-0.63489,0.14427,0.04207,0.22724,0.0662,0.34704,0.00541
+mistakes and blunders per 100 moves in the next game,all,7550340,15.94443,-0.63489,0.34796,0.0682,0.54805,0.10721,0.68312,0.00929
+"winning chances thrown away per move in the next game, points",all,7550340,4.40306,-0.63489,0.08699,0.01961,0.13701,0.03082,0.17642,0.00245
+"length of the next game, half-moves",all,86027236,66.30957,-0.63233,-1.08117,0.06472,-1.70983,0.10232,-1.6024,0.00734
+"loses the next game on time, %",all,86027236,0.15875,-0.63233,-0.14502,0.06645,-0.22935,0.10501,-0.40761,0.00935
+seconds on moves 2-15 of the next game,bullet,31921561,22.20889,-0.64291,-0.63394,0.03652,-0.98606,0.05635,-0.30179,0.00624
+blunders per 100 moves in the next game,bullet,1826095,6.34616,-0.63391,0.22209,0.06065,0.35035,0.09554,0.20796,0.00972
+mistakes and blunders per 100 moves in the next game,bullet,1826095,16.88936,-0.63391,0.48141,0.11819,0.75942,0.18638,0.40145,0.01515
+"winning chances thrown away per move in the next game, points",bullet,1826095,4.68192,-0.63391,0.12129,0.02971,0.19134,0.04662,0.0996,0.00397
+"length of the next game, half-moves",bullet,34311324,64.64023,-0.63843,-0.98803,0.09236,-1.54758,0.14486,-1.29821,0.01115
+"loses the next game on time, %",bullet,34311324,0.25152,-0.63843,0.32518,0.14188,0.50933,0.22251,-0.18704,0.01756
+seconds on moves 2-15 of the next game,blitz,36399743,55.19988,-0.61344,-2.32703,0.09403,-3.79342,0.15229,-2.7638,0.0162
+blunders per 100 moves in the next game,blitz,3648084,5.59485,-0.61626,0.12466,0.05263,0.20229,0.0852,0.30973,0.00621
+mistakes and blunders per 100 moves in the next game,blitz,3648084,15.38285,-0.61626,0.30451,0.09247,0.49412,0.14957,0.61753,0.01151
+"winning chances thrown away per move in the next game, points",blitz,3648084,4.2465,-0.61626,0.06647,0.02393,0.10785,0.03872,0.15828,0.00277
+"length of the next game, half-moves",blitz,39806257,68.2608,-0.61135,-1.19534,0.09251,-1.95525,0.15204,-1.64036,0.01141
+"loses the next game on time, %",blitz,39806257,0.11145,-0.61135,-0.5716,0.09601,-0.93498,0.15701,-0.72809,0.01176
+seconds on moves 2-15 of the next game,rapid,10332810,108.67728,-0.6575,-4.58354,0.28618,-6.97119,0.43118,-6.65,0.06063
+blunders per 100 moves in the next game,rapid,2076161,6.13468,-0.65404,0.11726,0.06141,0.17929,0.09376,0.5365,0.00874
+mistakes and blunders per 100 moves in the next game,rapid,2076161,16.10009,-0.65404,0.31142,0.1087,0.47615,0.1665,1.04936,0.01553
+"winning chances thrown away per move in the next game, points",rapid,2076161,4.43289,-0.65404,0.08691,0.02837,0.13288,0.04342,0.27675,0.00387
+"length of the next game, half-moves",rapid,11909655,64.59723,-0.66008,-1.04048,0.12923,-1.57628,0.19653,-2.36338,0.02435
+"loses the next game on time, %",rapid,11909655,0.04958,-0.66008,-0.2179,0.07648,-0.33011,0.11607,0.01754,0.01528

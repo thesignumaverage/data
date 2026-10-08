@@ -1,0 +1,71 @@
+test,sample,where,pairs,mean,per_unit_of_hidden_strength,se,effect_of_a_loss,effect_se,losers_minus_winners,time_control_held_fixed,note
+"main: excess score in the next game, points",stay,,95444034,0.00506,-0.4949,0.08695,-0.78591,0.13799,-2.70707,False,
+"main: excess score in the next game, points",stay,,95444034,0.00506,-0.53912,0.0864,-0.85614,0.13713,-2.70021,True,
+"balance: excess score in the game before the first, points",all,,149972517,0.00095,1.73925,0.08493,2.79868,0.13656,-1.47658,False,should be zero
+"balance: on a losing streak before the first game, %",all,,151389665,0.3289,-0.77801,0.0702,-1.25528,0.11358,0.97339,False,should be zero
+balance: seconds on moves 2-15 in the game before the first,all,,136862059,52.46118,0.00525,0.08005,0.00841,0.12812,0.31396,False,should be zero
+balance: seconds on moves 2-15 in the game before the first,all,,136862059,52.46118,-0.0959,0.07646,-0.15359,0.12246,0.34296,True,should be zero
+"balance: excess score in the game before the first, points",all,,149972517,0.00095,1.77366,0.0848,2.85608,0.13635,-1.46567,True,should be zero
+"balance: excess score in the game before the first, points",stay,,94702557,0.00276,1.05348,0.11244,1.6698,0.17812,-0.44695,False,should be zero
+"balance: on a losing streak before the first game, %",stay,,95444034,0.35155,0.63175,0.09573,1.00322,0.15181,1.43725,False,should be zero
+balance: seconds on moves 2-15 in the game before the first,stay,,86562609,48.25051,-0.78343,0.08871,-1.23656,0.13978,0.91436,False,should be zero
+balance: seconds on moves 2-15 in the game before the first,stay,,86562609,48.25051,-0.08915,0.07594,-0.14069,0.11981,0.52343,True,should be zero
+"balance: excess score in the game before the first, points",stay,,94702557,0.00276,1.05361,0.11313,1.67004,0.17921,-0.43971,True,should be zero
+"plays again within 30 minutes, %",all,,151389665,0.71547,-4.19137,0.06081,-6.76255,0.09914,-5.1086,False,
+"is in the main estimate (next game, same speed and sitting, other opponent), %",all,,151389665,0.63045,-5.61665,0.11812,-9.06217,0.18746,-5.40815,False,
+"main: excess score in the next game, points",stay,,95444034,0.00506,-0.4949,0.08695,-0.78591,0.13799,-2.70707,False,
+"main: excess score in the next game, points",stay,,95444034,0.00506,-0.53912,0.0864,-0.85614,0.13713,-2.70021,True,
+seconds on moves 2-15 of the next game,stay,,87317540,47.85693,-2.04269,0.07081,-3.23355,0.11062,-2.20767,True,
+"seconds on moves 2-15, change from the game before the first",stay,,79608687,-0.65916,-1.92769,0.08096,-3.0358,0.12765,-2.72031,True,
+"winning chances thrown away per move in the next game, points",stay,,8280268,4.38989,0.08756,0.01857,0.13796,0.02923,0.17324,False,games with engine evaluations
+blunders per 100 moves in the next game,stay,,8280268,5.89595,0.1341,0.03878,0.21129,0.0611,0.33916,False,games with engine evaluations
+mistakes and blunders per 100 moves in the next game,stay,,8280268,15.89682,0.3573,0.06538,0.56298,0.10292,0.67242,False,games with engine evaluations
+"length of the next game, half-moves",stay,,95444034,66.42142,-1.06164,0.06064,-1.6859,0.0963,-1.57944,False,
+"loses the next game on time, %",stay,,95444034,0.16166,-0.201,0.0625,-0.31919,0.09912,-0.41099,False,
+"main: excess score in the next game, points",stay,speed = 'bullet',39487213,0.00682,0.25503,0.16057,0.4018,0.25293,-2.24242,False,
+"main: excess score in the next game, points",stay,speed = 'bullet',39487213,0.00682,0.13692,0.15943,0.21533,0.2507,-2.23415,True,
+seconds on moves 2-15 of the next game,stay,speed = 'bullet',36712003,22.00076,-0.64794,0.03254,-1.01335,0.05072,-0.30775,True,
+"seconds on moves 2-15, change from the game before the first",stay,speed = 'bullet',34090568,-1.01495,-0.4694,0.05179,-0.72888,0.08027,-0.77107,True,
+"winning chances thrown away per move in the next game, points",stay,speed = 'bullet',2101586,4.67047,0.10835,0.02735,0.17206,0.04331,0.09549,False,games with engine evaluations
+blunders per 100 moves in the next game,stay,speed = 'bullet',2101586,6.31853,0.21423,0.05955,0.34021,0.09448,0.2,False,games with engine evaluations
+mistakes and blunders per 100 moves in the next game,stay,speed = 'bullet',2101586,16.84734,0.46605,0.10852,0.74011,0.17217,0.38521,False,games with engine evaluations
+"length of the next game, half-moves",stay,speed = 'bullet',39487213,64.80297,-0.97349,0.08562,-1.5337,0.135,-1.2809,False,
+"loses the next game on time, %",stay,speed = 'bullet',39487213,0.25241,0.19902,0.13141,0.31354,0.20718,-0.19813,False,
+"main: excess score in the next game, points",stay,speed = 'blitz',43306028,0.00396,-0.77698,0.12681,-1.27702,0.20827,-2.47104,False,
+"main: excess score in the next game, points",stay,speed = 'blitz',43306028,0.00396,-0.78216,0.12667,-1.28489,0.20796,-2.46794,True,
+seconds on moves 2-15 of the next game,stay,speed = 'blitz',39626180,54.96791,-2.32482,0.09457,-3.80629,0.1534,-2.75662,True,
+"seconds on moves 2-15, change from the game before the first",stay,speed = 'blitz',36075155,-0.70756,-2.49712,0.10565,-4.0681,0.17301,-3.3344,True,
+"winning chances thrown away per move in the next game, points",stay,speed = 'blitz',3981580,4.22318,0.07229,0.02272,0.11701,0.03667,0.15812,False,games with engine evaluations
+blunders per 100 moves in the next game,stay,speed = 'blitz',3981580,5.55107,0.11553,0.04885,0.18702,0.07893,0.3071,False,games with engine evaluations
+mistakes and blunders per 100 moves in the next game,stay,speed = 'blitz',3981580,15.29979,0.33826,0.08695,0.54756,0.14022,0.61784,False,games with engine evaluations
+"length of the next game, half-moves",stay,speed = 'blitz',43306028,68.40482,-1.17812,0.09354,-1.93633,0.15433,-1.62916,False,
+"loses the next game on time, %",stay,speed = 'blitz',43306028,0.11168,-0.61661,0.08878,-1.01344,0.1458,-0.7316,False,
+"main: excess score in the next game, points",stay,speed = 'rapid',12650793,0.00334,-1.43688,0.18532,-2.17667,0.27867,-4.98238,False,
+"main: excess score in the next game, points",stay,speed = 'rapid',12650793,0.00334,-1.40966,0.1848,-2.14463,0.27925,-4.96939,True,
+seconds on moves 2-15 of the next game,stay,speed = 'rapid',10979357,108.6484,-4.44972,0.26222,-6.76725,0.3953,-6.67598,True,
+"seconds on moves 2-15, change from the game before the first",stay,speed = 'rapid',9442964,0.81018,-4.11859,0.35275,-6.24413,0.53408,-7.5215,True,
+"winning chances thrown away per move in the next game, points",stay,speed = 'rapid',2197102,4.42362,0.08981,0.02725,0.13706,0.04168,0.27602,False,games with engine evaluations
+blunders per 100 moves in the next game,stay,speed = 'rapid',2197102,6.11671,0.10135,0.05748,0.15468,0.08764,0.53215,False,games with engine evaluations
+mistakes and blunders per 100 moves in the next game,stay,speed = 'rapid',2197102,16.06954,0.30653,0.10708,0.4678,0.16378,1.04984,False,games with engine evaluations
+"length of the next game, half-moves",stay,speed = 'rapid',12650793,64.68363,-1.01473,0.12684,-1.53716,0.19303,-2.35365,False,
+"loses the next game on time, %",stay,speed = 'rapid',12650793,0.04951,-0.20181,0.07786,-0.30572,0.11816,0.01093,False,
+"balance: excess score in the game before the first, points",all,NOT first_was_rematch,138937927,0.00106,-0.32177,0.08762,-0.5174,0.14093,-1.23363,False,should be zero; first game was not a rematch
+"balance: on a losing streak before the first game, %",all,NOT first_was_rematch,140355075,0.31741,0.65902,0.07439,1.06276,0.11991,0.52803,False,should be zero; first game was not a rematch
+"balance: excess score in the game before the first, points",stay,NOT first_was_rematch,91236806,0.00346,0.26192,0.10873,0.41534,0.17239,-0.3128,False,should be zero; first game was not a rematch
+"balance: on a losing streak before the first game, %",stay,NOT first_was_rematch,91978283,0.34626,1.39941,0.09537,2.22343,0.15107,1.29864,False,should be zero; first game was not a rematch
+"main: excess score in the next game, points",stay,NOT first_was_rematch,91978283,0.00498,-0.54719,0.08532,-0.8694,0.13541,-2.71312,False,first game was not a rematch
+"main: excess score in the next game, points",stay,NOT first_was_rematch AND speed = 'bullet',38017652,0.00675,0.18663,0.16501,0.29452,0.2604,-2.24328,False,first game was not a rematch
+"main: excess score in the next game, points",stay,NOT first_was_rematch AND speed = 'blitz',41698043,0.00385,-0.83755,0.125,-1.37551,0.20498,-2.47663,False,first game was not a rematch
+"main: excess score in the next game, points",stay,NOT first_was_rematch AND speed = 'rapid',12262588,0.00336,-1.43126,0.18628,-2.17009,0.2802,-4.99089,False,first game was not a rematch
+seconds on moves 2-15 of the next game,stay,NOT first_was_rematch,84143713,48.01209,-2.07304,0.07477,-3.28382,0.11682,-2.21871,True,first game was not a rematch
+blunders per 100 moves in the next game,stay,NOT first_was_rematch,8019230,5.89571,0.145,0.03993,0.2285,0.06288,0.33722,False,first game was not a rematch; games with engine evaluations
+"balance: excess score in the game before the first, points",all,met_n = 1,125920659,0.00035,-0.16035,0.08987,-0.25834,0.14484,-1.42984,False,should be zero; met the first opponent once only in the month
+"balance: on a losing streak before the first game, %",all,met_n = 1,127258687,0.31409,0.38584,0.07405,0.62335,0.11964,0.60352,False,should be zero; met the first opponent once only in the month
+"balance: excess score in the game before the first, points",stay,met_n = 1,85298300,0.00336,0.5351,0.10567,0.84452,0.16671,-0.31785,False,should be zero; met the first opponent once only in the month
+"balance: on a losing streak before the first game, %",stay,met_n = 1,86027236,0.34303,1.09225,0.09212,1.72734,0.14535,1.31051,False,should be zero; met the first opponent once only in the month
+"main: excess score in the next game, points",stay,met_n = 1,86027236,0.00486,-0.80563,0.09078,-1.27407,0.14332,-2.81458,False,met the first opponent once only in the month
+"main: excess score in the next game, points",stay,met_n = 1 AND speed = 'bullet',34311324,0.00663,-0.16968,0.17454,-0.26577,0.27336,-2.37,False,met the first opponent once only in the month
+"main: excess score in the next game, points",stay,met_n = 1 AND speed = 'blitz',39806257,0.0038,-1.06024,0.12795,-1.73427,0.20873,-2.53149,False,met the first opponent once only in the month
+"main: excess score in the next game, points",stay,met_n = 1 AND speed = 'rapid',11909655,0.00332,-1.50332,0.18345,-2.27747,0.2756,-5.05587,False,met the first opponent once only in the month
+seconds on moves 2-15 of the next game,stay,met_n = 1,78654114,48.83591,-2.10089,0.07773,-3.31309,0.12147,-2.26311,True,met the first opponent once only in the month
+blunders per 100 moves in the next game,stay,met_n = 1,7550340,5.925,0.14427,0.04207,0.22724,0.0662,0.34704,False,met the first opponent once only in the month; games with engine evaluations

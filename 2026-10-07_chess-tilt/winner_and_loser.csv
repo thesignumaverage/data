@@ -1,0 +1,8 @@
+split,group,games,winner_plays_again_pct,loser_plays_again_pct,difference_se_pp,both_play_again,loser_starts_first_pct,winner_median_wait_s,loser_median_wait_s
+all,all,77647746,73.206,67.84,0.007,39901653,55.901,32,30
+speed,blitz,35835931,71.271,65.601,0.011,17174862,58.305,36,32
+speed,bullet,28516143,81.776,76.045,0.011,17910792,51.579,27,26
+speed,rapid,13295672,60.04,56.277,0.018,4815999,63.329,47,37
+loser's losses in a row,1,51854385,72.297,64.647,0.009,25160436,54.723,33,31
+loser's losses in a row,2,16241321,74.33,71.653,0.015,8891831,57.125,32,29
+loser's losses in a row,3 or more,9552040,76.228,78.688,0.018,5849386,59.345,30,27

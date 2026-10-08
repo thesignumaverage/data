@@ -1,0 +1,19 @@
+split,group,pairs,reduced_form,reduced_form_se,first_stage,first_stage_se,loss_effect_pp,loss_effect_se,loss_gap_no_instrument_pp,loss_gap_no_instrument_se,median_first_game_s,median_rest_s
+placebo: next opponent,bullet,39502942,-0.00284,0.00155,,,,,,,,
+placebo: next opponent,blitz,43342287,-0.00339,0.00151,,,,,,,,
+placebo: next opponent,rapid,12696271,0.00219,0.00216,,,,,,,,
+length of the first game,shortest third,32081521,-0.01589,0.0014,-0.63686,0.00154,-2.49537,0.22033,-3.22368,0.01903,88.0,28.0
+length of the first game,middle third,32169611,-0.00384,0.00181,-0.70921,0.00175,-0.54112,0.25556,-2.87949,0.01778,244.0,35.0
+length of the first game,longest third,31192900,0.00685,0.00154,-0.532,0.0016,1.28775,0.29068,-2.03854,0.01502,380.0,42.0
+rest between the games,shortest third,32610280,-0.00996,0.00137,-0.64299,0.00153,-1.5489,0.21268,-2.91452,0.01796,121.0,19.0
+rest between the games,middle third,31238364,-0.00259,0.00179,-0.6393,0.00157,-0.40524,0.27993,-2.62025,0.01645,223.0,35.0
+rest between the games,longest third,31595388,-0.00192,0.00164,-0.59788,0.00178,-0.32118,0.2738,-2.66363,0.01951,215.0,194.0
+length of the first game x rest,game: shortest third; rest: shortest third,15135911,-0.01868,0.00196,-0.63566,0.00218,-2.93874,0.30657,-3.27529,0.02214,84.0,18.0
+length of the first game x rest,game: shortest third; rest: middle third,7579819,-0.01683,0.00254,-0.66623,0.00283,-2.52595,0.38277,-3.40064,0.03439,92.0,35.0
+length of the first game x rest,game: shortest third; rest: longest third,9365791,-0.00971,0.00251,-0.60032,0.00259,-1.61759,0.41677,-3.06791,0.0364,88.0,197.0
+length of the first game x rest,game: middle third; rest: shortest third,10250004,-0.01037,0.00282,-0.72198,0.00266,-1.43684,0.39267,-2.96832,0.0313,238.0,20.0
+length of the first game x rest,game: middle third; rest: middle third,11619010,-0.00188,0.00282,-0.71815,0.00274,-0.26174,0.39307,-2.86345,0.02904,244.0,35.0
+length of the first game x rest,game: middle third; rest: longest third,10300597,0.00171,0.00299,-0.67005,0.00285,0.25461,0.4454,-2.88918,0.02847,251.0,208.0
+length of the first game x rest,game: longest third; rest: shortest third,7224365,0.01172,0.00308,-0.5252,0.00308,2.23136,0.58675,-2.22261,0.03516,371.0,20.0
+length of the first game x rest,game: longest third; rest: middle third,12039535,0.0082,0.00301,-0.52951,0.0021,1.54885,0.56969,-2.08774,0.02382,382.0,36.0
+length of the first game x rest,game: longest third; rest: longest third,11929000,0.00251,0.00261,-0.52252,0.00267,0.48086,0.49936,-2.1242,0.03108,385.0,180.0
