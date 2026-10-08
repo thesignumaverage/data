@@ -1,0 +1,7 @@
+assessment_date,destroyed,severely_damaged,moderately_damaged,possibly_damaged,total_affected,pct_of_prewar_structures,housing_units_damaged,source_file,source_url
+2023-11-07,10049,8243,19087,,37379,0.18,,UNOSAT_GazaStrip_CDA_20231107.pdf,https://unosat.org/static/unosat_filesystem/3734/UNOSAT_A3_Gaza_Strip_OPT_CDA_20231107.pdf
+2024-07-06,46223,18478,55954,35754,156409,0.63,215137,OCHA-OPT-015_UNOSAT_GazaStrip_CDA_06072024.pdf,https://unosat.org/static/unosat_filesystem/3904/OCHA-OPT-015_UNOSAT_A3_Gaza_Strip_OPT_CDA_06072024.pdf
+2024-12-01,60368,20050,56292,34102,170812,0.69,,,https://data.humdata.org/dataset/unosat-gaza-strip-comprehensive-damage-assessment-01-december-2024
+2025-07-08,102067,17421,41895,31429,192812,0.78,282904,OCHA-OPT-027_UNOSAT_GazaStrip_CDA_08072025.pdf,https://unosat.org/static/unosat_filesystem/4165/OCHA-OPT-027_UNOSAT_A3_Gaza_Strip_OPT_CDA_08072025.pdf
+2025-10-11,123464,17116,33857,23836,198273,0.81,320622,OCHA-CBPF-OPT-031_UNOSAT_GazaStrip_CDA_11October2025.pdf,https://www.un.org/unispal/wp-content/uploads/2025/11/OCHA-CBPF-OPT-031_UNOSAT_A3_GazaStrip_CDA_11October2025.pdf
+2026-06-16,134422,13848,,,201290,0.82,371888,,https://www.dawn.com/news/1810708

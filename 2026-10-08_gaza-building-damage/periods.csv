@@ -1,0 +1,3 @@
+period,months,idf_targets,destroyed,acled_events,acled_fatalities,idf_targets_per_month,destroyed_per_month,acled_events_per_month,acled_fatalities_per_month
+first year: Oct 2023 to Sep 2024,12,40300,54710,12853,45533,3358,4559,1071,3794
+after: Oct 2024 to Dec 2025,15,25900,72863,10711,23233,1727,4858,714,1549

@@ -1,0 +1,4 @@
+category,count,share_of_reported_dead,approx_population_baseline_share,caveat
+"children (reported, <18)",20179,0.2718,0.4478,"baseline bracket is 0-14, not <18 -- true <18 population share is somewhat higher than 44.8%"
+"women (reported, adult female)",12500,0.1684,0.25,"baseline is a rough half-of-adult-population estimate from a near-1.0 sex ratio, not a direct source figure"
+"men, implied by subtraction",41571,0.5599,0.25,NOT a direct figure -- total minus children minus women; may include unclassified records
