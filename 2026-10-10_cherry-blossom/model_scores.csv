@@ -1,0 +1,35 @@
+event,model,sample,station_springs,mean_miss_days,bias_days,share_within_2_days
+full,Spring warmth only,training,3627,3.24,0.041,0.498
+full,Spring warmth only,hidden years,1449,4.055,1.463,0.373
+full,"Cold, then warmth",training,3627,2.43,0.024,0.62
+full,"Cold, then warmth",hidden years,1449,3.808,2.624,0.395
+full,Cold lowers the warmth needed (used),training,3627,2.652,0.089,0.579
+full,Cold lowers the warmth needed (used),hidden years,1449,3.062,1.072,0.506
+full,Mean of the previous ten years,hidden years,1449,4.133,1.175,0.346
+full,Station trend to 2000,hidden years,1449,4.67,3.152,0.331
+full,Regression on February-March temperature,hidden years,1449,3.269,1.095,0.441
+full,Spring warmth only,"hidden years, warmest third of stations",460,4.159,-0.776,0.389
+full,"Cold, then warmth","hidden years, warmest third of stations",460,4.743,3.439,0.322
+full,Cold lowers the warmth needed (used),"hidden years, warmest third of stations",460,3.467,0.459,0.5
+full,Mean of the previous ten years,"hidden years, warmest third of stations",460,3.963,0.776,0.367
+full,Spring warmth only,"hidden years, other stations",989,4.007,2.505,0.365
+full,"Cold, then warmth","hidden years, other stations",989,3.373,2.245,0.43
+full,Cold lowers the warmth needed (used),"hidden years, other stations",989,2.874,1.357,0.509
+full,Mean of the previous ten years,"hidden years, other stations",989,4.212,1.361,0.336
+first,Spring warmth only,training,3651,3.182,0.005,0.517
+first,Spring warmth only,hidden years,1453,3.882,1.681,0.381
+first,"Cold, then warmth",training,3651,8.256,0.644,0.178
+first,"Cold, then warmth",hidden years,1453,7.545,0.133,0.203
+first,Cold lowers the warmth needed (used),training,3651,2.879,-0.039,0.554
+first,Cold lowers the warmth needed (used),hidden years,1453,3.021,1.278,0.505
+first,Mean of the previous ten years,hidden years,1453,4.257,1.235,0.351
+first,Station trend to 2000,hidden years,1453,4.981,3.384,0.297
+first,Regression on February-March temperature,hidden years,1453,2.948,0.591,0.493
+first,Spring warmth only,"hidden years, warmest third of stations",463,3.946,0.175,0.404
+first,"Cold, then warmth","hidden years, warmest third of stations",463,8.054,-7.575,0.147
+first,Cold lowers the warmth needed (used),"hidden years, warmest third of stations",463,3.544,1.048,0.462
+first,Mean of the previous ten years,"hidden years, warmest third of stations",463,4.076,0.844,0.363
+first,Spring warmth only,"hidden years, other stations",990,3.853,2.386,0.371
+first,"Cold, then warmth","hidden years, other stations",990,7.307,3.737,0.229
+first,Cold lowers the warmth needed (used),"hidden years, other stations",990,2.776,1.386,0.525
+first,Mean of the previous ten years,"hidden years, other stations",990,4.342,1.417,0.345

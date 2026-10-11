@@ -1,0 +1,81 @@
+station,name,name_ja,region,lat,lon,height_m,last_year,observing
+47412,Sapporo,札幌,Hokkaido,43.06,141.3283,17.4,2026,True
+47423,Muroran,室蘭,Hokkaido,42.3117,140.975,39.9,2026,True
+47428,Esashi,江差,Hokkaido,41.8667,140.1233,3.7,2007,False
+47430,Hakodate,函館,Hokkaido,41.8167,140.7533,35.0,2026,True
+47520,Shinjo,新庄,Tohoku,38.7567,140.3117,105.1,1997,False
+47575,Aomori,青森,Tohoku,40.8217,140.7683,2.8,2026,True
+47581,Hachinohe,八戸,Tohoku,40.5267,141.5217,27.1,2007,False
+47582,Akita,秋田,Tohoku,39.7167,140.0983,6.3,2026,True
+47584,Morioka,盛岡,Tohoku,39.6983,141.165,155.2,2026,True
+47585,Miyako,宮古,Tohoku,39.6467,141.965,42.5,2007,False
+47587,Sakata,酒田,Tohoku,38.9083,139.8433,3.1,2009,False
+47588,Yamagata,山形,Tohoku,38.255,140.345,152.5,2026,True
+47590,Sendai,仙台,Tohoku,38.2617,140.8967,38.9,2026,True
+47595,Fukushima,福島,Tohoku,37.7583,140.47,67.1,2026,True
+47597,Shirakawa,白河,Tohoku,37.1317,140.215,355.0,1997,False
+47598,Onahama,小名浜,Tohoku,36.9467,140.9033,3.3,2008,False
+47600,Wajima,輪島,Hokuriku,37.39,136.895,5.2,2010,False
+47602,Aikawa,相川,Hokuriku,38.0283,138.24,5.5,2007,False
+47604,Niigata,新潟,Hokuriku,37.8933,139.0183,4.1,2026,True
+47605,Kanazawa,金沢,Hokuriku,36.5883,136.6333,5.7,2026,True
+47607,Toyama,富山,Hokuriku,36.7083,137.2017,8.6,2026,True
+47610,Nagano,長野,Kanto-Koshin,36.6617,138.1917,418.2,2026,True
+47612,Takada,高田,Hokuriku,37.1067,138.2467,12.9,2007,False
+47615,Utsunomiya,宇都宮,Kanto-Koshin,36.5483,139.8683,119.4,2026,True
+47616,Fukui,福井,Hokuriku,36.055,136.2217,8.8,2026,True
+47617,Takayama,高山,Tokai,36.155,137.2533,560.0,2005,False
+47618,Matsumoto,松本,Kanto-Koshin,36.2467,137.97,610.0,2007,False
+47624,Maebashi,前橋,Kanto-Koshin,36.405,139.06,112.1,2026,True
+47626,Kumagaya,熊谷,Kanto-Koshin,36.15,139.38,30.0,2026,True
+47629,Mito,水戸,Kanto-Koshin,36.38,140.4667,29.0,2026,True
+47631,Tsuruga,敦賀,Hokuriku,35.6533,136.0617,1.6,2005,False
+47632,Gifu,岐阜,Tokai,35.4,136.7617,12.7,2026,True
+47636,Nagoya,名古屋,Tokai,35.1667,136.965,51.1,2026,True
+47637,Iida,飯田,Kanto-Koshin,35.5233,137.8217,516.4,2006,False
+47638,Kofu,甲府,Kanto-Koshin,35.6667,138.5533,272.8,2026,True
+47648,Choshi,銚子,Kanto-Koshin,35.7383,140.8567,20.1,2026,True
+47651,Tsu,津,Tokai,34.7333,136.5183,2.7,2026,True
+47654,Hamamatsu,浜松,Tokai,34.7533,137.7117,45.9,2005,False
+47656,Shizuoka,静岡,Tokai,34.975,138.4033,14.1,2026,True
+47662,Tokyo,東京,Kanto-Koshin,35.6917,139.75,25.2,2026,True
+47663,Owase,尾鷲,Tokai,34.0683,136.1933,15.3,2007,False
+47670,Yokohama,横浜,Kanto-Koshin,35.4383,139.6517,39.1,2026,True
+47672,Tateyama,館山,Kanto-Koshin,34.9867,139.865,5.8,2006,False
+47675,Oshima,大島,Kanto-Koshin,34.7483,139.3617,74.0,2009,False
+47677,Miyakejima,三宅島,Kanto-Koshin,34.1233,139.52,38.2,2000,False
+47678,Hachijojima,八丈島,Kanto-Koshin,33.1217,139.7783,151.2,2009,False
+47740,Saigo,西郷,Chugoku,36.2033,133.3333,26.5,2008,False
+47741,Matsue,松江,Chugoku,35.4567,133.065,16.9,2026,True
+47744,Yonago,米子,Chugoku,35.4333,133.3383,6.5,2008,False
+47746,Tottori,鳥取,Chugoku,35.4867,134.2383,7.1,2026,True
+47747,Toyooka,豊岡,Kinki,35.535,134.8217,3.4,2007,False
+47750,Maizuru,舞鶴,Kinki,35.45,135.3167,2.4,2012,False
+47755,Hamada,浜田,Chugoku,34.8967,132.07,19.0,2007,False
+47759,Kyoto,京都,Kinki,35.0133,135.7317,40.8,2026,True
+47761,Hikone,彦根,Kinki,35.275,136.2433,87.3,2026,True
+47762,Shimonoseki,下関,Northern Kyushu,33.9483,130.925,3.3,2026,True
+47765,Hiroshima,広島,Chugoku,34.3983,132.4617,3.6,2026,True
+47768,Okayama,岡山,Chugoku,34.685,133.925,5.3,2026,True
+47770,Kobe,神戸,Kinki,34.6967,135.2117,5.3,2026,True
+47772,Osaka,大阪,Kinki,34.6817,135.5183,23.0,2026,True
+47776,Sumoto,洲本,Kinki,34.31,134.8483,68.8,2002,False
+47777,Wakayama,和歌山,Kinki,34.2283,135.1633,13.9,2026,True
+47778,Shionomisaki,潮岬,Kinki,33.45,135.7567,67.5,2009,False
+47780,Nara,奈良,Kinki,34.6733,135.8367,102.1,2026,True
+47800,Izuhara,厳原,Northern Kyushu,34.1967,129.2917,4.6,2009,False
+47807,Fukuoka,福岡,Northern Kyushu,33.5817,130.375,2.5,2026,True
+47813,Saga,佐賀,Northern Kyushu,33.265,130.305,5.5,2026,True
+47815,Oita,大分,Northern Kyushu,33.235,131.6183,4.6,2026,True
+47817,Nagasaki,長崎,Northern Kyushu,32.7333,129.8667,26.9,2026,True
+47819,Kumamoto,熊本,Northern Kyushu,32.8133,130.7067,37.7,2026,True
+47822,Nobeoka,延岡,Southern Kyushu,32.5817,131.6567,19.2,1994,False
+47827,Kagoshima,鹿児島,Southern Kyushu,31.555,130.5467,3.9,2026,True
+47830,Miyazaki,宮崎,Southern Kyushu,31.9383,131.4133,9.2,2026,True
+47837,Tanegashima,種子島,Southern Kyushu,30.72,130.9817,24.9,2007,False
+47843,Fukue,福江,Northern Kyushu,32.6933,128.8267,25.1,2009,False
+47887,Matsuyama,松山,Shikoku,33.8433,132.7767,32.2,2026,True
+47891,Takamatsu,高松,Shikoku,34.3183,134.0533,9.4,2026,True
+47892,Uwajima,宇和島,Shikoku,33.2267,132.5517,2.4,2005,False
+47893,Kochi,高知,Shikoku,33.5667,133.5483,0.5,2026,True
+47895,Tokushima,徳島,Shikoku,34.0667,134.5733,1.6,2026,True
