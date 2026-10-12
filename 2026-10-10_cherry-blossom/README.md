@@ -251,7 +251,7 @@ Sources:
 
 Notes:
 
-- Neighbouring stations share weather, so the stations are not independent tests; see the methods note for the ranges.
+- Neighbouring stations share weather, so the stations are not independent tests; the full report, sent on request, gives the ranges.
 - Only observations of the regular species, Somei Yoshino, are used. A day of the season counts from 1 October, with 29 February left out.
 
 How to cite:
