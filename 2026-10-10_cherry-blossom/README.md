@@ -20,7 +20,7 @@ Coverage: 80 weather stations, 1953-2026. Last updated: 2026-10-11.
 
 Sources:
 
-- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named))
+- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named and changes noted))
 - Signum Average calculations (CC BY 4.0)
 
 Notes:
@@ -59,7 +59,7 @@ Coverage: 80 stations. Last updated: 2026-10-11.
 
 Sources:
 
-- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named))
+- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named and changes noted))
 - Signum Average calculations (CC BY 4.0)
 
 Notes:
@@ -97,7 +97,7 @@ Coverage: 75 stations with 40 or more years, 1953 to their last year. Last updat
 
 Sources:
 
-- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named))
+- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named and changes noted))
 - Signum Average calculations (CC BY 4.0)
 
 Notes:
@@ -134,7 +134,7 @@ Coverage: 46 stations with seven or more years in both decades. Last updated: 20
 
 Sources:
 
-- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named))
+- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named and changes noted))
 - Signum Average calculations (CC BY 4.0)
 
 Notes:
@@ -168,7 +168,7 @@ Coverage: 1956-65 and 2016-25. Last updated: 2026-10-11.
 
 Sources:
 
-- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named))
+- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named and changes noted))
 - Signum Average calculations (CC BY 4.0)
 
 Notes:
@@ -208,7 +208,7 @@ Coverage: Twelve pairings of an early and a late decade. Last updated: 2026-10-1
 
 Sources:
 
-- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named))
+- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named and changes noted))
 - Signum Average calculations (CC BY 4.0)
 
 Notes:
@@ -246,7 +246,7 @@ Coverage: 76 stations with 40 or more seasons, 1954-2026. Last updated: 2026-10-
 
 Sources:
 
-- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named))
+- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named and changes noted))
 - Signum Average calculations (CC BY 4.0)
 
 Notes:
@@ -286,7 +286,7 @@ Coverage: Fitted on 1954-2000, scored on 2001-2026. Last updated: 2026-10-11.
 
 Sources:
 
-- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named))
+- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named and changes noted))
 - Signum Average calculations (CC BY 4.0)
 
 Notes:
@@ -326,7 +326,7 @@ Coverage: 1,449 station-springs, 2001-2026. Last updated: 2026-10-11.
 
 Sources:
 
-- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named))
+- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named and changes noted))
 - US National Oceanic and Atmospheric Administration, relative Oceanic Niño Index: https://www.cpc.ncep.noaa.gov/data/indices/RONI.ascii.txt (Public domain)
 - Signum Average calculations (CC BY 4.0)
 
@@ -365,7 +365,7 @@ Coverage: 48 stations still observing. Last updated: 2026-10-11.
 
 Sources:
 
-- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named))
+- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named and changes noted))
 - Signum Average calculations (CC BY 4.0)
 
 Notes:
@@ -402,7 +402,7 @@ Coverage: Winters of 1953-54 to 2025-26. Last updated: 2026-10-11.
 
 Sources:
 
-- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named))
+- Japan Meteorological Agency, phenological observations and past weather data: https://www.data.jma.go.jp/sakura/data/index.html (Public Data License 1.0 (reuse with the source named and changes noted))
 - US National Oceanic and Atmospheric Administration, relative Oceanic Niño Index: https://www.cpc.ncep.noaa.gov/data/indices/RONI.ascii.txt (Public domain)
 - Signum Average calculations (CC BY 4.0)
 
