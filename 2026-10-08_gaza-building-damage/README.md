@@ -297,10 +297,12 @@ Coverage: 32 simulated months. Last updated: 2026-10-08.
 | `area_fraction` | Share of Gaza occupied. |
 | `detect_p` | Chance a living fighter is found in a month. |
 | `lethality` | Chance a struck fighter dies. |
-| `alive_month12` | Fighters alive at month 12 (target: 20,000 to 23,000). |
+| `alive_month12` | Fighters alive at month 12 (calibration B's target: 12,500 to 15,000, ACLED). |
+| `alive_month15` | Fighters alive at month 15 (calibration A's target: 20,000 to 23,000, Israel's Channel 12). |
 | `alive_month15_ratio_f0` | Fighters alive at month 15 over f0 (target: 0.7 to 1.3). |
 | `cum_fighter_deaths_month32` | Fighters killed by month 32 (target: 6,000 to 25,000). |
-| `distance` | Normalised distance outside the three bands; 0 means all three satisfied. |
+| `distance` | Calibration A: normalised distance outside its three bands; 0 means all three satisfied. The 150 smallest are kept. |
+| `distance_b` | The same for calibration B. |
 | `explained_share_2025-10-11` | Share of buildings destroyed by 11 Oct 2025 the run explains. |
 | `explained_share_2026-06-16` | The same at 16 Jun 2026. |
 
@@ -308,7 +310,7 @@ Sources:
 
 - UNOSAT Gaza Strip comprehensive damage assessments: https://unosat.org/products/3984 (UN public reports)
 - Signum Average calculations (CC BY 4.0)
-- ACLED estimate of fighters remaining (Oct 2024); Reuters on US intelligence (Jan 2025); Gaza Ministry of Health lists via Tech for Palestine (Figures cited from public reports)
+- Fighters remaining: Channel 12 via the Jerusalem Post (Jan 2025) and ACLED (Oct 2024); Reuters on US intelligence (Jan 2025); Gaza Ministry of Health lists via Tech for Palestine (Figures cited from public reports)
 
 Notes:
 
@@ -331,7 +333,7 @@ Signum Average (2026) - "Calibration of the chasing model: 3,000 random paramete
 
 ## channel_accounting.csv
 
-**The army's count of targets against the satellite count of destroyed buildings, by date.** Cumulative targets the Israeli army says it struck in Gaza at each statement date, the UNOSAT destroyed count interpolated to that date, and the ratio. The unreported last quarter of 2024 is given as a floor (none) and a proxy (6,400, from the tempo of violence).
+**The army's count of targets against the satellite count of destroyed buildings, by date.** Cumulative targets the Israeli army says it struck in Gaza at each statement date, the UNOSAT destroyed count interpolated to that date, and the ratio. The unreported last quarter of 2024 is given as a floor (none) and a cap (5,200, the most that the army's total of 65,000 by October 2026 allows).
 
 Coverage: Feb 2024 to Dec 2025. Last updated: 2026-10-08.
 
@@ -341,7 +343,7 @@ Coverage: Feb 2024 to Dec 2025. Last updated: 2026-10-08.
 | `idf_targets_cumulative` | Targets struck, cumulative. |
 | `unosat_destroyed_interp` | Destroyed structures, interpolated linearly between UNOSAT dates. |
 | `targets_per_destroyed` | The ratio. |
-| `note` | reported, or how the last quarter of 2024 was filled. |
+| `note` | reported, reported total (October 2026), or how the last quarter of 2024 was filled (floor or cap). |
 
 Sources:
 
@@ -377,7 +379,7 @@ Coverage: Oct 2023 to Dec 2025. Last updated: 2026-10-08.
 |---|---|
 | `period` | The period. |
 | `months` | Its length in months. |
-| `idf_targets` | Targets reported in the period (the last quarter of 2024 at the proxy). |
+| `idf_targets` | Targets reported in the period (the last quarter of 2024 at the cap). |
 | `destroyed` | Buildings newly destroyed in the period, from UNOSAT interpolated. |
 | `acled_events` | ACLED political-violence events in the Gaza Strip. |
 | `acled_fatalities` | ACLED reported fatalities, all people. |
