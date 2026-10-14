@@ -188,9 +188,9 @@ Signum Average (2026) - "World wine production and consumption" [Dataset] Publis
 
 ## wine_grape_area_change.csv
 
-**Wine-grape area by country, 2000-2023.** Wine-grape area by country in four census years and the change from each country's first recorded year to 2023, with a flag for emerging producers.
+**Wine-grape area by country, 2000-2023.** Wine-grape area by country in four census years, the change from each country's first recorded year to 2023, the peak year and the change since it, with flags for emerging producers and for those that boomed and bust (China).
 
-Coverage: 2000, 2010, 2016, 2023. Last updated: 2026-10-04.
+Coverage: 2000, 2010, 2016, 2023. Last updated: 2026-10-14.
 
 | Column | Description |
 |---|---|
@@ -202,7 +202,11 @@ Coverage: 2000, 2010, 2016, 2023. Last updated: 2026-10-04.
 | `first_year` | First year the country appears. |
 | `change_ha` | Change from the first year to 2023, hectares. |
 | `change_pct` | Change from the first year to 2023, %. |
-| `emerging` | True if the area at least doubled and grew by 1,000+ hectares, or first appears after 2000 with 1,000+ hectares. |
+| `peak_year` | Census year with the largest area. |
+| `peak_ha` | Area in that year, hectares. |
+| `change_since_peak_pct` | Change from the peak to 2023, %. |
+| `emerging` | True if the area at least doubled and grew by 1,000+ hectares, or first appears after 2000 with 1,000+ hectares, and 2023 is within a fifth of the peak. |
+| `boom_and_bust` | True if it grew as above but 2023 is more than a fifth below the peak. |
 
 Sources:
 
@@ -211,6 +215,7 @@ Sources:
 Notes:
 
 - Countries that first appear after 2000 may have had vineyards earlier that the database did not cover.
+- Measured from its first year China (+141%) looks like a grower; measured from its 2016 peak it fell 60%. Both are given.
 
 How to cite:
 
