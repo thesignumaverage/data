@@ -1,6 +1,6 @@
 # Signum Average: data
 
-The datasets behind Signum Average's articles and charts (website.thesignumaverage.workers.dev). There is one folder per article, named by publication date and title. Each folder holds the article's CSV files and a README that explains every file.
+The datasets behind Signum Average's articles and charts (signumaverage.com). There is one folder per article, named by publication date and title. Each folder holds the article's CSV files and a README that explains every file.
 
 | Article folder | Datasets |
 |---|---|
@@ -17,4 +17,4 @@ Our compilations and calculations are published under CC BY 4.0 (https://creativ
 
 ## Corrections
 
-If you find an error, please open an issue. Corrections are logged on https://website.thesignumaverage.workers.dev/corrections/.
+If you find an error, please open an issue. Corrections are logged on https://signumaverage.com/corrections/.

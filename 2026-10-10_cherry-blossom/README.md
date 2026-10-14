@@ -1,4 +1,4 @@
-# Data for https://website.thesignumaverage.workers.dev/articles/cherry-blossom/
+# Data for https://signumaverage.com/articles/cherry-blossom/
 
 The datasets behind this article from Signum Average. Each CSV in this folder is described below: what it covers, every column, its sources and how to cite it. Please also cite the original sources.
 
@@ -30,7 +30,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Japan's cherry blossom: first and full bloom by station and year" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/bloom_dates.csv
+Signum Average (2026) - "Japan's cherry blossom: first and full bloom by station and year" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/bloom_dates.csv
 
 ```bibtex
 @misc{signumaverage-bloom-dates,
@@ -68,7 +68,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Japan's cherry blossom: the weather stations" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/stations.csv
+Signum Average (2026) - "Japan's cherry blossom: the weather stations" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/stations.csv
 
 ```bibtex
 @misc{signumaverage-stations,
@@ -107,7 +107,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Japan's cherry blossom: the trend at each station" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/station_trends.csv
+Signum Average (2026) - "Japan's cherry blossom: the trend at each station" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/station_trends.csv
 
 ```bibtex
 @misc{signumaverage-station-trends,
@@ -143,7 +143,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Japan's cherry blossom: 1956-65 against 2016-25" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/decade_averages.csv
+Signum Average (2026) - "Japan's cherry blossom: 1956-65 against 2016-25" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/decade_averages.csv
 
 ```bibtex
 @misc{signumaverage-decade-averages,
@@ -177,7 +177,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Japan's cherry blossom: ranges for the headline numbers" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/ranges.csv
+Signum Average (2026) - "Japan's cherry blossom: ranges for the headline numbers" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/ranges.csv
 
 ```bibtex
 @misc{signumaverage-ranges,
@@ -218,7 +218,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Japan's cherry blossom: the same comparison with other decades" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/other_decades.csv
+Signum Average (2026) - "Japan's cherry blossom: the same comparison with other decades" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/other_decades.csv
 
 ```bibtex
 @misc{signumaverage-other-decades,
@@ -256,7 +256,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Japan's cherry blossom: what a warmer winter does, by station" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/winter_effect_by_station.csv
+Signum Average (2026) - "Japan's cherry blossom: what a warmer winter does, by station" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/winter_effect_by_station.csv
 
 ```bibtex
 @misc{signumaverage-winter-effect-by-station,
@@ -296,7 +296,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Japan's cherry blossom: how well each model dates the bloom" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/model_scores.csv
+Signum Average (2026) - "Japan's cherry blossom: how well each model dates the bloom" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/model_scores.csv
 
 ```bibtex
 @misc{signumaverage-model-scores,
@@ -336,7 +336,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Japan's cherry blossom: how early can full bloom be forecast" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/forecast_by_issue_date.csv
+Signum Average (2026) - "Japan's cherry blossom: how early can full bloom be forecast" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/forecast_by_issue_date.csv
 
 ```bibtex
 @misc{signumaverage-forecast-by-issue-date,
@@ -374,7 +374,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Japan's cherry blossom: full bloom in spring 2027" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/spring_2027.csv
+Signum Average (2026) - "Japan's cherry blossom: full bloom in spring 2027" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/spring_2027.csv
 
 ```bibtex
 @misc{signumaverage-spring-2027,
@@ -412,7 +412,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Japan's cherry blossom: El Niño winters" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/el_nino_winters.csv
+Signum Average (2026) - "Japan's cherry blossom: El Niño winters" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-10_cherry-blossom/el_nino_winters.csv
 
 ```bibtex
 @misc{signumaverage-el-nino-winters,

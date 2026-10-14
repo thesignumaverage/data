@@ -1,4 +1,4 @@
-# Data for https://website.thesignumaverage.workers.dev/articles/chess-tilt/
+# Data for https://signumaverage.com/articles/chess-tilt/
 
 The datasets behind this article from Signum Average. Each CSV in this folder is described below: what it covers, every column, its sources and how to cite it. Please also cite the original sources.
 
@@ -31,7 +31,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Chess: score after a win, a draw and a loss" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/after_previous_result.csv
+Signum Average (2026) - "Chess: score after a win, a draw and a loss" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/after_previous_result.csv
 
 ```bibtex
 @misc{signumaverage-after-previous-result,
@@ -71,7 +71,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Chess: score by number of losses in a row" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/after_losing_streak.csv
+Signum Average (2026) - "Chess: score by number of losses in a row" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/after_losing_streak.csv
 
 ```bibtex
 @misc{signumaverage-after-losing-streak,
@@ -117,7 +117,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Chess: what a loss does to the next game (published estimates)" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/tilt_v12.csv
+Signum Average (2026) - "Chess: what a loss does to the next game (published estimates)" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/tilt_v12.csv
 
 ```bibtex
 @misc{signumaverage-tilt-v12,
@@ -161,7 +161,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Chess: the effect of losing a game on the next one (first version, superseded)" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/loss_effect.csv
+Signum Average (2026) - "Chess: the effect of losing a game on the next one (first version, superseded)" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/loss_effect.csv
 
 ```bibtex
 @misc{signumaverage-loss-effect,
@@ -203,7 +203,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Chess: the first version of the estimate, August 2026" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/loss_effect_august.csv
+Signum Average (2026) - "Chess: the first version of the estimate, August 2026" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/loss_effect_august.csv
 
 ```bibtex
 @misc{signumaverage-loss-effect-august,
@@ -247,7 +247,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Chess: balance tests and how the first version failed" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/followup.csv
+Signum Average (2026) - "Chess: balance tests and how the first version failed" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/followup.csv
 
 ```bibtex
 @misc{signumaverage-followup,
@@ -294,7 +294,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Chess: the effect of a loss, checks added after the results" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/loss_effect_extras.csv
+Signum Average (2026) - "Chess: the effect of a loss, checks added after the results" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/loss_effect_extras.csv
 
 ```bibtex
 @misc{signumaverage-loss-effect-extras,
@@ -335,7 +335,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Chess: results by the hidden strength of the previous opponent" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/luck_of_the_draw.csv
+Signum Average (2026) - "Chess: results by the hidden strength of the previous opponent" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/luck_of_the_draw.csv
 
 ```bibtex
 @misc{signumaverage-luck-of-the-draw,
@@ -377,7 +377,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Chess: who plays again, the winner or the loser" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/winner_and_loser.csv
+Signum Average (2026) - "Chess: who plays again, the winner or the loser" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-07_chess-tilt/winner_and_loser.csv
 
 ```bibtex
 @misc{signumaverage-winner-and-loser,

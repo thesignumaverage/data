@@ -1,4 +1,4 @@
-# Data for https://website.thesignumaverage.workers.dev/articles/gaza-building-damage/
+# Data for https://signumaverage.com/articles/gaza-building-damage/
 
 The datasets behind this article from Signum Average. Each CSV in this folder is described below: what it covers, every column, its sources and how to cite it. Please also cite the original sources.
 
@@ -32,7 +32,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Buildings destroyed and damaged in Gaza, six satellite assessments" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/unosat_damage_timeseries.csv
+Signum Average (2026) - "Buildings destroyed and damaged in Gaza, six satellite assessments" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/unosat_damage_timeseries.csv
 
 ```bibtex
 @misc{signumaverage-unosat-damage-timeseries,
@@ -72,7 +72,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "The Israeli army's own figures: targets struck, operatives killed, tunnel shafts, depots" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/idf_claimed_figures.csv
+Signum Average (2026) - "The Israeli army's own figures: targets struck, operatives killed, tunnel shafts, depots" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/idf_claimed_figures.csv
 
 ```bibtex
 @misc{signumaverage-idf-claimed-figures,
@@ -112,7 +112,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Estimates of Hamas's fighting strength, with their sourcing" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/hamas_fighter_estimates.csv
+Signum Average (2026) - "Estimates of Hamas's fighting strength, with their sourcing" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/hamas_fighter_estimates.csv
 
 ```bibtex
 @misc{signumaverage-hamas-fighter-estimates,
@@ -152,7 +152,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "The most that a Hamas fighter in every building could explain, by date and fighter count" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/fighter_presence_bounds.csv
+Signum Average (2026) - "The most that a Hamas fighter in every building could explain, by date and fighter count" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/fighter_presence_bounds.csv
 
 ```bibtex
 @misc{signumaverage-fighter-presence-bounds,
@@ -189,7 +189,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Who the dead are: children, women and men among Gaza's reported dead, against the population" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/casualty_demographics.csv
+Signum Average (2026) - "Who the dead are: children, women and men among Gaza's reported dead, against the population" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/casualty_demographics.csv
 
 ```bibtex
 @misc{signumaverage-casualty-demographics,
@@ -230,7 +230,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Spatial check: buildings a moving fighter force could touch, by how much of Gaza it occupies" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/concentration_simulation.csv
+Signum Average (2026) - "Spatial check: buildings a moving fighter force could touch, by how much of Gaza it occupies" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/concentration_simulation.csv
 
 ```bibtex
 @misc{signumaverage-concentration-simulation,
@@ -271,7 +271,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Chasing fighters who die: three named scenarios on the real monthly destruction" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/attrition_scenarios.csv
+Signum Average (2026) - "Chasing fighters who die: three named scenarios on the real monthly destruction" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/attrition_scenarios.csv
 
 ```bibtex
 @misc{signumaverage-attrition-scenarios,
@@ -319,7 +319,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Calibration of the chasing model: 3,000 random parameter draws and the 150 that fit" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/abc_calibration_draws.csv
+Signum Average (2026) - "Calibration of the chasing model: 3,000 random parameter draws and the 150 that fit" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/abc_calibration_draws.csv
 
 ```bibtex
 @misc{signumaverage-abc-calibration-draws,
@@ -357,7 +357,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "The army's count of targets against the satellite count of destroyed buildings, by date" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/channel_accounting.csv
+Signum Average (2026) - "The army's count of targets against the satellite count of destroyed buildings, by date" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/channel_accounting.csv
 
 ```bibtex
 @misc{signumaverage-channel-accounting,
@@ -401,7 +401,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "The war's tempo by period: targets, destroyed buildings, events and deaths a month" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/periods.csv
+Signum Average (2026) - "The war's tempo by period: targets, destroyed buildings, events and deaths a month" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-08_gaza-building-damage/periods.csv
 
 ```bibtex
 @misc{signumaverage-periods,

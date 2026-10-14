@@ -1,4 +1,4 @@
-# Data for https://website.thesignumaverage.workers.dev/articles/america-in-2075/
+# Data for https://signumaverage.com/articles/america-in-2075/
 
 The datasets behind this article from Signum Average. Each CSV in this folder is described below: what it covers, every column, its sources and how to cite it. Please also cite the original sources.
 
@@ -27,7 +27,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Share of Americans counted as white to 2075, with ranges" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/probability_us.csv
+Signum Average (2026) - "Share of Americans counted as white to 2075, with ranges" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/probability_us.csv
 
 ```bibtex
 @misc{signumaverage-probability-us,
@@ -70,7 +70,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Chance that each US state's white share falls below half" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/probability_states.csv
+Signum Average (2026) - "Chance that each US state's white share falls below half" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/probability_states.csv
 
 ```bibtex
 @misc{signumaverage-probability-states,
@@ -115,7 +115,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Population by group for every US state, projected to 2075 (scenarios)" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/projection_by_state.csv
+Signum Average (2026) - "Population by group for every US state, projected to 2075 (scenarios)" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/projection_by_state.csv
 
 ```bibtex
 @misc{signumaverage-projection-by-state,
@@ -153,7 +153,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Year each US state's white share falls below half" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/crossing_years.csv
+Signum Average (2026) - "Year each US state's white share falls below half" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/crossing_years.csv
 
 ```bibtex
 @misc{signumaverage-crossing-years,
@@ -194,7 +194,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "How well the projection method would have called 2015 and 2020" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/backtest_scores.csv
+Signum Average (2026) - "How well the projection method would have called 2015 and 2020" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/backtest_scores.csv
 
 ```bibtex
 @misc{signumaverage-backtest-scores,
@@ -244,7 +244,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Who moves to each US state from abroad" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/arrivals_by_state.csv
+Signum Average (2026) - "Who moves to each US state from abroad" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/arrivals_by_state.csv
 
 ```bibtex
 @misc{signumaverage-arrivals-by-state,
@@ -283,7 +283,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Who moves to the United States from abroad, by year" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/arrivals_us.csv
+Signum Average (2026) - "Who moves to the United States from abroad, by year" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/arrivals_us.csv
 
 ```bibtex
 @misc{signumaverage-arrivals-us,
@@ -328,7 +328,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Children per white woman needed to hold each state's white population steady" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/births_needed_by_state.csv
+Signum Average (2026) - "Children per white woman needed to hold each state's white population steady" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/births_needed_by_state.csv
 
 ```bibtex
 @misc{signumaverage-births-needed-by-state,
@@ -368,7 +368,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "The white share of Americans with and without immigration, to 2075" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/no_immigration_us.csv
+Signum Average (2026) - "The white share of Americans with and without immigration, to 2075" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/no_immigration_us.csv
 
 ```bibtex
 @misc{signumaverage-no-immigration-us,
@@ -405,7 +405,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Births, deaths and net migration from abroad by group, United States" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/components_by_group_us.csv
+Signum Average (2026) - "Births, deaths and net migration from abroad by group, United States" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/components_by_group_us.csv
 
 ```bibtex
 @misc{signumaverage-components-by-group-us,
@@ -444,7 +444,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "The projection method tested on 1990-2020" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/long_backtest_scores.csv
+Signum Average (2026) - "The projection method tested on 1990-2020" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/long_backtest_scores.csv
 
 ```bibtex
 @misc{signumaverage-long-backtest-scores,
@@ -486,7 +486,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Test 1 of the ranges: an odds model fitted to the 1990s" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/long_backtest_ranges.csv
+Signum Average (2026) - "Test 1 of the ranges: an odds model fitted to the 1990s" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/long_backtest_ranges.csv
 
 ```bibtex
 @misc{signumaverage-long-backtest-ranges,
@@ -524,7 +524,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Test 2 of the ranges: the published ranges against the method's past errors" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/range_check.csv
+Signum Average (2026) - "Test 2 of the ranges: the published ranges against the method's past errors" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/range_check.csv
 
 ```bibtex
 @misc{signumaverage-range-check,
@@ -558,7 +558,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "The harsh reading: US white share to 2075 with wider ranges" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/probability_us_harsh.csv
+Signum Average (2026) - "The harsh reading: US white share to 2075 with wider ranges" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-05_america-in-2075/probability_us_harsh.csv
 
 ```bibtex
 @misc{signumaverage-probability-us-harsh,

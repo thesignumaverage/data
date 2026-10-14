@@ -1,4 +1,4 @@
-# Data for https://website.thesignumaverage.workers.dev/articles/undiscovered-wine/
+# Data for https://signumaverage.com/articles/undiscovered-wine/
 
 The datasets behind this article from Signum Average. Each CSV in this folder is described below: what it covers, every column, its sources and how to cite it. Please also cite the original sources.
 
@@ -42,7 +42,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Farmland suited to vineyards, and the vines grown on it, by country" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/suitable_land_by_country.csv
+Signum Average (2026) - "Farmland suited to vineyards, and the vines grown on it, by country" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/suitable_land_by_country.csv
 
 ```bibtex
 @misc{signumaverage-suitable-land-by-country,
@@ -87,7 +87,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Farmland suited to vineyards, by province" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/suitable_land_by_province.csv
+Signum Average (2026) - "Farmland suited to vineyards, by province" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/suitable_land_by_province.csv
 
 ```bibtex
 @misc{signumaverage-suitable-land-by-province,
@@ -138,7 +138,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Wine market share and sales forgone by countries that plant little of their vineyard land" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/wine_market_share_forgone.csv
+Signum Average (2026) - "Wine market share and sales forgone by countries that plant little of their vineyard land" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/wine_market_share_forgone.csv
 
 ```bibtex
 @misc{signumaverage-wine-market-share-forgone,
@@ -174,7 +174,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "World wine production and consumption" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/world_wine_market.csv
+Signum Average (2026) - "World wine production and consumption" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/world_wine_market.csv
 
 ```bibtex
 @misc{signumaverage-world-wine-market,
@@ -214,7 +214,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Wine-grape area by country, 2000-2023" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/wine_grape_area_change.csv
+Signum Average (2026) - "Wine-grape area by country, 2000-2023" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/wine_grape_area_change.csv
 
 ```bibtex
 @misc{signumaverage-wine-grape-area-change,
@@ -258,7 +258,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Vineyard-suitability model: continent hold-out test" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_holdout_test.csv
+Signum Average (2026) - "Vineyard-suitability model: continent hold-out test" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_holdout_test.csv
 
 ```bibtex
 @misc{signumaverage-model-holdout-test,
@@ -297,7 +297,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Vineyard-suitability model: scores of known wine regions and control places" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_known_places.csv
+Signum Average (2026) - "Vineyard-suitability model: scores of known wine regions and control places" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_known_places.csv
 
 ```bibtex
 @misc{signumaverage-model-known-places,
@@ -353,7 +353,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Wine regions: consumer ratings with the climate and soil of their vineyards" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/rated_regions_climate_soil.csv
+Signum Average (2026) - "Wine regions: consumer ratings with the climate and soil of their vineyards" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/rated_regions_climate_soil.csv
 
 ```bibtex
 @misc{signumaverage-rated-regions-climate-soil,
@@ -393,7 +393,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Vineyard-suitability model: 15 versions, one choice changed in each" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_robustness_versions.csv
+Signum Average (2026) - "Vineyard-suitability model: 15 versions, one choice changed in each" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_robustness_versions.csv
 
 ```bibtex
 @misc{signumaverage-model-robustness-versions,
@@ -431,7 +431,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Vineyard-suitability model: inside each country" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_within_country_test.csv
+Signum Average (2026) - "Vineyard-suitability model: inside each country" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-02_undiscovered-wine/model_within_country_test.csv
 
 ```bibtex
 @misc{signumaverage-model-within-country-test,

@@ -1,4 +1,4 @@
-# Data for https://website.thesignumaverage.workers.dev/articles/what-sanctions-cost-iranians/
+# Data for https://signumaverage.com/articles/what-sanctions-cost-iranians/
 
 The datasets behind this article from Signum Average. Each CSV in this folder is described below: what it covers, every column, its sources and how to cite it. Please also cite the original sources.
 
@@ -33,7 +33,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Iran's enriched-uranium stockpile, with a source for every point" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_enriched_uranium_iaea.csv
+Signum Average (2026) - "Iran's enriched-uranium stockpile, with a source for every point" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_enriched_uranium_iaea.csv
 
 ```bibtex
 @misc{signumaverage-iran-enriched-uranium-iaea,
@@ -73,7 +73,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Iran vs "synthetic Iran": GDP per person gap" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/synthetic_control_gaps.csv
+Signum Average (2026) - "Iran vs "synthetic Iran": GDP per person gap" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/synthetic_control_gaps.csv
 
 ```bibtex
 @misc{signumaverage-synthetic-control-gaps,
@@ -108,7 +108,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Inflation, Iran vs peer oil producers" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_inflation_vs_peers.csv
+Signum Average (2026) - "Inflation, Iran vs peer oil producers" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_inflation_vs_peers.csv
 
 ```bibtex
 @misc{signumaverage-iran-inflation-vs-peers,
@@ -154,7 +154,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Oil revenue, sanctions and household consumption: 60 model estimates" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/spec_curve_results.csv
+Signum Average (2026) - "Oil revenue, sanctions and household consumption: 60 model estimates" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/spec_curve_results.csv
 
 ```bibtex
 @misc{signumaverage-spec-curve-results,
@@ -202,7 +202,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Household consumption in Iran: projections for 2026 and 2027 under three oil scenarios" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/outlook_scenarios.csv
+Signum Average (2026) - "Household consumption in Iran: projections for 2026 and 2027 under three oil scenarios" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/outlook_scenarios.csv
 
 ```bibtex
 @misc{signumaverage-outlook-scenarios,
@@ -242,7 +242,7 @@ Notes:
 
 How to cite:
 
-Signum Average (2026) - "Iran's economy in 2026: reported readings, with a source for every figure" [Dataset] Published online at website.thesignumaverage.workers.dev. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_2026_monitor.csv
+Signum Average (2026) - "Iran's economy in 2026: reported readings, with a source for every figure" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-09-29_what-sanctions-cost-iranians/iran_2026_monitor.csv
 
 ```bibtex
 @misc{signumaverage-iran-2026-monitor,
