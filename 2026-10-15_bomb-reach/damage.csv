@@ -1,0 +1,10 @@
+parameter,symbol,lo,hi,unit,note,source
+granite_ucs,UCS,100,230,MPa,"unconfined compressive strength of intact granite",https://sites.psu.edu/tzhu/files/2016/10/Some-Useful-Numbers-1g1rkuu.pdf
+granite_density,rho,2600,2750,kg/m3,"density of granite",https://sites.psu.edu/tzhu/files/2016/10/Some-Useful-Numbers-1g1rkuu.pdf
+granite_pwave,c,4500,5500,m/s,"P-wave speed of granite (sets acoustic impedance rho*c)",https://sites.psu.edu/tzhu/files/2016/10/Some-Useful-Numbers-1g1rkuu.pdf
+crush_multiple,k_crush,2,6,x UCS,"dynamic stress to pulverise rock, as a multiple of static UCS (shock loading; least certain)","Zhang & Zhao 2014 review of dynamic rock strength; mining blast practice"
+tensile_ratio,UCS/T,8,20,-,"ratio of compressive to static tensile strength of granite",https://sites.psu.edu/tzhu/files/2016/10/Some-Useful-Numbers-1g1rkuu.pdf
+dynamic_tensile_increase,DIF_t,1.5,4,-,"dynamic increase factor on tensile strength at blast strain rates","Zhang & Zhao 2014; CEB dynamic increase factors"
+fail_ppv_hardened,V_fail,2,15,m/s,"peak particle velocity for severe damage to an opening: unlined/weak 1.5-4, lined/reinforced 5-15","National Academies 2005 table 4.1; Dowding & Rozen 1978; Hendron (UET)"
+fracture_fraction,ff,0,0.6,-,"share of the granite already broken by joints and faults; weakens the chamber and damps the shock","Young rock-quality Q; rock-mass rating practice"
+cep,CEP,5,40,m,"circular error probable of a precision-guided weapon against a fixed point","public GPS-guided munition accuracy"

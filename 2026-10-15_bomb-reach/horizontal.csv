@@ -1,0 +1,12 @@
+weapon,weapon_name,kind,mode,tnt_tonnes,r20psi_m,r5psi_m,r1psi_m,burns_m,rad500_m
+gbu39,GBU-39 small diameter bomb,conventional,penetrate,0.026,9,16,48,,
+mk82,Mk-82 (500 lb),conventional,surface,0.093,13,25,74,,
+mk84,Mk-84 (2000 lb),conventional,surface,0.45,22,43,125,,
+blu109,BLU-109 penetrator (GBU-31),conventional,penetrate,0.263,19,36,105,,
+gbu28,GBU-28 (BLU-113),conventional,penetrate,0.311,20,38,111,,
+mop,GBU-57 Massive Ordnance Penetrator,conventional,penetrate,3.877,46,87,257,,
+moab,GBU-43/B MOAB,conventional,airburst,11.448,65,125,369,,
+b61_03,B61-12 at 0.3 kt,nuclear,penetrate,300.0,154,296,869,363.0,677.0
+b61_15,B61-12 at 1.5 kt,nuclear,penetrate,1500.0,264,506,1486,650.0,898.0
+b61_10,B61-12 at 10 kt,nuclear,penetrate,10000.0,497,952,2798,1519.0,1250.0
+b61_50,B61-12 at 50 kt,nuclear,penetrate,50000.0,849,1628,4784,3122.0,1654.0
