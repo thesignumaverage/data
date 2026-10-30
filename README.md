@@ -13,6 +13,7 @@ The datasets behind Signum Average's articles and charts (signumaverage.com). Th
 | [`2026-10-21_hormuz-oil-price/`](2026-10-21_hormuz-oil-price/) | Hormuz detour: Brent and WTI spot prices; Hormuz detour: where each reported flow figure comes from |
 | [`2026-10-27_israel-exit-polls/`](2026-10-27_israel-exit-polls/) | Israel's exit polls: every channel's projection, 2003-2026; Israel's exit polls: final seats by list, 2003-2022; Israel's exit polls: how each list was counted on the night; Israel's exit polls: the error of every projection; Israel's exit polls: the three channels' average against the count; Israel's exit polls: the forecast's backtest |
 | [`2026-10-29_halloween-pedestrians/`](2026-10-29_halloween-pedestrians/) | Children killed on foot each evening of October and November; Every evening of the year ranked by children killed on foot; Halloween and ordinary evenings, year by year; How much deadlier Halloween evening is, by age and period; Children killed on Halloween evening, decade by decade |
+| [`2026-10-30_midterm-turnout/`](2026-10-30_midterm-turnout/) | Reported turnout by age, every November election; Who makes up the midterm electorate, by age; How much each age group falls away in midterms; Reported turnout by single year of age, 2022; How far the survey overstates turnout; Turnout with and without the people who gave no answer; The age gap on citizens and on all adults |
 
 ## Licence
 
