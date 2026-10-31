@@ -1,0 +1,18 @@
+name,census_area,census_2020,ghsl_2020,ratio
+New York,"New York-Newark-Jersey City, NY-NJ",20081990,20106617,1.001
+Los Angeles,"Los Angeles-Long Beach-Anaheim, CA",13200973,16206529,1.228
+Chicago,"Chicago-Naperville-Elgin, IL-IN",9450304,9031458,0.956
+Dallas,"Dallas-Fort Worth-Arlington, TX",7637398,7676519,1.005
+Houston,"Houston-Pasadena-The Woodlands, TX",7149604,7380743,1.032
+Miami,"Miami-Fort Lauderdale-West Palm Beach, FL",6138356,6250227,1.018
+Philadelphia,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",6245020,6326212,1.013
+Atlanta,"Atlanta-Sandy Springs-Roswell, GA",6106847,6098561,0.999
+Washington,"Washington-Arlington-Alexandria, DC-VA-MD-WV",6278594,5991807,0.954
+Phoenix,"Phoenix-Mesa-Chandler, AZ",4851102,5037826,1.038
+Seattle,"Seattle-Tacoma-Bellevue, WA",4018797,4209773,1.048
+Detroit,"Detroit-Warren-Dearborn, MI",4392390,4090503,0.931
+Minneapolis-St Paul,"Minneapolis-St. Paul-Bloomington, MN-WI",3690271,3429367,0.929
+Denver,"Denver-Aurora-Centennial, CO",2963814,3193848,1.078
+Tampa,"Tampa-St. Petersburg-Clearwater, FL",3175291,2913899,0.918
+Boston,"Boston-Cambridge-Newton, MA-NH",4944611,2814805,0.569
+San Antonio,"San Antonio-New Braunfels, TX",2558115,2592649,1.013
