@@ -1,0 +1,12 @@
+key,name,kind,mass_kg,diam_m,fill_kg,fill,re_lo,re_hi,yield_kt,mode,v_lo,v_hi,burst_h_lo,burst_h_hi,claim,source
+gbu39,GBU-39 small diameter bomb,conventional,129,0.19,16,AFX-757,1.3,1.9,,penetrate,200,300,0,0,"more than 0.9 m of reinforced concrete",https://en.wikipedia.org/wiki/GBU-39_Small_Diameter_Bomb
+mk82,Mk-82 (500 lb),conventional,241,0.273,89,Tritonal,1.0,1.1,,surface,,,0,0,,https://en.wikipedia.org/wiki/Mark_82_bomb
+mk84,Mk-84 (2000 lb),conventional,925,0.46,429,Tritonal,1.0,1.1,,surface,,,0,0,"up to 3.4 m of concrete depending on drop height",https://en.wikipedia.org/wiki/Mark_84_bomb
+blu109,BLU-109 penetrator (GBU-31),conventional,910,0.37,250,Tritonal,1.0,1.1,,penetrate,250,350,0,0,"1.2-2.4 m of reinforced concrete",https://en.wikipedia.org/wiki/BLU-109_bomb
+gbu28,GBU-28 (BLU-113),conventional,2268,0.37,296,Tritonal,1.0,1.1,,penetrate,250,350,0,0,"6 m of concrete; 6.7 m in a sled test; 30-50 m of earth",https://en.wikipedia.org/wiki/GBU-28
+mop,GBU-57 Massive Ordnance Penetrator,conventional,12300,0.80,2423,AFX-757 and PBXN-114,1.3,1.9,,penetrate,300,400,0,0,"18 m of 34.5 MPa concrete; 60 m of earth",https://en.wikipedia.org/wiki/GBU-57A/B_MOP; https://designation-systems.net/dusrm/app5/mop.html; https://defensescoop.com/2025/06/26/mop-bomb-iran-nuclear-sites-gen-caine-details/
+moab,GBU-43/B MOAB,conventional,9840,1.03,8480,H-6,1.3,1.4,,airburst,,,1.0,3.0,"not a penetrator; bursts just above the ground",https://en.wikipedia.org/wiki/GBU-43/B_MOAB; https://designation-systems.net/dusrm/app5/moab.html
+b61_03,B61-12 at 0.3 kt,nuclear,374,0.33,,nuclear,,,0.3,penetrate,250,350,0,0,"shallow penetration; at 0.3 kt equals a 4.5-7.5 kt surface burst underground (FAS)",https://en.wikipedia.org/wiki/B61_nuclear_bomb; https://fas.org/publication/b61-12_earth-penetration/
+b61_15,B61-12 at 1.5 kt,nuclear,374,0.33,,nuclear,,,1.5,penetrate,250,350,0,0,,https://en.wikipedia.org/wiki/B61_nuclear_bomb
+b61_10,B61-12 at 10 kt,nuclear,374,0.33,,nuclear,,,10,penetrate,250,350,0,0,,https://en.wikipedia.org/wiki/B61_nuclear_bomb
+b61_50,B61-12 at 50 kt,nuclear,374,0.33,,nuclear,,,50,penetrate,250,350,0,0,,https://en.wikipedia.org/wiki/B61_nuclear_bomb

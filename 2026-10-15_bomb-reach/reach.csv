@@ -1,0 +1,56 @@
+weapon,weapon_name,ground,ground_name,pen_p10,pen_p50,pen_p90,severe_p10,severe_p50,severe_p90,light_p10,light_p50,light_p90
+gbu39,GBU-39 small diameter bomb,soil,Dense dry soil,5.9,8.4,12.4,8.1,10.7,14.6,10.7,13.5,17.4
+gbu39,GBU-39 small diameter bomb,sandstone,Weak sandstone,1.6,2.1,2.7,2.6,3.5,4.5,4.8,6.1,7.4
+gbu39,GBU-39 small diameter bomb,limestone,Limestone,0.9,1.2,1.5,1.6,2.5,3.4,3.3,4.9,6.2
+gbu39,GBU-39 small diameter bomb,concrete,Reinforced concrete,0.6,0.8,1.1,1.2,2.1,3.0,2.7,4.4,5.8
+gbu39,GBU-39 small diameter bomb,granite,Granite,0.7,0.9,1.1,1.3,2.3,3.1,2.8,4.5,5.9
+mk82,Mk-82 (500 lb),soil,Dense dry soil,0.0,0.0,0.0,1.4,1.7,1.9,3.0,3.6,4.4
+mk82,Mk-82 (500 lb),sandstone,Weak sandstone,0.0,0.0,0.0,0.3,0.6,1.1,1.4,2.4,4.0
+mk82,Mk-82 (500 lb),limestone,Limestone,0.0,0.0,0.0,0.3,0.6,1.1,1.4,2.4,4.1
+mk82,Mk-82 (500 lb),concrete,Reinforced concrete,0.0,0.0,0.0,0.3,0.7,1.1,1.3,2.4,4.0
+mk82,Mk-82 (500 lb),granite,Granite,0.0,0.0,0.0,0.3,0.7,1.1,1.3,2.4,4.0
+mk84,Mk-84 (2000 lb),soil,Dense dry soil,0.0,0.0,0.0,2.4,2.8,3.3,5.0,6.1,7.5
+mk84,Mk-84 (2000 lb),sandstone,Weak sandstone,0.0,0.0,0.0,0.7,1.2,1.9,2.8,4.5,6.7
+mk84,Mk-84 (2000 lb),limestone,Limestone,0.0,0.0,0.0,0.7,1.2,1.9,2.7,4.4,6.6
+mk84,Mk-84 (2000 lb),concrete,Reinforced concrete,0.0,0.0,0.0,0.7,1.2,1.9,2.8,4.5,6.8
+mk84,Mk-84 (2000 lb),granite,Granite,0.0,0.0,0.0,0.7,1.2,1.9,2.8,4.5,6.8
+blu109,BLU-109 penetrator (GBU-31),soil,Dense dry soil,11.4,16.3,23.2,16.1,21.2,28.1,21.6,27.0,34.2
+blu109,BLU-109 penetrator (GBU-31),sandstone,Weak sandstone,3.2,4.1,5.3,5.9,7.5,9.2,11.3,13.8,18.0
+blu109,BLU-109 penetrator (GBU-31),limestone,Limestone,1.8,2.3,3.0,3.8,5.6,7.1,8.5,11.2,14.2
+blu109,BLU-109 penetrator (GBU-31),concrete,Reinforced concrete,1.3,1.6,2.2,2.9,4.8,6.4,6.8,9.9,12.8
+blu109,BLU-109 penetrator (GBU-31),granite,Granite,1.5,1.8,2.2,3.1,4.8,6.6,7.4,10.3,13.0
+gbu28,GBU-28 (BLU-113),soil,Dense dry soil,21.5,30.6,43.9,26.5,35.7,49.0,32.5,42.0,55.2
+gbu28,GBU-28 (BLU-113),sandstone,Weak sandstone,6.1,7.8,9.9,9.3,11.4,13.9,15.0,18.3,23.3
+gbu28,GBU-28 (BLU-113),limestone,Limestone,3.5,4.4,5.5,6.3,8.1,9.7,12.1,14.8,19.5
+gbu28,GBU-28 (BLU-113),concrete,Reinforced concrete,2.4,3.1,4.1,4.8,6.7,8.4,10.4,13.1,17.0
+gbu28,GBU-28 (BLU-113),granite,Granite,2.8,3.5,4.2,5.3,7.1,8.6,11.0,13.5,17.6
+mop,GBU-57 Massive Ordnance Penetrator,soil,Dense dry soil,28.8,40.4,57.5,40.5,52.3,69.3,53.3,66.6,84.4
+mop,GBU-57 Massive Ordnance Penetrator,sandstone,Weak sandstone,8.1,10.3,13.0,16.6,20.0,23.4,29.4,37.7,59.6
+mop,GBU-57 Massive Ordnance Penetrator,limestone,Limestone,4.7,5.9,7.3,11.2,14.8,17.9,24.3,30.7,44.5
+mop,GBU-57 Massive Ordnance Penetrator,concrete,Reinforced concrete,3.2,4.1,5.3,8.6,12.4,15.8,21.6,27.4,36.7
+mop,GBU-57 Massive Ordnance Penetrator,granite,Granite,3.8,4.5,5.4,9.3,12.9,16.1,22.3,28.2,38.8
+moab,GBU-43/B MOAB,soil,Dense dry soil,0.0,0.0,0.0,4.7,6.2,7.8,12.7,16.1,20.1
+moab,GBU-43/B MOAB,sandstone,Weak sandstone,0.0,0.0,0.0,1.0,2.4,3.8,9.6,14.1,20.8
+moab,GBU-43/B MOAB,limestone,Limestone,0.0,0.0,0.0,1.0,2.3,3.9,9.4,14.2,20.7
+moab,GBU-43/B MOAB,concrete,Reinforced concrete,0.0,0.0,0.0,1.0,2.4,3.9,9.4,14.2,21.1
+moab,GBU-43/B MOAB,granite,Granite,0.0,0.0,0.0,1.0,2.3,3.9,9.5,14.1,21.0
+b61_03,B61-12 at 0.3 kt,soil,Dense dry soil,7.2,10.3,14.7,34.6,42.3,51.2,64.4,79.9,100.5
+b61_03,B61-12 at 0.3 kt,sandstone,Weak sandstone,2.0,2.6,3.4,34.8,40.6,47.2,71.1,87.0,106.6
+b61_03,B61-12 at 0.3 kt,limestone,Limestone,1.2,1.5,1.8,33.6,39.4,46.0,70.1,85.8,104.9
+b61_03,B61-12 at 0.3 kt,concrete,Reinforced concrete,0.8,1.1,1.4,33.2,38.9,45.6,69.6,84.8,103.8
+b61_03,B61-12 at 0.3 kt,granite,Granite,0.9,1.1,1.4,33.2,39.1,45.7,69.8,85.1,104.2
+b61_15,B61-12 at 1.5 kt,soil,Dense dry soil,7.2,10.2,14.5,49.0,58.5,70.2,93.7,116.7,145.1
+b61_15,B61-12 at 1.5 kt,sandstone,Weak sandstone,2.0,2.6,3.3,57.5,67.5,78.9,119.2,145.6,178.8
+b61_15,B61-12 at 1.5 kt,limestone,Limestone,1.2,1.5,1.8,56.3,66.4,78.0,118.3,145.5,178.9
+b61_15,B61-12 at 1.5 kt,concrete,Reinforced concrete,0.8,1.0,1.4,55.9,66.2,77.4,118.6,144.7,178.0
+b61_15,B61-12 at 1.5 kt,granite,Granite,0.9,1.1,1.4,56.0,65.8,77.3,118.2,144.9,178.1
+b61_10,B61-12 at 10 kt,soil,Dense dry soil,7.1,10.2,14.6,77.8,92.9,110.5,154.0,191.1,236.1
+b61_10,B61-12 at 10 kt,sandstone,Weak sandstone,2.0,2.6,3.3,105.6,124.6,145.4,223.4,272.9,334.6
+b61_10,B61-12 at 10 kt,limestone,Limestone,1.2,1.5,1.9,104.6,123.4,144.5,222.5,272.5,334.5
+b61_10,B61-12 at 10 kt,concrete,Reinforced concrete,0.8,1.0,1.3,96.9,117.2,142.0,213.5,262.8,326.8
+b61_10,B61-12 at 10 kt,granite,Granite,0.9,1.1,1.4,103.0,121.0,143.1,220.1,271.0,331.8
+b61_50,B61-12 at 50 kt,soil,Dense dry soil,7.2,10.2,14.6,119.5,141.9,168.9,243.3,298.7,371.5
+b61_50,B61-12 at 50 kt,sandstone,Weak sandstone,2.0,2.6,3.3,179.3,210.9,248.3,379.5,465.0,571.1
+b61_50,B61-12 at 50 kt,limestone,Limestone,1.2,1.5,1.8,140.4,181.9,228.9,331.5,424.8,537.1
+b61_50,B61-12 at 50 kt,concrete,Reinforced concrete,0.8,1.0,1.4,107.1,139.2,181.7,273.7,359.5,464.2
+b61_50,B61-12 at 50 kt,granite,Granite,0.9,1.1,1.4,116.7,148.4,187.0,290.2,373.3,478.3

@@ -1,0 +1,6 @@
+key,name,route,S_lo,S_hi,fc_lo,fc_hi,Q_lo,Q_hi,rebar_lo,rebar_hi,n_lo,n_hi,source
+soil,Dense dry soil,soil,4,9,,,,,,,2.5,3.0,"Young SAND97-2426 table 4-2 (S); TM 5-855-1 via AIP Advances 13 045110 (n)"
+sandstone,Weak sandstone,rock,,,10,40,0.2,0.5,,,,,"Young SAND97-2426 (S from strength and quality); ISRM 1981 weak rock 0.5-25 MPa"
+limestone,Limestone,rock,,,50,170,0.3,0.7,,,,,"Young SAND97-2426; strengths from Penn State reference sheet; Fordow limestone up to 172 MPa"
+concrete,Reinforced concrete,rock,,,25,150,,,1,2,,,"Young SAND97-2426 concrete S; FHWA UHPC above 150 MPa"
+granite,Granite,rock,,,100,230,0.5,0.9,,,,,"Young SAND97-2426; Palmstrom rock strength table"
