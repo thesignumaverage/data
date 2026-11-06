@@ -1,0 +1,36 @@
+state,special,dem_side_candidate,rep_candidate,our_chance_dem,poll_average_margin,forecast_margin,forecast_low80,forecast_high80,result_margin,result
+Massachusetts,False,Ed Markey,John Deaton,100.0,29.2,31.3,25.7,36.9,,Democratic side
+Rhode Island,False,Jack Reed,Raymond McKay,100.0,29.7,27.3,21.5,33.1,,Democratic side
+Colorado,False,John Hickenlooper,Mark Baisley,99.8,18.0,19.9,13.9,25.9,25.02,Democratic side
+Virginia,False,Mark Warner,Bert Mizusawa,99.8,27.0,21.6,15.2,28.1,,Democratic side
+New Mexico,False,Ben Ray Luján,Larry Marker,99.7,18.8,18.3,12.3,24.3,26.47,Democratic side
+Oregon,False,Jeff Merkley,David Brock Smith,99.6,,25.0,16.4,33.6,,Democratic side
+Delaware,False,Chris Coons,Michael Katz,99.6,,25.1,16.4,33.7,,Democratic side
+Illinois,False,Juliana Stratton,Don Tracy,99.3,13.0,14.8,8.9,20.8,,Democratic side
+Georgia,False,Jon Ossoff,Mike Collins,98.7,12.2,11.6,6.2,17.0,,Democratic side
+New Jersey,False,Cory Booker,Justin Murphy,98.5,,17.6,8.9,26.2,,Democratic side
+New Hampshire,False,Chris Pappas,John E. Sununu,97.4,8.9,9.3,3.9,14.7,,Democratic side
+North Carolina,False,Roy Cooper,Michael Whatley,97.3,11.6,9.0,3.7,14.4,20.06,Democratic side
+Minnesota,False,Peggy Flanagan,Michele Tafoya,96.9,7.1,8.7,3.3,14.1,,Democratic side
+Maine,False,Troy Jackson,Susan Collins,90.9,3.8,5.6,0.3,10.9,,Democratic side
+Michigan,False,Abdul El-Sayed,Mike Rogers,90.1,4.7,5.3,0.0,10.6,7.25,Democratic side
+Texas,False,James Talarico,Ken Paxton,54.0,3.1,0.4,-4.9,5.6,12.33,Democratic side
+Ohio,True,Sherrod Brown,Jon Husted,52.8,4.6,0.3,-5.0,5.6,5.1,Democratic side
+Iowa,False,Josh Turek,Ashley Hinson,51.4,2.5,0.1,-5.2,5.5,4.24,Democratic side
+Alaska,False,Mary Peltola,Dan Sullivan,38.1,3.8,-1.2,-6.6,4.2,,not yet called
+Kansas,False,Adam Hamilton,Roger Marshall,26.0,3.1,-2.5,-7.9,2.9,5.16,Democratic side
+South Carolina,False,Annie Andrews,Darline Graham,12.6,0.4,-4.7,-10.1,0.7,4.57,Democratic side
+Nebraska,False,Dan Osborn,Pete Ricketts,7.2,-0.7,-6.4,-11.9,-0.9,,Republican
+Florida,True,Angie Nixon,Ashley Moody,4.7,-6.8,-7.5,-12.8,-2.1,-2.93,Republican
+Louisiana,False,Jamie Davis,Julia Letlow,4.2,-6.4,-8.8,-14.9,-2.7,-1.76,Republican
+Mississippi,False,Scott Colom,Cindy Hyde-Smith,1.3,-9.7,-13.7,-20.2,-7.3,0.19,not yet called
+Kentucky,False,Charles Booker,Andy Barr,0.7,-15.2,-17.4,-24.3,-10.4,-12.35,Republican
+Montana,False,Seth Bodnar,Kurt Alme,0.6,-17.4,-14.3,-19.8,-8.9,-10.51,Republican
+South Dakota,False,Brian Bengs,Mike Rounds,0.5,-9.8,-15.1,-20.6,-9.5,,Republican
+Arkansas,False,Hallie Shoffner,Tom Cotton,0.5,-8.9,-15.6,-21.4,-9.8,,Republican
+Alabama,False,Everett Wess,Barry Moore,0.3,-17.3,-17.8,-23.7,-11.9,-9.42,Republican
+Tennessee,False,Marquita Bradshaw,Bill Hagerty,0.2,-22.4,-22.6,-29.1,-16.1,,Republican
+Oklahoma,False,N'Kiyla Jasmine Thomas,Kevin Hern,0.2,-32.4,-25.4,-32.4,-18.4,-18.75,Republican
+Wyoming,False,James W. Byrd,Harriet Hageman,0.1,,-31.9,-40.5,-23.3,,Republican
+Idaho,False,Todd Achilles,Jim Risch,0.1,-21.1,-24.4,-30.1,-18.8,-23.24,Republican
+West Virginia,False,Rachel Fetty Anderson,Shelley Moore Capito,0.1,,-33.3,-41.9,-24.7,,Republican
