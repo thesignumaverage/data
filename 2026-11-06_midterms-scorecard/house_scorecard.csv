@@ -11,10 +11,10 @@ Arizona 1,-1.0,David Schweikert,Amish Shah,Jay Feely,76.3,4.3,Democratic
 Arizona 2,-7.0,Eli Crane,Jonathan Nez,Eli Crane,6.5,-10.2,not yet called
 Arizona 3,22.0,Yassamin Ansari,Yassamin Ansari,,100.0,51.4,Democratic
 Arizona 4,4.0,Greg Stanton,Greg Stanton,Zuhdi Jasser,98.5,16.9,Democratic
-Arizona 5,-10.0,Andy Biggs,Elizabeth Lee,Mark Lamb,3.5,-12.9,not yet called
+Arizona 5,-10.0,Andy Biggs,Elizabeth Lee,Mark Lamb,3.5,-12.9,Republican
 Arizona 6,0.0,Juan Ciscomani,JoAnna Mendoza,Juan Ciscomani,70.6,3.2,Democratic
 Arizona 7,13.0,Adelita Grijalva,Adelita Grijalva,Daniel Butierez,99.9,34.2,Democratic
-Arizona 8,-8.0,Abraham Hamadeh,Bernadette Greene-Placentia,Abraham Hamadeh,4.2,-12.1,not yet called
+Arizona 8,-8.0,Abraham Hamadeh,Bernadette Greene-Placentia,Abraham Hamadeh,4.2,-12.1,Republican
 Arizona 9,-15.0,Paul Gosar,Dani Sterbinsky,Paul Gosar,0.3,-25.5,Republican
 Arkansas 1,-23.0,Rick Crawford,Terri Green,Rick Crawford,0.0,-40.8,Republican
 Arkansas 2,-8.0,French Hill,Chris Jones,French Hill,4.2,-12.1,Republican
@@ -74,7 +74,7 @@ California 8,19.0,John Garamendi,John Garamendi,Rudy Recile,100.0,45.7,Democrati
 California 9,8.0,Josh Harder,Josh Harder,John McBride,99.6,24.6,Democratic
 Colorado 1,29.0,Diana DeGette,Melat Kiros,Christy Peterson,100.0,61.8,Democratic
 Colorado 2,20.0,Joe Neguse,Joe Neguse,Kelley Dennison,100.0,47.6,Democratic
-Colorado 3,-5.0,Jeff Hurd,Dwayne Romero,Jeff Hurd,15.5,-6.3,not yet called
+Colorado 3,-5.0,Jeff Hurd,Dwayne Romero,Jeff Hurd,15.5,-6.3,Republican
 Colorado 4,-9.0,Lauren Boebert,Eileen Laubacher,Lauren Boebert,2.7,-14.0,not yet called
 Colorado 5,-5.0,Jeff Crank,Jessica Killin,Jeff Crank,15.5,-6.3,Democratic
 Colorado 6,11.0,Jason Crow,Jason Crow,Jason Clark,99.9,30.3,Democratic
@@ -113,7 +113,7 @@ Florida 5,-10.0,John Rutherford,Rachel Grage,John Rutherford,1.8,-15.9,Republica
 Florida 6,-14.0,Randy Fine,Eric Yonce,Randy Fine,0.4,-23.6,Republican
 Florida 7,-5.0,Cory Mills,Bale Dalton,Ryan Elijah,28.9,-3.3,not yet called
 Florida 8,-8.0,Mike Haridopolos,Jennifer Jenkins,Mike Haridopolos,4.2,-12.1,Republican
-Florida 9,-8.0,Darren Soto,Darren Soto,Dan Green,16.4,-6.1,not yet called
+Florida 9,-8.0,Darren Soto,Darren Soto,Dan Green,16.4,-6.1,Democratic
 Georgia 1,-8.0,Buddy Carter,Amanda Hollowell,Jim Kingston,8.3,-9.1,Republican
 Georgia 10,-11.0,Mike Collins,Pam Delancy,Houston Gaines,2.3,-14.8,Republican
 Georgia 11,-12.0,Barry Loudermilk,Chris Harden,John Cowan,1.5,-16.7,Republican
@@ -267,9 +267,9 @@ New York 16,18.0,George Latimer,George Latimer,Joseph Cinquemani,100.0,43.8,Demo
 New York 17,1.0,Mike Lawler,Cait Conley,Mike Lawler,80.0,5.2,Democratic
 New York 18,2.0,Pat Ryan,Pat Ryan,Jacqueline Auringer,96.7,13.1,Democratic
 New York 19,1.0,Josh Riley,Josh Riley,Peter Oberacker,94.9,11.2,Democratic
-New York 2,-6.0,Andrew Garbarino,Patrick Halpin,Andrew Garbarino,10.1,-8.3,not yet called
+New York 2,-6.0,Andrew Garbarino,Patrick Halpin,Andrew Garbarino,10.1,-8.3,Republican
 New York 20,8.0,Paul Tonko,Paul Tonko,Ralph Ambrosio,99.6,24.6,Democratic
-New York 21,-10.0,Elise Stefanik,Blake Gendebien,Anthony Constantino,3.5,-12.9,not yet called
+New York 21,-10.0,Elise Stefanik,Blake Gendebien,Anthony Constantino,3.5,-12.9,Republican
 New York 22,4.0,John Mannion,John Mannion,Kailee Buller,98.5,16.9,Democratic
 New York 23,-10.0,Nick Langworthy,Aaron Gies,Nick Langworthy,1.8,-15.9,Republican
 New York 24,-11.0,Claudia Tenney,Alissa Ellman,Claudia Tenney,1.2,-17.8,Republican
@@ -294,7 +294,7 @@ North Carolina 4,23.0,Valerie Foushee,Valerie Foushee,Max Ganorkar,100.0,53.3,De
 North Carolina 5,-9.0,Virginia Foxx,Chuck Hubbard,Virginia Foxx,2.7,-14.0,not yet called
 North Carolina 6,-9.0,Addison McDowell,Cyril Jefferson,Addison McDowell,2.7,-14.0,Democratic
 North Carolina 7,-7.0,David Rouzer,Kimberly Hardy,David Rouzer,6.5,-10.2,not yet called
-North Carolina 8,-10.0,Mark Harris,Colby Watson,Mark Harris,1.8,-15.9,not yet called
+North Carolina 8,-10.0,Mark Harris,Colby Watson,Mark Harris,1.8,-15.9,Republican
 North Carolina 9,-8.0,Richard Hudson,Richard Ojeda,Richard Hudson,4.2,-12.1,Democratic
 North Dakota at-large,-18.0,Julie Fedorchak,Trygve Hammer,Julie Fedorchak,0.1,-31.3,Republican
 Ohio 1,-1.0,Greg Landsman,Greg Landsman,Eric Conroy,87.6,7.3,Democratic
@@ -353,7 +353,7 @@ South Dakota at-large,-15.0,Dusty Johnson,Nikki Gronli,Marty Jackley,0.5,-22.5,R
 Tennessee 1,-29.0,Diana Harshbarger,Kristi Burke,Diana Harshbarger,0.0,-52.3,Republican
 Tennessee 2,-17.0,Tim Burchett,Michaela Barnett,Tim Burchett,0.2,-29.3,Republican
 Tennessee 3,-18.0,Chuck Fleischmann,Anna Golladay,Chuck Fleischmann,0.1,-31.3,Republican
-Tennessee 4,-11.0,Scott DesJarlais,Victoria Broderick,Scott DesJarlais,1.2,-17.8,not yet called
+Tennessee 4,-11.0,Scott DesJarlais,Victoria Broderick,Scott DesJarlais,1.2,-17.8,Democratic
 Tennessee 5,-10.0,Andy Ogles,Chaz Molder,Charlie Hatcher,3.5,-12.9,Republican
 Tennessee 6,-13.0,John Rose,Mike Croley,Johnny Garrett,1.0,-18.7,Republican
 Tennessee 7,-11.0,Matt Van Epps,Darden Copeland,Matt Van Epps,1.2,-17.8,Republican

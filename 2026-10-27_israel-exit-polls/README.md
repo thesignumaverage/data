@@ -6,7 +6,7 @@ The datasets behind this article from Signum Average. Each CSV in this folder is
 
 **Israel's exit polls: every channel's projection, 2003-2026.** Seats projected for each list by each television channel's exit poll, at the close of polls (first) and, where one was published, in the revised projection later in the night (updated). 2006 and the 2009 projections of Channels 1 and 10 cover only the largest lists.
 
-Coverage: Knesset elections of 2003, 2006, 2009, 2013, 2015, April 2019, September 2019, 2020, 2021, 2022 and 2026. Last updated: 2026-10-27.
+Coverage: Knesset elections of 2003, 2006, 2009, 2013, 2015, April 2019, September 2019, 2020, 2021, 2022 and 2026. Last updated: 2026-11-07.
 
 | Column | Description |
 |---|---|
@@ -46,7 +46,7 @@ Signum Average (2026) - "Israel's exit polls: every channel's projection, 2003-2
 
 **Israel's exit polls: final seats by list, 2003-2022.** Final votes, vote share and seats of every list named by a projection or that won seats, with the study's short name and Wikipedia's full name.
 
-Coverage: Knesset elections of 2003 to 2022. Last updated: 2026-10-27.
+Coverage: Knesset elections of 2003 to 2022. Last updated: 2026-11-07.
 
 | Column | Description |
 |---|---|
@@ -78,7 +78,7 @@ Signum Average (2026) - "Israel's exit polls: final seats by list, 2003-2022" [D
 
 **Israel's exit polls: how each list was counted on the night.** For each election, which lists the channels and the press counted as the right-religious bloc, the opposition bloc, or neither, with a note on the source. Fixed from the night's reports, not from the coalition formed later.
 
-Coverage: Knesset elections of 2003 to 2026. Last updated: 2026-10-27.
+Coverage: Knesset elections of 2003 to 2026. Last updated: 2026-11-07.
 
 | Column | Description |
 |---|---|
@@ -109,7 +109,7 @@ Signum Average (2026) - "Israel's exit polls: how each list was counted on the n
 
 **Israel's exit polls: the error of every projection.** For each full projection: seats placed with the wrong list, the mean and largest error across lists, the error on each bloc, whether the largest list was called right, and the lists called wrong at the threshold.
 
-Coverage: Knesset elections of 2003 to 2022. Last updated: 2026-10-27.
+Coverage: Knesset elections of 2003 to 2022. Last updated: 2026-11-07.
 
 | Column | Description |
 |---|---|
@@ -141,7 +141,7 @@ Signum Average (2026) - "Israel's exit polls: the error of every projection" [Da
 
 **Israel's exit polls: the three channels' average against the count.** The mean of the three main channels' first projections, by bloc, against the final count: the series the article's lead chart and forecast are built on.
 
-Coverage: Knesset elections of 2003 to 2026. Last updated: 2026-10-27.
+Coverage: Knesset elections of 2003 to 2026. Last updated: 2026-11-07.
 
 | Column | Description |
 |---|---|
@@ -172,7 +172,7 @@ Signum Average (2026) - "Israel's exit polls: the three channels' average agains
 
 **Israel's exit polls: the forecast's backtest.** For each past election, the lean and spread fitted on the other eight, and the log score of the final right-bloc seats with and without the lean correction, with whether the 90% range covered the result.
 
-Coverage: Knesset elections of 2003 to 2022, leave-one-out. Last updated: 2026-10-27.
+Coverage: Knesset elections of 2003 to 2022, leave-one-out. Last updated: 2026-11-07.
 
 | Column | Description |
 |---|---|
@@ -195,6 +195,41 @@ Signum Average (2026) - "Israel's exit polls: the forecast's backtest" [Dataset]
     title = {Israel's exit polls: the forecast's backtest},
     year = {2026},
     howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-27_israel-exit-polls/backtest.csv}},
+    note = {Dataset}
+}
+```
+
+## exit-polls-count-progress.csv
+
+**Israel's 2026 election: the partial count on the night.** Seats by bloc in the Central Elections Committee's partial count, read three times in the early hours after the 2026 election, used to show how far the early count was from the final one.
+
+Coverage: Knesset election of 27 October 2026; three readings of the partial count on 28 October. Last updated: 2026-11-07.
+
+| Column | Description |
+|---|---|
+| `read_at_israel_time_approx, share_counted_pct` | When the count was read (Israel time, approximate) and the share of the vote counted. |
+| `right_bloc, opposition_bloc, arab_lists` | Seats for Netanyahu's bloc, the other bloc and the Arab lists on the partial count. |
+| `likud, yashar, raam_pct` | Seats for the two largest lists and Ra'am's share of the vote, per cent. |
+| `source` | Where the reading was taken. |
+
+Sources:
+
+- Wikipedia, 2026 Israeli legislative election (results table, from the Central Elections Committee): https://en.wikipedia.org/wiki/2026_Israeli_legislative_election (CC BY-SA 4.0)
+
+Notes:
+
+- The final count (4 November 2026) is in results.csv.
+
+How to cite:
+
+Signum Average (2026) - "Israel's 2026 election: the partial count on the night" [Dataset] Published online at signumaverage.com. Retrieved from: https://github.com/thesignumaverage/data/blob/main/2026-10-27_israel-exit-polls/count_progress.csv
+
+```bibtex
+@misc{signumaverage-exit-polls-count-progress,
+    author = {{Signum Average}},
+    title = {Israel's 2026 election: the partial count on the night},
+    year = {2026},
+    howpublished = {\url{https://github.com/thesignumaverage/data/blob/main/2026-10-27_israel-exit-polls/count_progress.csv}},
     note = {Dataset}
 }
 ```
