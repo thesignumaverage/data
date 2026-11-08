@@ -17,6 +17,7 @@ The datasets behind Signum Average's articles and charts (signumaverage.com). Th
 | [`2026-10-30_midterm-turnout/`](2026-10-30_midterm-turnout/) | Reported turnout by age, every November election; Who makes up the midterm electorate, by age; How much each age group falls away in midterms; Reported turnout by single year of age, 2022; How far the survey overstates turnout; Turnout with and without the people who gave no answer; The age gap on citizens and on all adults |
 | [`2026-10-31_city-sprawl/`](2026-10-31_city-sprawl/) | The 25 largest metro areas of the US, Canada and Mexico, 1975-2025; Every metro area of the US, Canada and Mexico, 1975-2025; Largest metros by country, 1975-2025; Satellite-based residents against the 2020 census, US metros |
 | [`2026-11-06_midterms-scorecard/`](2026-11-06_midterms-scorecard/) | Our 2026 Senate forecast against the results; Our 2026 House forecast against the results |
+| [`2026-11-07_iran-nuclear/`](2026-11-07_iran-nuclear/) | Iran's enriched uranium, every IAEA report, 2003-2026; Iran's centrifuges by site and type, IAEA reports; Iran's nuclear milestones as first reported by the IAEA; Iran's nuclear programme: a sourced timeline, 2002-2026; Official estimates of Iran's breakout time, 2012-2026; The fatwa against nuclear weapons: statements, doubts and signals of change, 2003-2026; The steps to a nuclear weapon: where Iran stands, by public assessment; Iran's enrichment output and oil exports by sanctions period |
 
 ## Licence
 

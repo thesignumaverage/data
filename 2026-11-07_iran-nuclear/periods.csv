@@ -1,0 +1,8 @@
+period,name,start,end,oil_bpd,measure,from_report,from_date,from_kgU,to_report,to_date,to_kgU,kgU_per_month,high_from,high_to,high_from_date,high_to_date
+A,Before UN sanctions,2003-10-21,2006-12-22,2241971.8270276096,,,,,,,,,,,,
+B,UN sanctions build up,2006-12-23,2012-01-22,2128115.3372374796,made (cumulative output),GOV/2008/4,2007-12-12,50.7,GOV/2012/9,2012-02-04,3684.9,73.01983366336634,,,,
+C,"EU oil embargo, banks cut off",2012-01-23,2013-11-23,1389025.4576065573,made (cumulative output),GOV/2012/9,2012-02-04,3684.9,GOV/2013/56,2013-11-05,7001.3,157.736275,91.2,132.5,2012-11-09,2013-11-05
+D,Interim deal,2013-11-24,2016-01-15,1090088.6497982119,made (cumulative output),GOV/2013/56,2013-11-05,7001.3,GOV/2015/65,2015-10-31,10911.7,164.1828634482759,132.5,0.4,2013-11-05,2015-10-31
+E,2015 deal in force,2016-01-16,2019-05-07,1552253.9484573677,added to stock (net),GOV/2017/10,2017-02-18,101.7,GOV/2019/21,2019-05-20,174.1,2.6843556638246038,,,,
+F,"Maximum pressure, limits broken",2019-05-08,2025-06-12,984480.3917260322,added to stock (net),GOV/2019/21,2019-05-20,174.1,GOV/2025/50,2025-06-13,9874.9,133.2546714801444,17.6,625.0,2021-02-16,2025-06-13
+G,"Strikes, snapback, war",2025-06-13,2026-11-07,1551005.7121,,,,,,,,,,,,
