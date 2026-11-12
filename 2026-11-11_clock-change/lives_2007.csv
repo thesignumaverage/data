@@ -1,0 +1,4 @@
+hours,expected_new_rule,observed_new_rule,spared_a_year,low,high
+17:00-18:59,835.0,247.0,32.7,24.9,41.9
+06:00-07:59,126.3,272.0,-8.1,-10.7,-5.2
+net,,,24.6,16.4,34.1

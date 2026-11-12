@@ -1,0 +1,13 @@
+test,hours,ratio,low,high,counts,note
+"Autumn change, 1975-2024",17:00-18:59,3.637,3.404,3.886,5492 1838 4404 5361,"counts: band after, band before, 20:00-23:59 after, before"
+"Autumn change, 1975-2024",06:00-07:59,0.618,0.566,0.675,956 1883 4404 5361,"counts: band after, band before, 20:00-23:59 after, before"
+"Autumn change, 1975-1999",17:00-18:59,3.237,2.958,3.542,2902 1051 2275 2667,
+"Autumn change, 2000-2024",17:00-18:59,4.164,3.776,4.593,2590 787 2129 2694,
+"Autumn change, 1975-1999",06:00-07:59,0.613,0.54,0.695,462 884 2275 2667,
+"Autumn change, 2000-2024",06:00-07:59,0.626,0.554,0.707,494 999 2129 2694,
+"Spring change, 1975-2024",17:00-18:59,0.45,0.413,0.491,975 1836 5333 4522,
+"Spring change, 1975-2024",06:00-07:59,1.317,1.181,1.469,949 611 5333 4522,
+"2007 rule: moved week, new rule against old, relative to the two weeks after",17:00-18:59,0.296,0.238,0.367,247 703 697 545 1288 1087 1337 1048,"counts: moved new band, control; moved old band, control; after new band, control; after old band, control"
+"2007 rule: moved week, new rule against old, relative to the two weeks after",06:00-07:59,2.153,1.567,2.957,272 703 104 545 253 1087 259 1048,"counts: moved new band, control; moved old band, control; after new band, control; after old band, control"
+"Arizona and Hawaii (no clock change), autumn",17:00-18:59,1.831,1.332,2.517,175 119 147 183,
+"Arizona and Hawaii (no clock change), autumn",06:00-07:59,1.648,1.004,2.704,45 34 147 183,
